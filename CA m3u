@@ -1,0 +1,717 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="aptn.ca" tvg-name="CA : APTN" tvg-logo="" group-title="CANADA",CA : APTN
+http://xxip25.top:8080/s5pPNV/514479/57320
+
+#EXTINF:-1 tvg-id="" tvg-name="CA-NBA TV" tvg-logo="https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png" group-title="NBA",CA-NBA TV
+http://xxip25.top:8080/s5pPNV/514479/22995
+
+#EXTINF:-1 tvg-id="ytv.ca" tvg-name="CA YTV East " tvg-logo="" group-title="KIDS ZONE",CA YTV East 
+http://xxip25.top:8080/s5pPNV/514479/63850
+
+#EXTINF:-1 tvg-id="aande.ca" tvg-name="CA: A&E" tvg-logo="" group-title="CANADA",CA: A&E
+http://xxip25.top:8080/s5pPNV/514479/57476
+
+#EXTINF:-1 tvg-id="aande.ca" tvg-name="CA A&E " tvg-logo="" group-title="CANADA",CA A&E 
+http://xxip25.top:8080/s5pPNV/514479/57264
+
+#EXTINF:-1 tvg-id="abcspark.ca" tvg-name="CA: ABC SPARK" tvg-logo="" group-title="CANADA",CA: ABC SPARK
+http://xxip25.top:8080/s5pPNV/514479/57375
+
+#EXTINF:-1 tvg-id="amc.ca" tvg-name="CA: AMC" tvg-logo="" group-title="CANADA",CA: AMC
+http://xxip25.top:8080/s5pPNV/514479/57376
+
+#EXTINF:-1 tvg-id="24taas.ca" tvg-name="CA: Animal Planet" tvg-logo="" group-title="CANADA",CA: Animal Planet
+http://xxip25.top:8080/s5pPNV/514479/57377
+
+#EXTINF:-1 tvg-id="bnn.ca" tvg-name="CA: BNN Bloomberg HD" tvg-logo="" group-title="CANADA",CA: BNN Bloomberg HD
+http://xxip25.top:8080/s5pPNV/514479/57358
+
+#EXTINF:-1 tvg-id="bravo.us" tvg-name="CA: Bravo" tvg-logo="" group-title="CANADA",CA: Bravo
+http://xxip25.top:8080/s5pPNV/514479/57379
+
+#EXTINF:-1 tvg-id="cartoonnetwork.ca" tvg-name="CA Cartoon Network " tvg-logo="" group-title="KIDS ZONE",CA Cartoon Network 
+http://xxip25.top:8080/s5pPNV/514479/57380
+
+#EXTINF:-1 tvg-id="cartoonnetwork.ca" tvg-name="CA Cartoon Network (E)" tvg-logo="" group-title="KIDS ZONE",CA Cartoon Network (E)
+http://xxip25.top:8080/s5pPNV/514479/57356
+
+#EXTINF:-1 tvg-id="cbcnews.ca" tvg-name="CA CBC NEWS NETWORK (E)" tvg-logo="" group-title="CANADA",CA CBC NEWS NETWORK (E)
+http://xxip25.top:8080/s5pPNV/514479/57304
+
+#EXTINF:-1 tvg-id="cbccalgary.ca" tvg-name="CA CBC Calgary HD " tvg-logo="" group-title="CANADA",CA CBC Calgary HD 
+http://xxip25.top:8080/s5pPNV/514479/57381
+
+#EXTINF:-1 tvg-id="cbccharlottetown.ca" tvg-name="CA CBC Charlottetown HD (D)" tvg-logo="" group-title="CANADA",CA CBC Charlottetown HD (D)
+http://xxip25.top:8080/s5pPNV/514479/57382
+
+#EXTINF:-1 tvg-id="cbcedmonton.ca" tvg-name="CA: CBC Edmonton" tvg-logo="" group-title="CANADA",CA: CBC Edmonton
+http://xxip25.top:8080/s5pPNV/514479/57384
+
+#EXTINF:-1 tvg-id="cbchalifax.ca" tvg-name="CA CBC Halifax HD " tvg-logo="" group-title="CANADA",CA CBC Halifax HD 
+http://xxip25.top:8080/s5pPNV/514479/57385
+
+#EXTINF:-1 tvg-id="cbcmontreal.ca" tvg-name="CA CBC Montreal HD (D) " tvg-logo="" group-title="CANADA",CA CBC Montreal HD (D) 
+http://xxip25.top:8080/s5pPNV/514479/57387
+
+#EXTINF:-1 tvg-id="cbcottawa.ca" tvg-name="CA: CBC OTTAWA" tvg-logo="" group-title="CANADA",CA: CBC OTTAWA
+http://xxip25.top:8080/s5pPNV/514479/57305
+
+#EXTINF:-1 tvg-id="cbctoronto.ca" tvg-name="CA: CBC TORONTO" tvg-logo="" group-title="CANADA",CA: CBC TORONTO
+http://xxip25.top:8080/s5pPNV/514479/57306
+
+#EXTINF:-1 tvg-id="cbcvancouver.ca" tvg-name="CA: CBC Vancouver" tvg-logo="" group-title="CANADA",CA: CBC Vancouver
+http://xxip25.top:8080/s5pPNV/514479/57391
+
+#EXTINF:-1 tvg-id="chch.ca" tvg-name="CA CHCH (E)" tvg-logo="" group-title="CANADA",CA CHCH (E)
+http://xxip25.top:8080/s5pPNV/514479/57393
+
+#EXTINF:-1 tvg-id="chrgd.ca" tvg-name="CA: CHRGD" tvg-logo="" group-title="CANADA",CA: CHRGD
+http://xxip25.top:8080/s5pPNV/514479/75653
+
+#EXTINF:-1 tvg-id="citytvcalgary.ca" tvg-name="CA CITY TV CALGARY (E)" tvg-logo="" group-title="CANADA",CA CITY TV CALGARY (E)
+http://xxip25.top:8080/s5pPNV/514479/75652
+
+#EXTINF:-1 tvg-id="citytvtoronto.ca" tvg-name="CA City TV Toronto (D)" tvg-logo="" group-title="CANADA",CA City TV Toronto (D)
+http://xxip25.top:8080/s5pPNV/514479/57394
+
+#EXTINF:-1 tvg-id="citytvvancouverqc.ca" tvg-name="CA CITY TV VANCOUVER (E)" tvg-logo="" group-title="CANADA",CA CITY TV VANCOUVER (E)
+http://xxip25.top:8080/s5pPNV/514479/57395
+
+#EXTINF:-1 tvg-id="cmt.ca" tvg-name="CA CMT" tvg-logo="" group-title="CANADA",CA CMT
+http://xxip25.top:8080/s5pPNV/514479/57258
+
+#EXTINF:-1 tvg-id="cnn.ca" tvg-name="CA: CNN " tvg-logo="" group-title="CANADA",CA: CNN 
+http://xxip25.top:8080/s5pPNV/514479/57398
+
+#EXTINF:-1 tvg-id="cnn.ca" tvg-name="CA CNN " tvg-logo="" group-title="CANADA",CA CNN 
+http://xxip25.top:8080/s5pPNV/514479/47213
+
+#EXTINF:-1 tvg-id="cottagelife.ca" tvg-name="CA Cottage Life HD (B)" tvg-logo="" group-title="CANADA",CA Cottage Life HD (B)
+http://xxip25.top:8080/s5pPNV/514479/47217
+
+#EXTINF:-1 tvg-id="cablepulse24.ca" tvg-name="CA CP24 News HD (D)" tvg-logo="" group-title="CANADA",CA CP24 News HD (D)
+http://xxip25.top:8080/s5pPNV/514479/57357
+
+#EXTINF:-1 tvg-id="cablepulse24.ca" tvg-name="CA CP24 News HD (E)" tvg-logo="" group-title="CANADA",CA CP24 News HD (E)
+http://xxip25.top:8080/s5pPNV/514479/57401
+
+#EXTINF:-1 tvg-id="cablepulse24.ca" tvg-name="CA CP24 HD " tvg-logo="" group-title="CANADA",CA CP24 HD 
+http://xxip25.top:8080/s5pPNV/514479/57345
+
+#EXTINF:-1 tvg-id="cablepulse24.ca" tvg-name="CA: CP24 FHD" tvg-logo="" group-title="CANADA",CA: CP24 FHD
+http://xxip25.top:8080/s5pPNV/514479/47218
+
+#EXTINF:-1 tvg-id="cablepulse24.ca" tvg-name="CA: CP24 HD" tvg-logo="" group-title="CANADA",CA: CP24 HD
+http://xxip25.top:8080/s5pPNV/514479/57257
+
+#EXTINF:-1 tvg-id="cpacottawaen.ca" tvg-name="CA: CPAC" tvg-logo="" group-title="CANADA",CA: CPAC
+http://xxip25.top:8080/s5pPNV/514479/57402
+
+#EXTINF:-1 tvg-id="cpacottawaen.ca" tvg-name="CA: CPAC English" tvg-logo="" group-title="CANADA",CA: CPAC English
+http://xxip25.top:8080/s5pPNV/514479/57352
+
+#EXTINF:-1 tvg-id="cpac.ca" tvg-name="CA CPAC HD " tvg-logo="" group-title="CANADA",CA CPAC HD 
+http://xxip25.top:8080/s5pPNV/514479/57351
+
+#EXTINF:-1 tvg-id="crave1.ca" tvg-name="CA: CRAVE 1 HD" tvg-logo="" group-title="CANADA",CA: CRAVE 1 HD
+http://xxip25.top:8080/s5pPNV/514479/57309
+
+#EXTINF:-1 tvg-id="crave2.ca" tvg-name="CA: CRAVE 2 HD" tvg-logo="" group-title="CANADA",CA: CRAVE 2 HD
+http://xxip25.top:8080/s5pPNV/514479/57310
+
+#EXTINF:-1 tvg-id="crave3.ca" tvg-name="CA: CRAVE 3" tvg-logo="" group-title="CANADA",CA: CRAVE 3
+http://xxip25.top:8080/s5pPNV/514479/57322
+
+#EXTINF:-1 tvg-id="crave4.ca" tvg-name="CA: CRAVE 4 HD" tvg-logo="" group-title="CANADA",CA: CRAVE 4 HD
+http://xxip25.top:8080/s5pPNV/514479/57311
+
+#EXTINF:-1 tvg-id="crimeinvestigation.ca" tvg-name="CA: CRIME & INVESTIGATION" tvg-logo="" group-title="CANADA",CA: CRIME & INVESTIGATION
+http://xxip25.top:8080/s5pPNV/514479/57256
+
+#EXTINF:-1 tvg-id="ctvatlantic.ca" tvg-name="CA CTV Two Atlantic " tvg-logo="" group-title="CANADA",CA CTV Two Atlantic 
+http://xxip25.top:8080/s5pPNV/514479/79547
+
+#EXTINF:-1 tvg-id="ctvcalgary.ca" tvg-name="CA CTV CALGARY (E)" tvg-logo="" group-title="CANADA",CA CTV CALGARY (E)
+http://xxip25.top:8080/s5pPNV/514479/57964
+
+#EXTINF:-1 tvg-id="ctvcomedyeast.ca" tvg-name="CA CTV Comedy Channel " tvg-logo="" group-title="CANADA",CA CTV Comedy Channel 
+http://xxip25.top:8080/s5pPNV/514479/57408
+
+#EXTINF:-1 tvg-id="ctvdramachannel.ca" tvg-name="CA CTV Drama Channel (R)" tvg-logo="" group-title="CANADA",CA CTV Drama Channel (R)
+http://xxip25.top:8080/s5pPNV/514479/57254
+
+#EXTINF:-1 tvg-id="ctvedmonton.ca" tvg-name="CA CTV Edmonton Alberta HD (D)" tvg-logo="" group-title="CANADA",CA CTV Edmonton Alberta HD (D)
+http://xxip25.top:8080/s5pPNV/514479/58725
+
+#EXTINF:-1 tvg-id="ctvhalifax.ca" tvg-name="CA CTV Halifax Nova Scotia HD " tvg-logo="" group-title="CANADA",CA CTV Halifax Nova Scotia HD 
+http://xxip25.top:8080/s5pPNV/514479/57410
+
+#EXTINF:-1 tvg-id="ctvkitchener.ca" tvg-name="CA CTV Kitchener " tvg-logo="" group-title="CANADA",CA CTV Kitchener 
+http://xxip25.top:8080/s5pPNV/514479/58557
+
+#EXTINF:-1 tvg-id="ctv2london.ca" tvg-name="CA CTV 2 London HD " tvg-logo="" group-title="CANADA",CA CTV 2 London HD 
+http://xxip25.top:8080/s5pPNV/514479/58546
+
+#EXTINF:-1 tvg-id="ctvmontreal.ca" tvg-name="CA CTV Montreal HD " tvg-logo="" group-title="CANADA",CA CTV Montreal HD 
+http://xxip25.top:8080/s5pPNV/514479/47234
+
+#EXTINF:-1 tvg-id="ctvnews.ca" tvg-name="CA: CTV NEWS CHANNEL HD" tvg-logo="" group-title="CANADA",CA: CTV NEWS CHANNEL HD
+http://xxip25.top:8080/s5pPNV/514479/57350
+
+#EXTINF:-1 tvg-id="ctvottawa.ca" tvg-name="CA: CTV OTTAWA" tvg-logo="" group-title="CANADA",CA: CTV OTTAWA
+http://xxip25.top:8080/s5pPNV/514479/47237
+
+#EXTINF:-1 tvg-id="ctvregina.ca" tvg-name="CA CTV Regina Saskatchewan HD (D)" tvg-logo="" group-title="CANADA",CA CTV Regina Saskatchewan HD (D)
+http://xxip25.top:8080/s5pPNV/514479/66381
+
+#EXTINF:-1 tvg-id="ctv.saskatoon.ca" tvg-name="CA CTV Saskatoon Saskatchewan HD (D)" tvg-logo="" group-title="CANADA",CA CTV Saskatoon Saskatchewan HD (D)
+http://xxip25.top:8080/s5pPNV/514479/66382
+
+#EXTINF:-1 tvg-id="ctvscifichannel.ca" tvg-name="CA CTV Sci-Fi Channel (B)" tvg-logo="" group-title="CANADA",CA CTV Sci-Fi Channel (B)
+http://xxip25.top:8080/s5pPNV/514479/57253
+
+#EXTINF:-1 tvg-id="ctvtoronto.ca" tvg-name="CA CTV Toronto HD (R)" tvg-logo="" group-title="CANADA",CA CTV Toronto HD (R)
+http://xxip25.top:8080/s5pPNV/514479/47296
+
+#EXTINF:-1 tvg-id="ctvvancouver.ca" tvg-name="CA: CTV2 Vancouver" tvg-logo="" group-title="CANADA",CA: CTV2 Vancouver
+http://xxip25.top:8080/s5pPNV/514479/57316
+
+#EXTINF:-1 tvg-id="ctv2windsor.ca" tvg-name="CA CTV2 Windsor HD (B)" tvg-logo="" group-title="CANADA",CA CTV2 Windsor HD (B)
+http://xxip25.top:8080/s5pPNV/514479/77165
+
+#EXTINF:-1 tvg-id="ctv2barrie.ca" tvg-name="CA CTV Barrie Ontario HD " tvg-logo="" group-title="CANADA",CA CTV Barrie Ontario HD 
+http://xxip25.top:8080/s5pPNV/514479/57373
+
+#EXTINF:-1 tvg-id="discoverychannel.ca" tvg-name="CA Discovery Channel " tvg-logo="" group-title="CANADA",CA Discovery Channel 
+http://xxip25.top:8080/s5pPNV/514479/57252
+
+#EXTINF:-1 tvg-id="discoveryscience.ca" tvg-name="CA: Discovery Science" tvg-logo="" group-title="CANADA",CA: Discovery Science
+http://xxip25.top:8080/s5pPNV/514479/57418
+
+#EXTINF:-1 tvg-id="disneyjunior.us" tvg-name="CA Disney Junior " tvg-logo="" group-title="KIDS ZONE",CA Disney Junior 
+http://xxip25.top:8080/s5pPNV/514479/57349
+
+#EXTINF:-1 tvg-id="disneyxd.ca" tvg-name="CA Disney XD (R)" tvg-logo="" group-title="KIDS ZONE",CA Disney XD (R)
+http://xxip25.top:8080/s5pPNV/514479/57420
+
+#EXTINF:-1 tvg-id="24taas.ca" tvg-name="CA: DIY NETWORK FHD" tvg-logo="" group-title="CANADA",CA: DIY NETWORK FHD
+http://xxip25.top:8080/s5pPNV/514479/47258
+
+#EXTINF:-1 tvg-id="dtour.ca" tvg-name="CA: DTOUR HD" tvg-logo="" group-title="CANADA",CA: DTOUR HD
+http://xxip25.top:8080/s5pPNV/514479/57250
+
+#EXTINF:-1 tvg-id="eentertainment.ca" tvg-name="CA E! (R)" tvg-logo="" group-title="CANADA",CA E! (R)
+http://xxip25.top:8080/s5pPNV/514479/57422
+
+#EXTINF:-1 tvg-id="eentertainment.ca" tvg-name="CA: E! CANADA HD" tvg-logo="" group-title="CANADA",CA: E! CANADA HD
+http://xxip25.top:8080/s5pPNV/514479/57249
+
+#EXTINF:-1 tvg-id="discoveryfamilia.us" tvg-name="US Discovery Family " tvg-logo="" group-title="KIDS ZONE",US Discovery Family 
+http://xxip25.top:8080/s5pPNV/514479/57347
+
+#EXTINF:-1 tvg-id="familyjr.ca" tvg-name="CA: Family Jr HD" tvg-logo="" group-title="KIDS ZONE",CA: Family Jr HD
+http://xxip25.top:8080/s5pPNV/514479/57346
+
+#EXTINF:-1 tvg-id="24taas.ca" tvg-name="CA Food Network" tvg-logo="" group-title="CANADA",CA Food Network
+http://xxip25.top:8080/s5pPNV/514479/57247
+
+#EXTINF:-1 tvg-id="foxnews.us" tvg-name="CA FOX NEWS" tvg-logo="" group-title="CANADA",CA FOX NEWS
+http://xxip25.top:8080/s5pPNV/514479/47281
+
+#EXTINF:-1 tvg-id="fx.ca" tvg-name="CA: FX HD" tvg-logo="" group-title="CANADA",CA: FX HD
+http://xxip25.top:8080/s5pPNV/514479/57268
+
+#EXTINF:-1 tvg-id="fxx.ca" tvg-name="CA FXX " tvg-logo="" group-title="CANADA",CA FXX 
+http://xxip25.top:8080/s5pPNV/514479/57429
+
+#EXTINF:-1 tvg-id="gameshownetwork.ca" tvg-name="CA Game Show Network HD " tvg-logo="" group-title="CANADA",CA Game Show Network HD 
+http://xxip25.top:8080/s5pPNV/514479/57430
+
+#EXTINF:-1 tvg-id="ginxesportstvcanada.ca" tvg-name="CA: Ginx esports TV" tvg-logo="" group-title="CANADA",CA: Ginx esports TV
+http://xxip25.top:8080/s5pPNV/514479/57431
+
+#EXTINF:-1 tvg-id="global.kingston.on.ca" tvg-name="CA Global News Kingston (D)" tvg-logo="" group-title="CANADA",CA Global News Kingston (D)
+http://xxip25.top:8080/s5pPNV/514479/57432
+
+#EXTINF:-1 tvg-id="globaledmonton.ca" tvg-name="CA Global Edmonton News (E)" tvg-logo="" group-title="CANADA",CA Global Edmonton News (E)
+http://xxip25.top:8080/s5pPNV/514479/58724
+
+#EXTINF:-1 tvg-id="hlobalhalifaxCIHF.ca" tvg-name="CA: Global Halifax News" tvg-logo="" group-title="CANADA",CA: Global Halifax News
+http://xxip25.top:8080/s5pPNV/514479/57434
+
+#EXTINF:-1 tvg-id="globalregina.ca" tvg-name="CA Global News Regina (D)" tvg-logo="" group-title="CANADA",CA Global News Regina (D)
+http://xxip25.top:8080/s5pPNV/514479/66384
+
+#EXTINF:-1 tvg-id="globalsaskatoon.ca" tvg-name="CA Global Saskatoon (B)" tvg-logo="" group-title="CANADA",CA Global Saskatoon (B)
+http://xxip25.top:8080/s5pPNV/514479/66383
+
+#EXTINF:-1 tvg-id="globaltoronto.ca" tvg-name="CA GLOBAL TORONTO" tvg-logo="" group-title="CANADA",CA GLOBAL TORONTO
+http://xxip25.top:8080/s5pPNV/514479/57435
+
+#EXTINF:-1 tvg-id="globaltoronto.ca" tvg-name="CA: GLOBAL TORONTO" tvg-logo="" group-title="CANADA",CA: GLOBAL TORONTO
+http://xxip25.top:8080/s5pPNV/514479/57302
+
+#EXTINF:-1 tvg-id="globalbc.ca" tvg-name="CA: Global Vancouver" tvg-logo="" group-title="CANADA",CA: Global Vancouver
+http://xxip25.top:8080/s5pPNV/514479/57436
+
+#EXTINF:-1 tvg-id="golfchannel.us" tvg-name="CA: Golf Channel HD" tvg-logo="" group-title="CANADA",CA: Golf Channel HD
+http://xxip25.top:8080/s5pPNV/514479/57362
+
+#EXTINF:-1 tvg-id="hbo.ca" tvg-name="CA: HBO 1 " tvg-logo="" group-title="CANADA",CA: HBO 1 
+http://xxip25.top:8080/s5pPNV/514479/57437
+
+#EXTINF:-1 tvg-id="hbo2.ca" tvg-name="CA HBO 2 (R)" tvg-logo="" group-title="CANADA",CA HBO 2 (R)
+http://xxip25.top:8080/s5pPNV/514479/57438
+
+#EXTINF:-1 tvg-id="hgtv.ca" tvg-name="CA HGTV " tvg-logo="" group-title="CANADA",CA HGTV 
+http://xxip25.top:8080/s5pPNV/514479/57273
+
+#EXTINF:-1 tvg-id="historychannel.ca" tvg-name="CA HISTORY " tvg-logo="" group-title="CANADA",CA HISTORY 
+http://xxip25.top:8080/s5pPNV/514479/47302
+
+#EXTINF:-1 tvg-id="historychannel.ca" tvg-name="CA HISTORY (E)" tvg-logo="" group-title="CANADA",CA HISTORY (E)
+http://xxip25.top:8080/s5pPNV/514479/57272
+
+#EXTINF:-1 tvg-id="hln.ca" tvg-name="CA: HLN" tvg-logo="" group-title="CANADA",CA: HLN
+http://xxip25.top:8080/s5pPNV/514479/57441
+
+#EXTINF:-1 tvg-id="investigationdiscovery.ca" tvg-name="CA Investigation Discovery HD (E)" tvg-logo="" group-title="CANADA",CA Investigation Discovery HD (E)
+http://xxip25.top:8080/s5pPNV/514479/57442
+
+#EXTINF:-1 tvg-id="lifetimetv.ca" tvg-name="CA Lifetime " tvg-logo="" group-title="CANADA",CA Lifetime 
+http://xxip25.top:8080/s5pPNV/514479/57271
+
+#EXTINF:-1 tvg-id="a3cine.us" tvg-name="CA: Lifetime Movie Network" tvg-logo="" group-title="CANADA",CA: Lifetime Movie Network
+http://xxip25.top:8080/s5pPNV/514479/57444
+
+#EXTINF:-1 tvg-id="lovenature.ca" tvg-name="CA Love Nature HD " tvg-logo="" group-title="CANADA",CA Love Nature HD 
+http://xxip25.top:8080/s5pPNV/514479/47324
+
+#EXTINF:-1 tvg-id="makeful.ca" tvg-name="CA: MAKEFUL" tvg-logo="" group-title="CANADA",CA: MAKEFUL
+http://xxip25.top:8080/s5pPNV/514479/57270
+
+#EXTINF:-1 tvg-id="movietime.ca" tvg-name="CA: MOVIETIME HD" tvg-logo="" group-title="CANADA",CA: MOVIETIME HD
+http://xxip25.top:8080/s5pPNV/514479/47331
+
+#EXTINF:-1 tvg-id="msnbc.us" tvg-name="CA MSNBC (R)" tvg-logo="" group-title="CANADA",CA MSNBC (R)
+http://xxip25.top:8080/s5pPNV/514479/47332
+
+#EXTINF:-1 tvg-id="mtv.ca" tvg-name="CA: MTV" tvg-logo="" group-title="CANADA",CA: MTV
+http://xxip25.top:8080/s5pPNV/514479/57446
+
+#EXTINF:-1 tvg-id="mtv2.ca" tvg-name="CA MTV2 (E)" tvg-logo="" group-title="CANADA",CA MTV2 (E)
+http://xxip25.top:8080/s5pPNV/514479/57447
+
+#EXTINF:-1 tvg-id="mtv.ca" tvg-name="CA: MTV HD" tvg-logo="" group-title="CANADA",CA: MTV HD
+http://xxip25.top:8080/s5pPNV/514479/57368
+
+#EXTINF:-1 tvg-id="natgeo.ca" tvg-name="CA: National Geographics" tvg-logo="" group-title="CANADA",CA: National Geographics
+http://xxip25.top:8080/s5pPNV/514479/57281
+
+#EXTINF:-1 tvg-id="natgeowild.ca" tvg-name="CA National Geographic Wild " tvg-logo="" group-title="CANADA",CA National Geographic Wild 
+http://xxip25.top:8080/s5pPNV/514479/57280
+
+#EXTINF:-1 tvg-id="nflnetworkcanada.ca" tvg-name="CA: NFL NETWORK HD" tvg-logo="" group-title="CANADA",CA: NFL NETWORK HD
+http://xxip25.top:8080/s5pPNV/514479/47346
+
+#EXTINF:-1 tvg-id="nickelodeon.ca" tvg-name="CA Nickelodeon (R)" tvg-logo="" group-title="KIDS ZONE",CA Nickelodeon (R)
+http://xxip25.top:8080/s5pPNV/514479/47349
+
+#EXTINF:-1 tvg-id="" tvg-name="CA (ZH) NTD (E)" tvg-logo="" group-title="CANADA",CA (ZH) NTD (E)
+http://xxip25.top:8080/s5pPNV/514479/58023
+
+#EXTINF:-1 tvg-id="ntvcjon.ca" tvg-name="CA NTV St. John`s " tvg-logo="" group-title="CANADA",CA NTV St. John`s 
+http://xxip25.top:8080/s5pPNV/514479/57478
+
+#EXTINF:-1 tvg-id="outdoorlife.ca" tvg-name="CA OLN (E)" tvg-logo="" group-title="CANADA",CA OLN (E)
+http://xxip25.top:8080/s5pPNV/514479/57366
+
+#EXTINF:-1 tvg-id="omni1.ca" tvg-name="CA: OMNI1 HD" tvg-logo="" group-title="CANADA",CA: OMNI1 HD
+http://xxip25.top:8080/s5pPNV/514479/57365
+
+#EXTINF:-1 tvg-id="oprahwinfreynetwork.ca" tvg-name="CA OWN " tvg-logo="" group-title="CANADA",CA OWN 
+http://xxip25.top:8080/s5pPNV/514479/57277
+
+#EXTINF:-1 tvg-id="5.ca" tvg-name="CA: PBS HD" tvg-logo="" group-title="CANADA",CA: PBS HD
+http://xxip25.top:8080/s5pPNV/514479/57276
+
+#EXTINF:-1 tvg-id="peachtree.ca" tvg-name="CA Peachtree TV HD (R)" tvg-logo="" group-title="CANADA",CA Peachtree TV HD (R)
+http://xxip25.top:8080/s5pPNV/514479/47362
+
+#EXTINF:-1 tvg-id="showcase.ca" tvg-name="CA: Showcase HD" tvg-logo="" group-title="CANADA",CA: Showcase HD
+http://xxip25.top:8080/s5pPNV/514479/47366
+
+#EXTINF:-1 tvg-id="slice.ca" tvg-name="CA Slice TV " tvg-logo="" group-title="CANADA",CA Slice TV 
+http://xxip25.top:8080/s5pPNV/514479/57274
+
+#EXTINF:-1 tvg-id="smithsonian.ca" tvg-name="CA Smithsonian Channel (B)" tvg-logo="" group-title="CANADA",CA Smithsonian Channel (B)
+http://xxip25.top:8080/s5pPNV/514479/47369
+
+#EXTINF:-1 tvg-id="sportsnet360.ca" tvg-name="CA Sportsnet 360 (HD)" tvg-logo="" group-title="CANADA",CA Sportsnet 360 (HD)
+http://xxip25.top:8080/s5pPNV/514479/57299
+
+#EXTINF:-1 tvg-id="sportsneteast.ca" tvg-name="CA Sportsnet East HD (F)" tvg-logo="" group-title="CANADA",CA Sportsnet East HD (F)
+http://xxip25.top:8080/s5pPNV/514479/57298
+
+#EXTINF:-1 tvg-id="sportsnetone.ca" tvg-name="CA Sportsnet One (FHD) " tvg-logo="" group-title="CANADA",CA Sportsnet One (FHD) 
+http://xxip25.top:8080/s5pPNV/514479/57297
+
+#EXTINF:-1 tvg-id="sportsnetone.ca" tvg-name="CA Sportsnet One (HD) " tvg-logo="" group-title="CANADA",CA Sportsnet One (HD) 
+http://xxip25.top:8080/s5pPNV/514479/47379
+
+#EXTINF:-1 tvg-id="sportsnetontario.ca" tvg-name="CA: Sportsnet Ontario" tvg-logo="" group-title="CANADA",CA: Sportsnet Ontario
+http://xxip25.top:8080/s5pPNV/514479/57463
+
+#EXTINF:-1 tvg-id="sportsnetontario.ca" tvg-name="CA Sportsnet Ontario HD " tvg-logo="" group-title="CANADA",CA Sportsnet Ontario HD 
+http://xxip25.top:8080/s5pPNV/514479/57296
+
+#EXTINF:-1 tvg-id="2mmaroc.ca" tvg-name="CA Sportsnet Pacific HD" tvg-logo="" group-title="CANADA",CA Sportsnet Pacific HD
+http://xxip25.top:8080/s5pPNV/514479/47387
+
+#EXTINF:-1 tvg-id="sportsnetwest.ca" tvg-name="CA: SPORTSNET WEST" tvg-logo="" group-title="CANADA",CA: SPORTSNET WEST
+http://xxip25.top:8080/s5pPNV/514479/57300
+
+#EXTINF:-1 tvg-id="syfy.us" tvg-name="CA CTV SCI-FI " tvg-logo="" group-title="CANADA",CA CTV SCI-FI 
+http://xxip25.top:8080/s5pPNV/514479/57464
+
+#EXTINF:-1 tvg-id="teletoon.ca" tvg-name="CA Teletoon East (E)" tvg-logo="" group-title="KIDS ZONE",CA Teletoon East (E)
+http://xxip25.top:8080/s5pPNV/514479/57372
+
+#EXTINF:-1 tvg-id="tlc.ca" tvg-name="CA TLC " tvg-logo="" group-title="CANADA",CA TLC 
+http://xxip25.top:8080/s5pPNV/514479/57290
+
+#EXTINF:-1 tvg-id="treehouse.ca" tvg-name="CA Treehouse (R)" tvg-logo="" group-title="KIDS ZONE",CA Treehouse (R)
+http://xxip25.top:8080/s5pPNV/514479/57371
+
+#EXTINF:-1 tvg-id="todaysshoppingchoice.ca" tvg-name="CA : The Shopping Channel (B)" tvg-logo="" group-title="CANADA",CA : The Shopping Channel (B)
+http://xxip25.top:8080/s5pPNV/514479/57370
+
+#EXTINF:-1 tvg-id="tsn1.ca" tvg-name="CA TSN 1 (R)" tvg-logo="" group-title="CANADA",CA TSN 1 (R)
+http://xxip25.top:8080/s5pPNV/514479/47440
+
+#EXTINF:-1 tvg-id="tsn2.ca" tvg-name="CA TSN 2 HD " tvg-logo="" group-title="CANADA",CA TSN 2 HD 
+http://xxip25.top:8080/s5pPNV/514479/47442
+
+#EXTINF:-1 tvg-id="tsn3.ca" tvg-name="CA TSN 3 HD " tvg-logo="" group-title="CANADA",CA TSN 3 HD 
+http://xxip25.top:8080/s5pPNV/514479/47444
+
+#EXTINF:-1 tvg-id="tsn4.ca" tvg-name="CA TSN 4 " tvg-logo="" group-title="CANADA",CA TSN 4 
+http://xxip25.top:8080/s5pPNV/514479/66783
+
+#EXTINF:-1 tvg-id="tsn4.ca" tvg-name="CA TSN 4 (B)" tvg-logo="" group-title="CANADA",CA TSN 4 (B)
+http://xxip25.top:8080/s5pPNV/514479/47446
+
+#EXTINF:-1 tvg-id="tsn5.ca" tvg-name="CA TSN 5 " tvg-logo="" group-title="CANADA",CA TSN 5 
+http://xxip25.top:8080/s5pPNV/514479/57467
+
+#EXTINF:-1 tvg-id="tsn5.ca" tvg-name="CA TSN 5 " tvg-logo="" group-title="CANADA",CA TSN 5 
+http://xxip25.top:8080/s5pPNV/514479/57295
+
+#EXTINF:-1 tvg-id="tvo.ca" tvg-name="CA: TV Ontario HD" tvg-logo="" group-title="CANADA",CA: TV Ontario HD
+http://xxip25.top:8080/s5pPNV/514479/57369
+
+#EXTINF:-1 tvg-id="vision.ca" tvg-name="CA: Vision" tvg-logo="" group-title="CANADA",CA: Vision
+http://xxip25.top:8080/s5pPNV/514479/57468
+
+#EXTINF:-1 tvg-id="wnetwork.ca" tvg-name="CA W Network East (E)" tvg-logo="" group-title="CANADA",CA W Network East (E)
+http://xxip25.top:8080/s5pPNV/514479/57284
+
+#EXTINF:-1 tvg-id="theweathernetwork.ca" tvg-name="CA: Weather Network Toronto" tvg-logo="" group-title="CANADA",CA: Weather Network Toronto
+http://xxip25.top:8080/s5pPNV/514479/57470
+
+#EXTINF:-1 tvg-id="wfn.world.fishing.network.ca" tvg-name="CA: World Fishing Network" tvg-logo="" group-title="CANADA",CA: World Fishing Network
+http://xxip25.top:8080/s5pPNV/514479/57471
+
+#EXTINF:-1 tvg-id="yestv.ca" tvg-name="CA YES TV " tvg-logo="" group-title="CANADA",CA YES TV 
+http://xxip25.top:8080/s5pPNV/514479/57472
+
+#EXTINF:-1 tvg-id="skyaction.uk" tvg-name="UK: SKY CINEMA ACTION FHD" tvg-logo="" group-title="MOVIE NETWORKS",UK: SKY CINEMA ACTION FHD
+http://xxip25.top:8080/s5pPNV/514479/35254
+
+#EXTINF:-1 tvg-id="skydrama.uk" tvg-name="UK MOVIES: SKY CINEMA DRAMA" tvg-logo="" group-title="MOVIE NETWORKS",UK MOVIES: SKY CINEMA DRAMA
+http://xxip25.top:8080/s5pPNV/514479/35251
+
+#EXTINF:-1 tvg-id="skyscifihorror.uk" tvg-name="UK Sky Cinema Scifi & Horror FHD  " tvg-logo="" group-title="MOVIE NETWORKS",UK Sky Cinema Scifi & Horror FHD  
+http://xxip25.top:8080/s5pPNV/514479/35248
+
+#EXTINF:-1 tvg-id="skycomedy.uk" tvg-name="UK MOVIES: SKY COMEDY" tvg-logo="" group-title="MOVIE NETWORKS",UK MOVIES: SKY COMEDY
+http://xxip25.top:8080/s5pPNV/514479/35253
+
+#EXTINF:-1 tvg-id="skythriller.uk" tvg-name="UK MOVIES: SKY CRIME THRILLER" tvg-logo="" group-title="MOVIE NETWORKS",UK MOVIES: SKY CRIME THRILLER
+http://xxip25.top:8080/s5pPNV/514479/35252
+
+#EXTINF:-1 tvg-id="skygreats.uk" tvg-name="UK MOVIES: SKY GREATS" tvg-logo="" group-title="MOVIE NETWORKS",UK MOVIES: SKY GREATS
+http://xxip25.top:8080/s5pPNV/514479/35249
+
+#EXTINF:-1 tvg-id="skypremiere.uk" tvg-name="UK-Sky Cinema Premier" tvg-logo="" group-title="MOVIE NETWORKS",UK-Sky Cinema Premier
+http://xxip25.top:8080/s5pPNV/514479/35256
+
+#EXTINF:-1 tvg-id="sony.us" tvg-name="US SONY Movies FHD " tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/o/1/1374.1569972429.png" group-title="MOVIE NETWORKS",US SONY Movies FHD 
+http://xxip25.top:8080/s5pPNV/514479/2214
+
+#EXTINF:-1 tvg-id="discoverychannel.us" tvg-name="US Disney Channel East (A)" tvg-logo="https://logodix.com/logo/619307.png" group-title="KIDS ZONE",US Disney Channel East (A)
+http://xxip25.top:8080/s5pPNV/514479/2206
+
+#EXTINF:-1 tvg-id="disneychannel.us" tvg-name="US: Disney XD" tvg-logo="" group-title="KIDS ZONE",US: Disney XD
+http://xxip25.top:8080/s5pPNV/514479/75621
+
+#EXTINF:-1 tvg-id="lifetimemovies.us" tvg-name="US Lifetime Movies " tvg-logo="https://findvectorlogo.com/wp-content/uploads/2020/01/lifetime-movies-vector-logo.png" group-title="MOVIE NETWORKS",US Lifetime Movies 
+http://xxip25.top:8080/s5pPNV/514479/20863
+
+#EXTINF:-1 tvg-id="nicktoons.us" tvg-name="US NickToons " tvg-logo="https://juicetv.app/channellogo/nickelodeon.png" group-title="KIDS ZONE",US NickToons 
+http://xxip25.top:8080/s5pPNV/514479/36
+
+#EXTINF:-1 tvg-id="starzencoreblack.us" tvg-name="US STARZ ENCORE Black" tvg-logo="https://thestreamable.com/media/pages/news/flash-sale-get-6-months-of-starz-for-only-3-33-a-month-so-you-can-binge-power-outlander-and-american-gods/3821036974-1583185843/starz.png" group-title="MOVIE NETWORKS",US STARZ ENCORE Black
+http://xxip25.top:8080/s5pPNV/514479/16141
+
+#EXTINF:-1 tvg-id="disneyjunior.us" tvg-name="USA-Disney Jr" tvg-logo="" group-title="KIDS ZONE",USA-Disney Jr
+http://xxip25.top:8080/s5pPNV/514479/41960
+
+#EXTINF:-1 tvg-id="nickelodeon.us" tvg-name="US Nickelodeon East (A)" tvg-logo="" group-title="KIDS ZONE",US Nickelodeon East (A)
+http://xxip25.top:8080/s5pPNV/514479/38
+
+#EXTINF:-1 tvg-id="showtimenext.us" tvg-name="USA:  Showtime NEXT" tvg-logo="https://s4827.pcdn.co/wp-content/uploads/2015/06/Showtime-sho-logo.png" group-title="MOVIE NETWORKS",USA:  Showtime NEXT
+http://xxip25.top:8080/s5pPNV/514479/9316
+
+#EXTINF:-1 tvg-id="starzedge.us" tvg-name="USA:  STARZ EDGE " tvg-logo="https://thestreamable.com/media/pages/news/flash-sale-get-6-months-of-starz-for-only-3-33-a-month-so-you-can-binge-power-outlander-and-american-gods/3821036974-1583185843/starz.png" group-title="MOVIE NETWORKS",USA:  STARZ EDGE 
+http://xxip25.top:8080/s5pPNV/514479/16143
+
+#EXTINF:-1 tvg-id="5starmax.us" tvg-name="US 5 StarMax" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/5max.png" group-title="MOVIE NETWORKS",US 5 StarMax
+http://xxip25.top:8080/s5pPNV/514479/13381
+
+#EXTINF:-1 tvg-id="actionmaxpacific.us" tvg-name="US ActionMAX (East) " tvg-logo="" group-title="MOVIE NETWORKS",US ActionMAX (East) 
+http://xxip25.top:8080/s5pPNV/514479/21013
+
+#EXTINF:-1 tvg-id="boomerang.us" tvg-name="US Boomerang " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/758px-Boomerang_tv_logo.png" group-title="KIDS ZONE",US Boomerang 
+http://xxip25.top:8080/s5pPNV/514479/14741
+
+#EXTINF:-1 tvg-id="cinemax.us" tvg-name="US Cinemax (East) " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="MOVIE NETWORKS",US Cinemax (East) 
+http://xxip25.top:8080/s5pPNV/514479/13380
+
+#EXTINF:-1 tvg-id="epix.us" tvg-name="US EPIX (East) " tvg-logo="https://seeklogo.com/images/E/epix-entertainment-llc-logo-98DC100C56-seeklogo.com.png" group-title="MOVIE NETWORKS",US EPIX (East) 
+http://xxip25.top:8080/s5pPNV/514479/13214
+
+#EXTINF:-1 tvg-id="epixdrivein.us" tvg-name="US Epix Drive IN (S)" tvg-logo="https://logodix.com/logo/1104724.png" group-title="MOVIE NETWORKS",US Epix Drive IN (S)
+http://xxip25.top:8080/s5pPNV/514479/14193
+
+#EXTINF:-1 tvg-id="epixhits.us" tvg-name="USA: Epix Hits" tvg-logo="https://sc.dish.com/shared/images/station-logos/EPIXH.PNG" group-title="MOVIE NETWORKS",USA: Epix Hits
+http://xxip25.top:8080/s5pPNV/514479/12744
+
+#EXTINF:-1 tvg-id="epix2.us" tvg-name="US EPIX2 (East)" tvg-logo="https://seeklogo.com/images/E/epix-entertainment-llc-logo-98DC100C56-seeklogo.com.png" group-title="MOVIE NETWORKS",US EPIX2 (East)
+http://xxip25.top:8080/s5pPNV/514479/12730
+
+#EXTINF:-1 tvg-id="hbo.us" tvg-name="US HBO " tvg-logo="https://tvzamora.net/wp-content/uploads/2016/12/hbo2.png" group-title="MOVIE NETWORKS",US HBO 
+http://xxip25.top:8080/s5pPNV/514479/9264
+
+#EXTINF:-1 tvg-id="hbo2.us" tvg-name="US HBO 2 (A)" tvg-logo="https://tvzamora.net/wp-content/uploads/2016/12/hbo2.png" group-title="MOVIE NETWORKS",US HBO 2 (A)
+http://xxip25.top:8080/s5pPNV/514479/9816
+
+#EXTINF:-1 tvg-id="hbocomedy.us" tvg-name="US HBO Comedy (East) " tvg-logo="https://png.pngitem.com/pimgs/s/186-1863786_hbo-comedy-logo-hbo-comedy-channel-logo-hd.png" group-title="MOVIE NETWORKS",US HBO Comedy (East) 
+http://xxip25.top:8080/s5pPNV/514479/17773
+
+#EXTINF:-1 tvg-id="hbofamily.us" tvg-name="US HBO Family (East) " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="MOVIE NETWORKS",US HBO Family (East) 
+http://xxip25.top:8080/s5pPNV/514479/17772
+
+#EXTINF:-1 tvg-id="hbosignature.us" tvg-name="US HBO SIGNATURE (East) " tvg-logo="https://logodix.com/logo/1111252.png" group-title="MOVIE NETWORKS",US HBO SIGNATURE (East) 
+http://xxip25.top:8080/s5pPNV/514479/9266
+
+#EXTINF:-1 tvg-id="hbozone.us" tvg-name="US HBO Zone (East) " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/HBO_Zone_logo.png" group-title="MOVIE NETWORKS",US HBO Zone (East) 
+http://xxip25.top:8080/s5pPNV/514479/9265
+
+#EXTINF:-1 tvg-id="hdnetmovies.us" tvg-name="US HDNET MOVIES " tvg-logo="https://www.pngjoy.com/pngm/146/2931790_brazzers-hdnet-movies-logo-png-download.png" group-title="MOVIE NETWORKS",US HDNET MOVIES 
+http://xxip25.top:8080/s5pPNV/514479/16265
+
+#EXTINF:-1 tvg-id="moremax.us" tvg-name="US More Max " tvg-logo="https://p.kindpng.com/picc/s/83-836958_more-max-hdtv-cinemax-hd-png-download.png" group-title="MOVIE NETWORKS",US More Max 
+http://xxip25.top:8080/s5pPNV/514479/17776
+
+#EXTINF:-1 tvg-id="movieplex.us" tvg-name="US MoviePlex (East)" tvg-logo="https://p.kindpng.com/picc/s/329-3296935_showtime-extreme-logo-hd-png-download.png" group-title="MOVIE NETWORKS",US MoviePlex (East)
+http://xxip25.top:8080/s5pPNV/514479/1829
+
+#EXTINF:-1 tvg-id="a3cine.us" tvg-name="USA: NBA TV" tvg-logo="https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png" group-title="NBA",USA: NBA TV
+http://xxip25.top:8080/s5pPNV/514479/20073
+
+#EXTINF:-1 tvg-id="nickjr.us" tvg-name="US Nick JR East (A) " tvg-logo="https://seeklogo.com/images/N/nick-jr-logo-DC18CDB75D-seeklogo.com.png" group-title="KIDS ZONE",US Nick JR East (A) 
+http://xxip25.top:8080/s5pPNV/514479/9807
+
+#EXTINF:-1 tvg-id="outermax.us" tvg-name="US Cinemax Outermax (X)" tvg-logo="" group-title="MOVIE NETWORKS",US Cinemax Outermax (X)
+http://xxip25.top:8080/s5pPNV/514479/21012
+
+#EXTINF:-1 tvg-id="retroplex.us" tvg-name="US RetroPlex (East) " tvg-logo="" group-title="MOVIE NETWORKS",US RetroPlex (East) 
+http://xxip25.top:8080/s5pPNV/514479/66379
+
+#EXTINF:-1 tvg-id="showtime.us" tvg-name="US Showtime East " tvg-logo="" group-title="MOVIE NETWORKS",US Showtime East 
+http://xxip25.top:8080/s5pPNV/514479/46214
+
+#EXTINF:-1 tvg-id="showtime2.us" tvg-name="US Showtime 2 (East) (H)" tvg-logo="https://www.allwest.com/wp-content/uploads/2018/11/showtime2-300x300.png" group-title="MOVIE NETWORKS",US Showtime 2 (East) (H)
+http://xxip25.top:8080/s5pPNV/514479/13219
+
+#EXTINF:-1 tvg-id="showtimeextreme.us" tvg-name="US Showtime Extreme (East) (SP)" tvg-logo="https://s4827.pcdn.co/wp-content/uploads/2015/06/Showtime-sho-logo.png" group-title="MOVIE NETWORKS",US Showtime Extreme (East) (SP)
+http://xxip25.top:8080/s5pPNV/514479/13220
+
+#EXTINF:-1 tvg-id="showtimefamilyzone.us" tvg-name="US Showtime Family Zone (East) " tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/23/Showtime_family_zone.png/revision/latest/scale-to-width-down/340?cb=20121117045222" group-title="MOVIE NETWORKS",US Showtime Family Zone (East) 
+http://xxip25.top:8080/s5pPNV/514479/13481
+
+#EXTINF:-1 tvg-id="showtimewomen.us" tvg-name="US Showtime Women (East) " tvg-logo="https://www.vhv.rs/dpng/d/473-4738791_showtime-women-logo-hd-png-download.png" group-title="MOVIE NETWORKS",US Showtime Women (East) 
+http://xxip25.top:8080/s5pPNV/514479/17778
+
+#EXTINF:-1 tvg-id="starzcinema.us" tvg-name="US Starz Cinema (East) " tvg-logo="https://thestreamable.com/media/pages/news/flash-sale-get-6-months-of-starz-for-only-3-33-a-month-so-you-can-binge-power-outlander-and-american-gods/3821036974-1583185843/starz.png" group-title="MOVIE NETWORKS",US Starz Cinema (East) 
+http://xxip25.top:8080/s5pPNV/514479/17775
+
+#EXTINF:-1 tvg-id="starzcinema.us" tvg-name="US Starz Cinema (East) " tvg-logo="https://thestreamable.com/media/pages/news/flash-sale-get-6-months-of-starz-for-only-3-33-a-month-so-you-can-binge-power-outlander-and-american-gods/3821036974-1583185843/starz.png" group-title="MOVIE NETWORKS",US Starz Cinema (East) 
+http://xxip25.top:8080/s5pPNV/514479/9301
+
+#EXTINF:-1 tvg-id="starzcinema.us" tvg-name="US Starz East (S)" tvg-logo="https://thestreamable.com/media/pages/news/flash-sale-get-6-months-of-starz-for-only-3-33-a-month-so-you-can-binge-power-outlander-and-american-gods/3821036974-1583185843/starz.png" group-title="MOVIE NETWORKS",US Starz East (S)
+http://xxip25.top:8080/s5pPNV/514479/9299
+
+#EXTINF:-1 tvg-id="starzencorewesterns.us" tvg-name="US Starz Encore Westerns (East) " tvg-logo="https://p.kindpng.com/picc/s/412-4120429_starz-encore-logo-transparent-hd-png-download.png" group-title="MOVIE NETWORKS",US Starz Encore Westerns (East) 
+http://xxip25.top:8080/s5pPNV/514479/16263
+
+#EXTINF:-1 tvg-id="starzinblack.us" tvg-name="US Starz in Black (East) " tvg-logo="https://thestreamable.com/media/pages/news/flash-sale-get-6-months-of-starz-for-only-3-33-a-month-so-you-can-binge-power-outlander-and-american-gods/3821036974-1583185843/starz.png" group-title="MOVIE NETWORKS",US Starz in Black (East) 
+http://xxip25.top:8080/s5pPNV/514479/17779
+
+#EXTINF:-1 tvg-id="starzwest.us" tvg-name="US Starz West (S)" tvg-logo="https://thestreamable.com/media/pages/news/flash-sale-get-6-months-of-starz-for-only-3-33-a-month-so-you-can-binge-power-outlander-and-american-gods/3821036974-1583185843/starz.png" group-title="MOVIE NETWORKS",US Starz West (S)
+http://xxip25.top:8080/s5pPNV/514479/21091
+
+#EXTINF:-1 tvg-id="global.peterborough.on.ca" tvg-name="CA Global Peterborough News (E)" tvg-logo="" group-title="CANADA",CA Global Peterborough News (E)
+http://xxip25.top:8080/s5pPNV/514479/85269
+
+#EXTINF:-1 tvg-id="cbcwindsor.ca" tvg-name="CA: CBC Windsor" tvg-logo="" group-title="CANADA",CA: CBC Windsor
+http://xxip25.top:8080/s5pPNV/514479/86749
+
+#EXTINF:-1 tvg-id="bbcearth.ca" tvg-name="CA | BBC EARTH" tvg-logo="" group-title="CANADA",CA | BBC EARTH
+http://xxip25.top:8080/s5pPNV/514479/99621
+
+#EXTINF:-1 tvg-id="globaldurham.ca" tvg-name="CA Global Durham (CHEX-DT-2) " tvg-logo="" group-title="CANADA",CA Global Durham (CHEX-DT-2) 
+http://xxip25.top:8080/s5pPNV/514479/100453
+
+#EXTINF:-1 tvg-id="ctvsudbury.ca" tvg-name="CA CTV Sudbury Ontario HD (D)" tvg-logo="" group-title="CANADA",CA CTV Sudbury Ontario HD (D)
+http://xxip25.top:8080/s5pPNV/514479/100454
+
+#EXTINF:-1 tvg-id="ctvtimmins.ca" tvg-name="CA CTV Timmins Ontario HD (D)" tvg-logo="" group-title="CANADA",CA CTV Timmins Ontario HD (D)
+http://xxip25.top:8080/s5pPNV/514479/100455
+
+#EXTINF:-1 tvg-id="wild.ca" tvg-name="CA WILD TV " tvg-logo="" group-title="CANADA",CA WILD TV 
+http://xxip25.top:8080/s5pPNV/514479/100456
+
+#EXTINF:-1 tvg-id="superchannelheartandhome.ca" tvg-name="CA Super Channel Heart & Home " tvg-logo="" group-title="CANADA",CA Super Channel Heart & Home 
+http://xxip25.top:8080/s5pPNV/514479/100460
+
+#EXTINF:-1 tvg-id="cbcwinnipeg.ca" tvg-name="CA: CBC Winnipeg" tvg-logo="" group-title="CANADA",CA: CBC Winnipeg
+http://xxip25.top:8080/s5pPNV/514479/100628
+
+#EXTINF:-1 tvg-id="globalwinnipeg.ca" tvg-name="CA Global News Winnipeg (D)" tvg-logo="" group-title="CANADA",CA Global News Winnipeg (D)
+http://xxip25.top:8080/s5pPNV/514479/100629
+
+#EXTINF:-1 tvg-id="ctvwinnipeg.ca" tvg-name="CA CTV WINNIPEG (E)" tvg-logo="" group-title="CANADA",CA CTV WINNIPEG (E)
+http://xxip25.top:8080/s5pPNV/514479/100630
+
+#EXTINF:-1 tvg-id="citytvwinnipeg.ca" tvg-name="CA CITY TV WINNIPEG (E)" tvg-logo="" group-title="CANADA",CA CITY TV WINNIPEG (E)
+http://xxip25.top:8080/s5pPNV/514479/100631
+
+#EXTINF:-1 tvg-id="" tvg-name="PH One News HD (C)" tvg-logo="" group-title="PHILIPPINES",PH One News HD (C)
+http://xxip25.top:8080/s5pPNV/514479/101774
+
+#EXTINF:-1 tvg-id="" tvg-name="PH TFC (X)" tvg-logo="" group-title="PHILIPPINES",PH TFC (X)
+http://xxip25.top:8080/s5pPNV/514479/101823
+
+#EXTINF:-1 tvg-id="" tvg-name="PH SARI SARI (C)" tvg-logo="" group-title="PHILIPPINES",PH SARI SARI (C)
+http://xxip25.top:8080/s5pPNV/514479/101824
+
+#EXTINF:-1 tvg-id="" tvg-name="PH GMA Life TV (X)" tvg-logo="" group-title="PHILIPPINES",PH GMA Life TV (X)
+http://xxip25.top:8080/s5pPNV/514479/101825
+
+#EXTINF:-1 tvg-id="" tvg-name="PH GMA Pinoy TV (X)" tvg-logo="" group-title="PHILIPPINES",PH GMA Pinoy TV (X)
+http://xxip25.top:8080/s5pPNV/514479/101826
+
+#EXTINF:-1 tvg-id="silverscreenclassics.ca" tvg-name="CA Silver Screen (E)" tvg-logo="" group-title="CANADA",CA Silver Screen (E)
+http://xxip25.top:8080/s5pPNV/514479/107190
+
+#EXTINF:-1 tvg-id="24taas.ca" tvg-name="CA COOKING Channel " tvg-logo="" group-title="CANADA",CA COOKING Channel 
+http://xxip25.top:8080/s5pPNV/514479/107960
+
+#EXTINF:-1 tvg-id="travelescape.ca" tvg-name="CA: Travel Escape" tvg-logo="" group-title="CANADA",CA: Travel Escape
+http://xxip25.top:8080/s5pPNV/514479/108136
+
+#EXTINF:-1 tvg-id="globalcalgary.ca" tvg-name="CA Global News Calgary (D)" tvg-logo="" group-title="CANADA",CA Global News Calgary (D)
+http://xxip25.top:8080/s5pPNV/514479/111067
+
+#EXTINF:-1 tvg-id="globalcalgary.ca" tvg-name="CA Global Calgary " tvg-logo="" group-title="CANADA",CA Global Calgary 
+http://xxip25.top:8080/s5pPNV/514479/115349
+
+#EXTINF:-1 tvg-id="ctvlifechannel.ca" tvg-name="CA CTV LIFE (E)" tvg-logo="" group-title="CANADA",CA CTV LIFE (E)
+http://xxip25.top:8080/s5pPNV/514479/116506
+
+#EXTINF:-1 tvg-id="dejaview.ca" tvg-name="CA Dejaview HD (B)" tvg-logo="" group-title="CANADA",CA Dejaview HD (B)
+http://xxip25.top:8080/s5pPNV/514479/122001
+
+#EXTINF:-1 tvg-id="globaledmonton.ca" tvg-name="CA Global Edmonton (D)" tvg-logo="" group-title="CANADA",CA Global Edmonton (D)
+http://xxip25.top:8080/s5pPNV/514479/132271
+
+#EXTINF:-1 tvg-id="chekvancouverisland.ca" tvg-name="CA CTV2 VANCOUVER ISLAND (E)" tvg-logo="" group-title="CANADA",CA CTV2 VANCOUVER ISLAND (E)
+http://xxip25.top:8080/s5pPNV/514479/136612
+
+#EXTINF:-1 tvg-id="globalmontreal.ca" tvg-name="CA Global Montreal HD (B)" tvg-logo="" group-title="CANADA",CA Global Montreal HD (B)
+http://xxip25.top:8080/s5pPNV/514479/136640
+
+#EXTINF:-1 tvg-id="globalmontreal.ca" tvg-name="CA Global Monterial News (E)" tvg-logo="" group-title="CANADA",CA Global Monterial News (E)
+http://xxip25.top:8080/s5pPNV/514479/136641
+
+#EXTINF:-1 tvg-id="" tvg-name="CA Global Peterborough News (E)" tvg-logo="" group-title="CANADA",CA Global Peterborough News (E)
+http://xxip25.top:8080/s5pPNV/514479/137681
+
+#EXTINF:-1 tvg-id="" tvg-name="CA: BBC World News" tvg-logo="" group-title="CANADA",CA: BBC World News
+http://xxip25.top:8080/s5pPNV/514479/139752
+
+#EXTINF:-1 tvg-id="teennick.us" tvg-name="US TeenNick" tvg-logo="" group-title="KIDS ZONE",US TeenNick
+http://xxip25.top:8080/s5pPNV/514479/140004
+
+#EXTINF:-1 tvg-id="documentarychannel.ca" tvg-name="CA documentary HD (B)" tvg-logo="" group-title="CANADA",CA documentary HD (B)
+http://xxip25.top:8080/s5pPNV/514479/148610
+
+#EXTINF:-1 tvg-id="" tvg-name="CA Global Maritimes HD " tvg-logo="" group-title="CANADA",CA Global Maritimes HD 
+http://xxip25.top:8080/s5pPNV/514479/171954
+
+#EXTINF:-1 tvg-id="hpitv.ca" tvg-name="CA HPItv East HD " tvg-logo="" group-title="CANADA",CA HPItv East HD 
+http://xxip25.top:8080/s5pPNV/514479/173131
+
+#EXTINF:-1 tvg-id="" tvg-name="CA CTV Halifax Nova Scotia HD (D)" tvg-logo="" group-title="CANADA",CA CTV Halifax Nova Scotia HD (D)
+http://xxip25.top:8080/s5pPNV/514479/188776
+
+#EXTINF:-1 tvg-id="ctvhalifax.ca" tvg-name="CA CTV HALIFAX (E)" tvg-logo="" group-title="CANADA",CA CTV HALIFAX (E)
+http://xxip25.top:8080/s5pPNV/514479/188777
+
+#EXTINF:-1 tvg-id="history2.ca" tvg-name="CA H2 HD " tvg-logo="" group-title="CANADA",CA H2 HD 
+http://xxip25.top:8080/s5pPNV/514479/210450
+
+#EXTINF:-1 tvg-id="muchmusic.ca" tvg-name="CA: MUCH MUSIC" tvg-logo="" group-title="CANADA",CA: MUCH MUSIC
+http://xxip25.top:8080/s5pPNV/514479/215268
+
+#EXTINF:-1 tvg-id="" tvg-name="CA City News Toronto ON" tvg-logo="" group-title="CANADA",CA City News Toronto ON
+http://xxip25.top:8080/s5pPNV/514479/216100
+
+#EXTINF:-1 tvg-id="cbcfredericton.ca" tvg-name="CA CBC  New Brunswick / Fredericton NB " tvg-logo="" group-title="CANADA",CA CBC  New Brunswick / Fredericton NB 
+http://xxip25.top:8080/s5pPNV/514479/217655
+
+#EXTINF:-1 tvg-id="" tvg-name="USA PPV01: WWE RAW @ 08:00 PM EST" tvg-logo="" group-title="PPV | UFC",USA PPV01: WWE RAW @ 08:00 PM EST
+http://xxip25.top:8080/s5pPNV/514479/260494
+
+#EXTINF:-1 tvg-id="" tvg-name="USA | WWE" tvg-logo="" group-title="PPV | UFC",USA | WWE
+http://xxip25.top:8080/s5pPNV/514479/260495
+
+#EXTINF:-1 tvg-id="" tvg-name="USA | WWE Network" tvg-logo="" group-title="PPV | UFC",USA | WWE Network
+http://xxip25.top:8080/s5pPNV/514479/260496
+
+#EXTINF:-1 tvg-id="" tvg-name="NBA 01:New York Knicks VS Atlanta Hawks" tvg-logo="" group-title="NBA",NBA 01:New York Knicks VS Atlanta Hawks
+http://xxip25.top:8080/s5pPNV/514479/266266
+
+#EXTINF:-1 tvg-id="" tvg-name="NBA 02:Detroit Pistons VS Orlando Magic" tvg-logo="" group-title="NBA",NBA 02:Detroit Pistons VS Orlando Magic
+http://xxip25.top:8080/s5pPNV/514479/266267
+
+#EXTINF:-1 tvg-id="" tvg-name="NBA 03:Cleveland Cavaliers VS Memphis Grizzlies" tvg-logo="" group-title="NBA",NBA 03:Cleveland Cavaliers VS Memphis Grizzlies
+http://xxip25.top:8080/s5pPNV/514479/266268
+
+#EXTINF:-1 tvg-id="" tvg-name="NBA 04:Philadelphia 76ers VS San Antonio Spurs" tvg-logo="" group-title="NBA",NBA 04:Philadelphia 76ers VS San Antonio Spurs
+http://xxip25.top:8080/s5pPNV/514479/266269
+
+#EXTINF:-1 tvg-id="" tvg-name="NBA 05:Portland Trail Blazers VS Denver Nuggets" tvg-logo="" group-title="NBA",NBA 05:Portland Trail Blazers VS Denver Nuggets

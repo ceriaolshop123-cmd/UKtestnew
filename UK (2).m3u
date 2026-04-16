@@ -426,177 +426,235 @@ http://212.32.241.201:8000/play/a007
 #EXTVLCOPT:network-caching=3000
 http://212.32.241.201:8000/play/a04w
 
-#EXTINF:-1 group-title="-",NDTV World
+#EXTINF:-1 group-title="-",tsterrfs NDTV World
+#EXTVLCOPT:network-caching=3000
 http://212.32.241.201:8000/play/a046
 
-#EXTINF:-1 group-title="-",NOW 70s
+#EXTINF:-1 group-title="-",tsterrfs NOW 70s
+#EXTVLCOPT:network-caching=3000
 http://212.32.241.201:8000/play/a01b
 
-#EXTINF:-1 group-title="-",NOW 80s
+#EXTINF:-1 group-title="-",tsterrfs NOW 80s
+#EXTVLCOPT:network-caching=3000
 http://212.32.241.201:8000/play/a019
 
-#EXTINF:-1 group-title="-",NOW 90s & 00s
+#EXTINF:-1 group-title="-",tsterrfs NOW 90s & 00s
+#EXTVLCOPT:network-caching=3000
 http://212.32.241.201:8000/play/a01i
 
-#EXTINF:-1 group-title="-",NOW ROCK
+#EXTINF:-1 group-title="-",tsterrfs NOW ROCK
+#EXTVLCOPT:network-caching=3000
 http://212.32.241.201:8000/play/a01h
 
-#EXTINF:-1 group-title="-",NTD
+#EXTINF:-1 group-title="-",tsterrfs NTD
+#EXTVLCOPT:network-caching=3000
 http://212.32.241.201:8000/play/a044
 
-#EXTINF:-1 group-title="-",New Vision TV
+#EXTINF:-1 group-title="-",tsterrfs New Vision TV
+#EXTVLCOPT:network-caching=3000
 http://212.32.241.201:8000/play/a01r
 
-#EXTINF:-1 group-title="-",Noor TV
+#EXTINF:-1 group-title="-",tsterrfs Noor TV
+#EXTVLCOPT:network-caching=3000
 http://212.32.241.201:8000/play/a045
 
-#EXTINF:-1 group-title="-",PBS America
+#EXTINF:-1 group-title="-",tsterrfs PBS America
+#EXTVLCOPT:network-caching=3000
 http://212.32.241.201:8000/play/a030
 
-#EXTINF:-1 group-title="-",POP
+#EXTINF:-1 group-title="-",tsterrfs POP
+#EXTVLCOPT:network-caching=3000
 http://212.32.241.201:8000/play/a02d
 
-#EXTINF:-1 group-title="-",POP+1
+#EXTINF:-1 group-title="-",tsterrfs POP+1
+#EXTVLCOPT:network-caching=3000
 http://212.32.241.201:8000/play/a02g
 
-#EXTINF:-1 group-title="-",Panjab Radio
+#EXTINF:-1 group-title="-",tsterrfs Panjab Radio
+#EXTVLCOPT:network-caching=3000
 http://212.32.241.201:8000/play/a04k
 
-#EXTINF:-1 group-title="-",QTV Religious
+#EXTINF:-1 group-title="-",tsterrfs QTV Religious
+#EXTVLCOPT:network-caching=3000
 http://212.32.241.201:8000/play/a01k
 
-#EXTINF:-1 group-title="-",QVC Beauty
+#EXTINF:-1 group-title="-",tsterrfs QVC Beauty
+#EXTVLCOPT:network-caching=3000
 http://212.32.241.201:8000/play/a04s
 
-#EXTINF:-1 group-title="-",QVC Extra
+#EXTINF:-1 group-title="-",tsterrfs QVC Extra
+#EXTVLCOPT:network-caching=3000
 http://212.32.241.201:8000/play/a04r
 
-#EXTINF:-1 group-title="-",QVC HD
+#EXTINF:-1 group-title="-",tsterrfs QVC HD
+#EXTVLCOPT:network-caching=3000
 http://212.32.241.201:8000/play/a04t
 
-#EXTINF:-1 group-title="-",QVC Style HD
+#EXTINF:-1 group-title="-",tsterrfs QVC Style HD
+#EXTVLCOPT:network-caching=3000
 http://212.32.241.201:8000/play/a04u
 
-#EXTINF:-1 group-title="-",Quest Red
+#EXTINF:-1 group-title="-",tsterrfs Quest Red
+#EXTVLCOPT:network-caching=3000
 http://212.32.241.201:8000/play/a013
 
-#EXTINF:-1 group-title="-",Radio X
+#EXTINF:-1 group-title="-",tsterrfs Radio X
+#EXTVLCOPT:network-caching=3000
 http://212.32.241.201:8000/play/a03y
 
-#EXTINF:-1 group-title="-",Rewind TV
+#EXTINF:-1 group-title="-",tsterrfs Rewind TV
+#EXTVLCOPT:network-caching=3000
 http://212.32.241.201:8000/play/a01c
 
-#EXTINF:-1 group-title="-",S4C
+#EXTINF:-1 group-title="-",tsterrfs S4C
+#EXTVLCOPT:network-caching=3000
 http://212.32.241.201:8000/play/a03v
 
-#EXTINF:-1 group-title="-",S4C HD
+#EXTINF:-1 group-title="-",2tsterrfs S4C HD
+#EXTVLCOPT:network-caching=3000
 http://212.32.241.201:8000/play/a03s
 
-#EXTINF:-1 group-title="-",STV
+#EXTINF:-1 group-title="-",tsterrfs STV
+#EXTVLCOPT:network-caching=3000
 http://212.32.241.201:8000/play/a038
 
-#EXTINF:-1 group-title="-",STV
+#EXTINF:-1 group-title="-",2tsterrfs STV
+#EXTVLCOPT:network-caching=3000
 http://212.32.241.201:8000/play/a039
 
-#EXTINF:-1 group-title="-",Sikh Channel
+#EXTINF:-1 group-title="-",tsterrfs Sikh Channel
+#EXTVLCOPT:network-caching=3000
 http://212.32.241.201:8000/play/a01d
 
-#EXTINF:-1 group-title="-",Sky News
+#EXTINF:-1 group-title="-",tsterrfs Sky News
+#EXTVLCOPT:network-caching=3000
 http://212.32.241.201:8000/play/a053
 
-#EXTINF:-1 group-title="-",Smooth
+#EXTINF:-1 group-title="-",tsterrfs Smooth
+#EXTVLCOPT:network-caching=3000
 http://212.32.241.201:8000/play/a04b
 
-#EXTINF:-1 group-title="-",SonLife
+#EXTINF:-1 group-title="-",tsterrfs SonLife
+#EXTVLCOPT:network-caching=3000
 http://212.32.241.201:8000/play/a047
 
-#EXTINF:-1 group-title="-",TJC HD
+#EXTINF:-1 group-title="-",tsterrfs TJC HD
+#EXTVLCOPT:network-caching=3000
 http://212.32.241.201:8000/play/a03t
 
-#EXTINF:-1 group-title="-",TRUE CRIME
+#EXTINF:-1 group-title="-",tsterrfs TRUE CRIME
+#EXTVLCOPT:network-caching=3000
 http://212.32.241.201:8000/play/a032
 
-#EXTINF:-1 group-title="-",TRUE CRIME
+#EXTINF:-1 group-title="-",2tsterrfs TRUE CRIME
+#EXTVLCOPT:network-caching=3000
 http://212.32.241.201:8000/play/a031
 
-#EXTINF:-1 group-title="-",TRUE CRIME X
+#EXTINF:-1 group-title="-",tsterrfs TRUE CRIME X
+#EXTVLCOPT:network-caching=3000
 http://212.32.241.201:8000/play/a02y
 
-#EXTINF:-1 group-title="-",TRUE CRIME X
+#EXTINF:-1 group-title="-",2tsterrfs TRUE CRIME X
+#EXTVLCOPT:network-caching=3000
 http://212.32.241.201:8000/play/a02u
 
-#EXTINF:-1 group-title="-",TRUE CRIME+1
+#EXTINF:-1 group-title="-",tsterrfs TRUE CRIME+1
+#EXTVLCOPT:network-caching=3000
 http://212.32.241.201:8000/play/a033
 
-#EXTINF:-1 group-title="-",TalkingPictures
+#EXTINF:-1 group-title="-",tsterrfs TalkingPictures
+#EXTVLCOPT:network-caching=3000
 http://212.32.241.201:8000/play/a035
 
-#EXTINF:-1 group-title="-",That's Melody
+#EXTINF:-1 group-title="-",tsterrfs That's Melody
+#EXTVLCOPT:network-caching=3000
 http://212.32.241.201:8000/play/a03e
 
-#EXTINF:-1 group-title="-",That's Summer
+#EXTINF:-1 group-title="-",tsterrfs That's Summer
+#EXTVLCOPT:network-caching=3000
 http://212.32.241.201:8000/play/a02x
 
-#EXTINF:-1 group-title="-",That's TV
+#EXTINF:-1 group-title="-",tsterrfs That's TV
+#EXTVLCOPT:network-caching=3000
 http://212.32.241.201:8000/play/a036
 
-#EXTINF:-1 group-title="-",That's TV 2
+#EXTINF:-1 group-title="-",tsterrfs That's TV 2
+#EXTVLCOPT:network-caching=3000
 http://212.32.241.201:8000/play/a02v
 
-#EXTINF:-1 group-title="-",That's TV 3
+#EXTINF:-1 group-title="-",tsterrfs That's TV 3
+#EXTVLCOPT:network-caching=3000
 http://212.32.241.201:8000/play/a037
 
-#EXTINF:-1 group-title="-",Tiny Pop
+#EXTINF:-1 group-title="-",tsterrfs Tiny Pop
+#EXTVLCOPT:network-caching=3000
 http://212.32.241.201:8000/play/a02c
 
-#EXTINF:-1 group-title="-",Tiny Pop+1
+#EXTINF:-1 group-title="-",tsterrfs Tiny Pop+1
+#EXTVLCOPT:network-caching=3000
 http://212.32.241.201:8000/play/a02j
 
-#EXTINF:-1 group-title="-",Travelxp
+#EXTINF:-1 group-title="-",tsterrfs Travelxp
+#EXTVLCOPT:network-caching=3000
 http://212.32.241.201:8000/play/a04x
 
-#EXTINF:-1 group-title="-",U&Dave
+#EXTINF:-1 group-title="-",tsterrfs U&Dave
+#EXTVLCOPT:network-caching=3000
 http://212.32.241.201:8000/play/a057
 
-#EXTINF:-1 group-title="-",U&Dave
+#EXTINF:-1 group-title="-",2tsterrfs U&Dave
+#EXTVLCOPT:network-caching=3000
 http://212.32.241.201:8000/play/a05d
 
-#EXTINF:-1 group-title="-",U&DaveJaVu
+#EXTINF:-1 group-title="-",tsterrfs U&DaveJaVu
+#EXTVLCOPT:network-caching=3000
 http://212.32.241.201:8000/play/a05f
 
-#EXTINF:-1 group-title="-",U&Drama
+#EXTINF:-1 group-title="-",tsterrfs U&Drama
+#EXTVLCOPT:network-caching=3000
 http://212.32.241.201:8000/play/a059
 
-#EXTINF:-1 group-title="-",U&Drama
+#EXTINF:-1 group-title="-",2tsterrfs U&Drama
+#EXTVLCOPT:network-caching=3000
 http://212.32.241.201:8000/play/a05c
 
-#EXTINF:-1 group-title="-",U&Drama+1
+#EXTINF:-1 group-title="-",tsterrfs U&Drama+1
+#EXTVLCOPT:network-caching=3000
 http://212.32.241.201:8000/play/a05e
 
-#EXTINF:-1 group-title="-",U&Eden
+#EXTINF:-1 group-title="-",tsterrfs U&Eden
+#EXTVLCOPT:network-caching=3000
 http://212.32.241.201:8000/play/a055
 
-#EXTINF:-1 group-title="-",U&Eden+1
+#EXTINF:-1 group-title="-",tsterrfs U&Eden+1
+#EXTVLCOPT:network-caching=3000
 http://212.32.241.201:8000/play/a05a
 
-#EXTINF:-1 group-title="-",U&W
+#EXTINF:-1 group-title="-",tsterrfs U&W
+#EXTVLCOPT:network-caching=3000
 http://212.32.241.201:8000/play/a058
 
-#EXTINF:-1 group-title="-",U&W
+#EXTINF:-1 group-title="-",2tsterrfs U&W
+#EXTVLCOPT:network-caching=3000
 http://212.32.241.201:8000/play/a05h
 
-#EXTINF:-1 group-title="-",U&W+1
+#EXTINF:-1 group-title="-",tsterrfs U&W+1
+#EXTVLCOPT:network-caching=3000
 http://212.32.241.201:8000/play/a05b
 
-#EXTINF:-1 group-title="-",U&Yesterday
+#EXTINF:-1 group-title="-",tsterrfs U&Yesterday
+#EXTVLCOPT:network-caching=3000
 http://212.32.241.201:8000/play/a056
 
-#EXTINF:-1 group-title="-",U&Yesterday+1
+#EXTINF:-1 group-title="-",tsterrfs U&Yesterday+1
+#EXTVLCOPT:network-caching=3000
 http://212.32.241.201:8000/play/a05g
 
-#EXTINF:-1 group-title="-",Virgin Radio
+#EXTINF:-1 group-title="-",tsterrfs Virgin Radio
+#EXTVLCOPT:network-caching=3000
 http://212.32.241.201:8000/play/a04d
 
-#EXTINF:-1 group-title="-",talkSPORT
+#EXTINF:-1 group-title="-",tsterrfs talkSPORT
+#EXTVLCOPT:network-caching=3000
 http://212.32.241.201:8000/play/a04p
 

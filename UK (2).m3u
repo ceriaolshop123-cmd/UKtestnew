@@ -246,83 +246,120 @@ http://212.32.241.201:8000/play/a02i
 #EXTVLCOPT:network-caching=3000
 http://212.32.241.201:8000/play/a02f
 
-#EXTINF:-1 group-title="-",Gems TV
+#EXTINF:-1 group-title="-",tsterrfs Gems TV
+#EXTVLCOPT:network-caching=3000
 http://212.32.241.201:8000/play/a01e
 
-#EXTINF:-1 group-title="-",Gold Radio
+#EXTINF:-1 group-title="-",tsterrfs Gold Radio
+#EXTVLCOPT:network-caching=3000
 http://212.32.241.201:8000/play/a040
 
-#EXTINF:-1 group-title="-",HGTV
+#EXTINF:-1 group-title="-",tsterrfs HGTV
+#EXTVLCOPT:network-caching=3000
 http://212.32.241.201:8000/play/a00x
 
 #EXTINF:-1 group-title="-",HUM EUROPE
 http://212.32.241.201:8000/play/a04i
+
 #EXTINF:-1 group-title="-",HUM Masala
 http://212.32.241.201:8000/play/a04g
+
 #EXTINF:-1 group-title="-",Heart
 http://212.32.241.201:8000/play/a04n
+
 #EXTINF:-1 group-title="-",Heart 80s
 http://212.32.241.201:8000/play/a04o
+
 #EXTINF:-1 group-title="-",Heart 90s
 http://212.32.241.201:8000/play/a04e
+
 #EXTINF:-1 group-title="-",Heart Dance
 http://212.32.241.201:8000/play/a04c
+
 #EXTINF:-1 group-title="-",High Street TV 2
 http://212.32.241.201:8000/play/a042
+
 #EXTINF:-1 group-title="-",High Street TV 3
 http://212.32.241.201:8000/play/a043
+
 #EXTINF:-1 group-title="-",ITV1 HD
 http://212.32.241.201:8000/play/a03o
+
 #EXTINF:-1 group-title="-",ITV1 HD
 http://212.32.241.201:8000/play/a03p
+
 #EXTINF:-1 group-title="-",ITV1 HD
 http://212.32.241.201:8000/play/a03q
+
 #EXTINF:-1 group-title="-",ITV1 HD
 http://212.32.241.201:8000/play/a02l
+
 #EXTINF:-1 group-title="-",ITV1 HD
 http://212.32.241.201:8000/play/a02m
+
 #EXTINF:-1 group-title="-",ITV1 HD
 http://212.32.241.201:8000/play/a02n
+
 #EXTINF:-1 group-title="-",ITV1 HD
 http://212.32.241.201:8000/play/a02o
+
 #EXTINF:-1 group-title="-",ITV1 HD
 http://212.32.241.201:8000/play/a02q
+
 #EXTINF:-1 group-title="-",ITV1 HD
 http://212.32.241.201:8000/play/a02r
+
 #EXTINF:-1 group-title="-",ITV1 HD
 http://212.32.241.201:8000/play/a02s
+
 #EXTINF:-1 group-title="-",ITV1 HD
 http://212.32.241.201:8000/play/a03j
+
 #EXTINF:-1 group-title="-",ITV1 HD
 http://212.32.241.201:8000/play/a03l
+
 #EXTINF:-1 group-title="-",ITV1 HD
 http://212.32.241.201:8000/play/a03n
+
 #EXTINF:-1 group-title="-",ITV1 Wales HD
 http://212.32.241.201:8000/play/a03m
+
 #EXTINF:-1 group-title="-",ITV1+1
 http://212.32.241.201:8000/play/a03c
+
 #EXTINF:-1 group-title="-",ITV1+1
 http://212.32.241.201:8000/play/a03d
+
 #EXTINF:-1 group-title="-",ITV1+1
 http://212.32.241.201:8000/play/a03a
+
 #EXTINF:-1 group-title="-",ITV1+1
 http://212.32.241.201:8000/play/a03b
+
 #EXTINF:-1 group-title="-",ITV2 HD
 http://212.32.241.201:8000/play/a03k
+
 #EXTINF:-1 group-title="-",ITV2+1
 http://212.32.241.201:8000/play/a03f
+
 #EXTINF:-1 group-title="-",ITV3 HD
 http://212.32.241.201:8000/play/a02p
+
 #EXTINF:-1 group-title="-",ITV3+1
 http://212.32.241.201:8000/play/a03g
+
 #EXTINF:-1 group-title="-",ITV4+1
 http://212.32.241.201:8000/play/a03h
+
 #EXTINF:-1 group-title="-",JewelleryMaker
 http://212.32.241.201:8000/play/a01s
+
 #EXTINF:-1 group-title="-",Kanshi TV
 http://212.32.241.201:8000/play/a04h
+
 #EXTINF:-1 group-title="-",LBC
 http://212.32.241.201:8000/play/a04m
+
 #EXTINF:-1 group-title="-",LBC News
 http://212.32.241.201:8000/play/a04a
 #EXTINF:-1 group-title="-",LEGEND

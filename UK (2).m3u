@@ -130,53 +130,68 @@ http://212.32.241.201:8000/play/a03x
 #EXTVLCOPT:network-caching=1000
 http://212.32.241.201:8000/play/a002
 
-#EXTINF:-1 group-title="-",Channel 4+1
+#EXTINF:-1 group-title="-",tsterrfs Channel 4+1
+#EXTVLCOPT:network-caching=1000
 http://212.32.241.201:8000/play/a00a
 
-#EXTINF:-1 group-title="-",Channel 4+1
+#EXTINF:-1 group-title="-",2tsterrfs Channel 4+1
+#EXTVLCOPT:network-caching=1000
 http://212.32.241.201:8000/play/a005
 
-#EXTINF:-1 group-title="-",Channel 4+1
+#EXTINF:-1 group-title="-",3tsterrfs Channel 4+1
+#EXTVLCOPT:network-caching=1000
 http://212.32.241.201:8000/play/a006
 
-#EXTINF:-1 group-title="-",Channel 4+1
+#EXTINF:-1 group-title="-",4tsterrfs Channel 4+1
+#EXTVLCOPT:network-caching=1000
 http://212.32.241.201:8000/play/a004
 
-#EXTINF:-1 group-title="-",Channels 24
+#EXTINF:-1 group-title="-",tsterrfs Channels 24
+#EXTVLCOPT:network-caching=1000
 http://212.32.241.201:8000/play/a04v
 
-#EXTINF:-1 group-title="-",Classic FM
+#EXTINF:-1 group-title="-",tsterrfs Classic FM
+#EXTVLCOPT:network-caching=1000
 http://212.32.241.201:8000/play/a041
 
-#EXTINF:-1 group-title="-",Clubland TV
+#EXTINF:-1 group-title="-", tsterrfs Clubland TV
+#EXTVLCOPT:network-caching=1000
 http://212.32.241.201:8000/play/a01g
 
-#EXTINF:-1 group-title="-",DMAX
+#EXTINF:-1 group-title="-",tsterrfs DMAX
+#EXTVLCOPT:network-caching=1000
 http://212.32.241.201:8000/play/a011
 
-#EXTINF:-1 group-title="-",Deen TV
+#EXTINF:-1 group-title="-",tsterrfs Deen TV
+#EXTVLCOPT:network-caching=1000
 http://212.32.241.201:8000/play/a04j
 
-#EXTINF:-1 group-title="-",E4
+#EXTINF:-1 group-title="-",tsterrfs E4
+#EXTVLCOPT:network-caching=1000
 http://212.32.241.201:8000/play/a00b
 
-#EXTINF:-1 group-title="-",E4 Extra
+#EXTINF:-1 group-title="-",tsterrfs E4 Extra
+#EXTVLCOPT:network-caching=1000
 http://212.32.241.201:8000/play/a008
 
 #EXTINF:-1 group-title="-",tsterrfs E4+1
 #EXTVLCOPT:network-caching=1000
 http://212.32.241.201:8000/play/a003
 
-#EXTINF:-1 group-title="-",FRANCE 24 HD
+#EXTINF:-1 group-title="-", tsterrfs FRANCE 24 HD
+#EXTVLCOPT:network-caching=1000
 http://212.32.241.201:8000/play/a03u
 
-#EXTINF:-1 group-title="-",Faith UK
+#EXTINF:-1 group-title="-",tsterrfs Faith UK
+#EXTVLCOPT:network-caching=1000
 http://212.32.241.201:8000/play/a01p
 
-#EXTINF:-1 group-title="-",Film4
+#EXTINF:-1 group-title="-",tsterfs Film4
+#EXTVLCOPT:network-caching=1000
 http://212.32.241.201:8000/play/a00d
 
-#EXTINF:-1 group-title="-",Film4+1
+#EXTINF:-1 group-title="-",tsterrfs Film4+1
+#EXTVLCOPT:network-caching=1000
 http://212.32.241.201:8000/play/a00c
 
 #EXTINF:-1 group-title="-",G! romance+1

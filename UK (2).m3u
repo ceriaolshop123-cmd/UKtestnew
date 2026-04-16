@@ -1,233 +1,245 @@
 #EXTM3U
 
 #EXTINF:-1 group-title="-",tsterrfs 4seven
-#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
 http://212.32.241.201:8000/play/a009
 
 #EXTINF:-1 group-title="-",nope tsterrfs 5
-#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
 http://212.32.241.201:8000/play/a01w
 
 
 #EXTINF:-1 group-title="-",tsterrfs 5 HD
-#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
 http://212.32.241.201:8000/play/a023
 
 #EXTINF:-1 group-title="-",tsterrfs 5 USA
-#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
 http://212.32.241.201:8000/play/a01x
 
 #EXTINF:-1 group-title="-",tsterrfs 5+1
-#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
 http://212.32.241.201:8000/play/a022
 
 
 #EXTINF:-1 group-title="-",tsterrfs 55124
-#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
 http://212.32.241.201:8000/play/a049
 
 #EXTINF:-1 group-title="-",tsterrfs 5ACTION
-#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
 http://212.32.241.201:8000/play/a024
 
 #EXTINF:-1 group-title="-",tsterrfs 5SELECT
-#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
 http://212.32.241.201:8000/play/a020
 
 #EXTINF:-1 group-title="-",tsterrfs 5STAR
-#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
 http://212.32.241.201:8000/play/a01z
 
 #EXTINF:-1 group-title="-",tsterrfs 5STAR+1
-#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
 http://212.32.241.201:8000/play/a021
 
 #EXTINF:-1 group-title="-",tsterrfs 5USA+1
-#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
 http://212.32.241.201:8000/play/a01y
 
 #EXTINF:-1 group-title="-",tsterrfs ARY Digital
-#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
 http://212.32.241.201:8000/play/a01q
 
 #EXTINF:-1 group-title="-",tsterrfs BBC ALBA HD
-#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
 http://212.32.241.201:8000/play/a00k
 
 #EXTINF:-1 group-title="-",2tsterrfs BBC ALBA HD
-#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
 http://212.32.241.201:8000/play/a00j
 
 #EXTINF:-1 group-title="-",tsterrfs BBC Asian Net
-#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
 http://212.32.241.201:8000/play/a00r
 
 #EXTINF:-1 group-title="-",tsterrfs BBC NEWS HD
-#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
 http://212.32.241.201:8000/play/a00i
 
 #EXTINF:-1 group-title="-",tsterrfs BBC One ScotHD
-#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
 http://212.32.241.201:8000/play/a00g
 
 #EXTINF:-1 group-title="-",tsterrfs BBC One WM HD
-#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
 http://212.32.241.201:8000/play/a00l
 
 #EXTINF:-1 group-title="-",tsterrfs BBC One Wal HD
-#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
 http://212.32.241.201:8000/play/a00h
 
 #EXTINF:-1 group-title="-",tsterrfs BBC R1
-#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
 http://212.32.241.201:8000/play/a00m
 
 #EXTINF:-1 group-title="-",tsterrfs BBC R2
-#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
 http://212.32.241.201:8000/play/a00n
 
 #EXTINF:-1 group-title="-",tsterrfs BBC R3
-#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
 http://212.32.241.201:8000/play/a00o
 
 #EXTINF:-1 group-title="-",tsterrfs BBC R4
-#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
 http://212.32.241.201:8000/play/a00p
 
 #EXTINF:-1 group-title="-",tsterrfs BBC R5L
-#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
 http://212.32.241.201:8000/play/a00q
 
 #EXTINF:-1 group-title="-",tsterrfs BFBS Radio
-#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
 http://212.32.241.201:8000/play/a04l
 
 #EXTINF:-1 group-title="-",tsterrfs BLAZE
-#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
 http://212.32.241.201:8000/play/a01f
 
 #EXTINF:-1 group-title="-",tsterrfs Bloomberg HD
-#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
 http://212.32.241.201:8000/play/a050
 
 #EXTINF:-1 group-title="-",tsterrfs CHSTV
-#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
 http://212.32.241.201:8000/play/a04f
 
 #EXTINF:-1 group-title="-",tsterrfs CNN HD
-#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
 http://212.32.241.201:8000/play/a051
 
 #EXTINF:-1 group-title="-",tsterrfs Capital
-#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
 http://212.32.241.201:8000/play/a03z
 
 #EXTINF:-1 group-title="-",tsterrfs Capital XTRA
-#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
 http://212.32.241.201:8000/play/a03x
 
 #EXTINF:-1 group-title="-",tsterrfs Channel 4 HD
-#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
 http://212.32.241.201:8000/play/a002
 
 #EXTINF:-1 group-title="-",tsterrfs Channel 4+1
-#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
 http://212.32.241.201:8000/play/a00a
 
 #EXTINF:-1 group-title="-",2tsterrfs Channel 4+1
-#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
 http://212.32.241.201:8000/play/a005
 
 #EXTINF:-1 group-title="-",3tsterrfs Channel 4+1
-#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
 http://212.32.241.201:8000/play/a006
 
 #EXTINF:-1 group-title="-",4tsterrfs Channel 4+1
-#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
 http://212.32.241.201:8000/play/a004
 
 #EXTINF:-1 group-title="-",tsterrfs Channels 24
-#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
 http://212.32.241.201:8000/play/a04v
 
 #EXTINF:-1 group-title="-",tsterrfs Classic FM
-#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
 http://212.32.241.201:8000/play/a041
 
 #EXTINF:-1 group-title="-", tsterrfs Clubland TV
-#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
 http://212.32.241.201:8000/play/a01g
 
 #EXTINF:-1 group-title="-",tsterrfs DMAX
-#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
 http://212.32.241.201:8000/play/a011
 
 #EXTINF:-1 group-title="-",tsterrfs Deen TV
-#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
 http://212.32.241.201:8000/play/a04j
 
 #EXTINF:-1 group-title="-",tsterrfs E4
-#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
 http://212.32.241.201:8000/play/a00b
 
 #EXTINF:-1 group-title="-",tsterrfs E4 Extra
-#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
 http://212.32.241.201:8000/play/a008
 
 #EXTINF:-1 group-title="-",tsterrfs E4+1
-#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
 http://212.32.241.201:8000/play/a003
 
 #EXTINF:-1 group-title="-", tsterrfs FRANCE 24 HD
-#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
 http://212.32.241.201:8000/play/a03u
 
 #EXTINF:-1 group-title="-",tsterrfs Faith UK
-#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
 http://212.32.241.201:8000/play/a01p
 
 #EXTINF:-1 group-title="-",tsterfs Film4
-#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
 http://212.32.241.201:8000/play/a00d
 
 #EXTINF:-1 group-title="-",tsterrfs Film4+1
-#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
 http://212.32.241.201:8000/play/a00c
 
-#EXTINF:-1 group-title="-",G! romance+1
+#EXTINF:-1 group-title="-",tsterrfs G! romance+1
+#EXTVLCOPT:network-caching=3000
 http://212.32.241.201:8000/play/a02b
 
-#EXTINF:-1 group-title="-",GB News HD
+#EXTINF:-1 group-title="-",tsterrfs GB News HD
+#EXTVLCOPT:network-caching=3000
 http://212.32.241.201:8000/play/a04z
 
-#EXTINF:-1 group-title="-",GEO News
+#EXTINF:-1 group-title="-",tsterrfs GEO News
+#EXTVLCOPT:network-caching=3000
 http://212.32.241.201:8000/play/a01u
 
-#EXTINF:-1 group-title="-",GEO TV
+#EXTINF:-1 group-title="-",tsterrfs GEO TV
+#EXTVLCOPT:network-caching=3000
 http://212.32.241.201:8000/play/a01t
 
-#EXTINF:-1 group-title="-",GREAT! action
+#EXTINF:-1 group-title="-",tsterrfs GREAT! action
+#EXTVLCOPT:network-caching=3000
 http://212.32.241.201:8000/play/a028
 
-#EXTINF:-1 group-title="-",GREAT! movies
+#EXTINF:-1 group-title="-",tsterrfs GREAT! movies
+#EXTVLCOPT:network-caching=3000
 http://212.32.241.201:8000/play/a029
 
-#EXTINF:-1 group-title="-",GREAT! movies
+#EXTINF:-1 group-title="-",2tsterrfs GREAT! movies
+#EXTVLCOPT:network-caching=3000
 http://212.32.241.201:8000/play/a026
 
-#EXTINF:-1 group-title="-",GREAT! movies+1
+#EXTINF:-1 group-title="-",tsterrfs GREAT! movies+1
+#EXTVLCOPT:network-caching=3000
 http://212.32.241.201:8000/play/a02e
 
-#EXTINF:-1 group-title="-",GREAT! romance
+#EXTINF:-1 group-title="-",tsterrfs GREAT! romance
+#EXTVLCOPT:network-caching=3000
 http://212.32.241.201:8000/play/a02a
 
 #EXTINF:-1 group-title="-",GREAT! tv
+#EXTVLCOPT:network-caching=3000
 http://212.32.241.201:8000/play/a027
 
-#EXTINF:-1 group-title="-",GREAT! tv
+#EXTINF:-1 group-title="-",2tsterrfs GREAT! tv
+#EXTVLCOPT:network-caching=3000
 http://212.32.241.201:8000/play/a02h
 
-#EXTINF:-1 group-title="-",GREAT! tv+1
+#EXTINF:-1 group-title="-",tsterrfs GREAT! tv+1
+#EXTVLCOPT:network-caching=3000
 http://212.32.241.201:8000/play/a02i
 
 #EXTINF:-1 group-title="-",GREAT!action+1

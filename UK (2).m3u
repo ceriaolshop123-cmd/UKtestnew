@@ -1,13 +1,22 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="-",4seven
+#EXTINF:-1 group-title="-",tsterrfs 4seven
+#EXTVLCOPT:network-caching=1000
 http://212.32.241.201:8000/play/a009
-#EXTINF:-1 group-title="-",5
+
+#EXTINF:-1 group-title="-",nope tsterrfs 5
+#EXTVLCOPT:network-caching=1000
 http://212.32.241.201:8000/play/a01w
-#EXTINF:-1 group-title="-",5 HD
+
+
+#EXTINF:-1 group-title="-",tsterrfs 5 HD
+#EXTVLCOPT:network-caching=1000
 http://212.32.241.201:8000/play/a023
-#EXTINF:-1 group-title="-",5 USA
+
+#EXTINF:-1 group-title="-",tsterrfs 5 USA
+#EXTVLCOPT:network-caching=1000
 http://212.32.241.201:8000/play/a01x
+
 #EXTINF:-1 group-title="-",5+1
 http://212.32.241.201:8000/play/a022
 #EXTINF:-1 group-title="-",55124

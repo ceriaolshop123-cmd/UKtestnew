@@ -394,28 +394,36 @@ http://212.32.241.201:8000/play/a04h
 #EXTVLCOPT:network-caching=3000
 http://212.32.241.201:8000/play/a04m
 
-#EXTINF:-1 group-title="-",LBC News
+#EXTINF:-1 group-title="-",tsterrfs LBC News
+#EXTVLCOPT:network-caching=3000
 http://212.32.241.201:8000/play/a04a
 
-#EXTINF:-1 group-title="-",LEGEND
+#EXTINF:-1 group-title="-",tsterrfs LEGEND
+#EXTVLCOPT:network-caching=3000
 http://212.32.241.201:8000/play/a02z
 
-#EXTINF:-1 group-title="-",LEGEND XTRA
+#EXTINF:-1 group-title="-",tsterrfs LEGEND XTRA
+#EXTVLCOPT:network-caching=3000
 http://212.32.241.201:8000/play/a02w
 
-#EXTINF:-1 group-title="-",LEGEND XTRA+1
+#EXTINF:-1 group-title="-",tsterrfs LEGEND XTRA+1
+#EXTVLCOPT:network-caching=3000
 http://212.32.241.201:8000/play/a034
 
-#EXTINF:-1 group-title="-",MATV National
+#EXTINF:-1 group-title="-",tsterrfs MATV National
+#EXTVLCOPT:network-caching=3000
 http://212.32.241.201:8000/play/a048
 
-#EXTINF:-1 group-title="-",More4
+#EXTINF:-1 group-title="-",tsterrfs More4
+#EXTVLCOPT:network-caching=3000
 http://212.32.241.201:8000/play/a00e
 
-#EXTINF:-1 group-title="-",More4+1
+#EXTINF:-1 group-title="-",tsterrfs More4+1
+#EXTVLCOPT:network-caching=3000
 http://212.32.241.201:8000/play/a007
 
-#EXTINF:-1 group-title="-",Music India
+#EXTINF:-1 group-title="-",tsterrfs Music India
+#EXTVLCOPT:network-caching=3000
 http://212.32.241.201:8000/play/a04w
 
 #EXTINF:-1 group-title="-",NDTV World

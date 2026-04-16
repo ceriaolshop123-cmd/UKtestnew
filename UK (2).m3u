@@ -95,8 +95,11 @@ http://212.32.241.201:8000/play/a04j
 http://212.32.241.201:8000/play/a00b
 #EXTINF:-1 group-title="-",E4 Extra
 http://212.32.241.201:8000/play/a008
-#EXTINF:-1 group-title="-",E4+1
+
+#EXTINF:-1 group-title="-",tsterrfs E4+1
+#EXTVLCOPT:network-caching=1000
 http://212.32.241.201:8000/play/a003
+
 #EXTINF:-1 group-title="-",FRANCE 24 HD
 http://212.32.241.201:8000/play/a03u
 #EXTINF:-1 group-title="-",Faith UK

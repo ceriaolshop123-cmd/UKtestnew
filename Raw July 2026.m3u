@@ -550,6 +550,88 @@ http://50.7.120.34:8080/EUROSPORT_2/index.m3u8
 
 
 
+#EXTM3U
+#EXTINF:-1,AL NADA TV
+http://176.65.146.100:8031/play/a0f7
+#EXTINF:-1,AL Shams
+http://176.65.146.100:8031/play/a0ew
+#EXTINF:-1,AL-Anbar
+http://176.65.146.100:8031/play/a0f8
+#EXTINF:-1,Al Masryia HD
+http://176.65.146.100:8031/play/a0ez
+#EXTINF:-1,Al Nas
+http://176.65.146.100:8031/play/a0f6
+#EXTINF:-1,Al joumhouriya
+http://176.65.146.100:8031/play/a0ey
+#EXTINF:-1,Al-Majd3
+http://176.65.146.100:8031/play/a0f9
+#EXTINF:-1,AlKass three HD
+http://176.65.146.100:8031/play/a0eu
+#EXTINF:-1,Alkass four HD
+http://176.65.146.100:8031/play/a0v
+#EXTINF:-1,Alkass one HD
+http://176.65.146.100:8031/play/a0es
+#EXTINF:-1,Alkass two HD
+http://176.65.146.100:8031/play/a0et
+#EXTINF:-1,Althanya
+http://176.65.146.100:8031/play/a0f1
+#EXTINF:-1,Nile TV
+http://176.65.146.100:8031/play/a0f0
+#EXTINF:-1,Panorama Drama
+http://176.65.146.100:8031/play/a0f2
+#EXTINF:-1,Panorama Drama 2
+http://176.65.146.100:8031/play/a0f3
+#EXTINF:-1,Panorama Film
+http://176.65.146.100:8031/play/a0f4
+#EXTINF:-1,Panorama Food
+http://176.65.146.100:8031/play/a0f5
+#EXTM3U
+#EXTINF:-1,AL Resala
+http://176.65.146.100:8032/play/a0ew
+#EXTINF:-1,LBC SAT
+http://176.65.146.100:8032/play/a0ev
+#EXTINF:-1,Rotana Cinema EGY
+http://176.65.146.100:8032/play/a0et
+#EXTINF:-1,Rotana Cinema EGY HD
+http://176.65.146.100:8032/play/a0ex
+#EXTINF:-1,Rotana Cinema KSA
+http://176.65.146.100:8032/play/a0eu
+#EXTINF:-1,Rotana Classic
+http://176.65.146.100:8032/play/a0er
+#EXTINF:-1,Rotana Clip
+http://176.65.146.100:8032/play/a0ep
+#EXTINF:-1,Rotana Drama
+http://176.65.146.100:8032/play/a0es
+#EXTINF:-1,Rotana Khalijia
+http://176.65.146.100:8032/play/a0eq
+#EXTINF:-1,Rotana Music
+http://176.65.146.100:8032/play/a0eo
+#EXTM3U
+#EXTINF:-1,Al Arabiya
+http://176.65.146.100:8033/play/a06a
+#EXTINF:-1,Al Hadath
+http://176.65.146.100:8033/play/a069
+#EXTINF:-1,MBC 2
+http://176.65.146.100:8033/play/a06f
+#EXTINF:-1,MBC 3
+http://176.65.146.100:8033/play/a06d
+#EXTINF:-1,MBC 4
+http://176.65.146.100:8033/play/a06c
+#EXTINF:-1,MBC 5
+http://176.65.146.100:8033/play/a06b
+#EXTINF:-1,MBC Action
+http://176.65.146.100:8033/play/a06e
+#EXTINF:-1,MBC Bollywood
+http://176.65.146.100:8033/play/a06h
+#EXTINF:-1,MBC Drama
+http://176.65.146.100:8033/play/a06i
+#EXTINF:-1,MBC MAX
+http://176.65.146.100:8033/play/a06g
+#EXTINF:-1,Wanasah
+http://176.65.146.100:8033/play/a06k
+#EXTM3U
+#EXTINF:-1,North Africa
+http://176.65.146.100:8034/play/a047
 
 
 

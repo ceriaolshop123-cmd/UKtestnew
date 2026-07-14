@@ -7,24 +7,46 @@ Newcastle upon Tyne,United Kingdom
 
 #EXTM3U
 #EXTINF:0,BBC ONE NE&C
+#EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
 http://86.167.120.211:4200/bysid/4169
+
+
 #EXTINF:0,BBC TWO
+#EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
 http://86.167.120.211:4200/bysid/4287
+
+
 #EXTINF:0,BBC THREE
+#EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
 http://86.167.120.211:4200/bysid/4288
+
 #EXTINF:0,BBC NEWS
+#EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
 http://86.167.120.211:4200/bysid/4352
+
 #EXTINF:0,BBC Red Button
+#EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
 http://86.167.120.211:4200/bysid/4416
+
 #EXTINF:0,BBC FOUR
+#EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
 http://86.167.120.211:4200/bysid/4544
+
 #EXTINF:0,CBBC
+#EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
 http://86.167.120.211:4200/bysid/4608
+
 #EXTINF:0,CBeebies
+#EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
 http://86.167.120.211:4200/bysid/4672
+
+
 #EXTINF:0,BBC Parliament
+#EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
 http://86.167.120.211:4200/bysid/4736
+
 #EXTINF:0,BBC RB 1
+#EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
 http://86.167.120.211:4200/bysid/7168
 
 

@@ -2,6 +2,35 @@
 
 #EXTM3U
 
+
+http://5.180.164.197:8080/3SAT/index.m3u8
+http://5.180.164.197:8080/BLOOMBERG/index.m3u8
+http://5.180.164.197:8080/CNBC/index.m3u8
+http://5.180.164.197:8080/CNN/index.m3u8
+http://5.180.164.197:8080/COMEDYCENTRAL/index.m3u8
+http://5.180.164.197:8080/DASERSTE/index.m3u8
+http://5.180.164.197:8080/FRANCE24EN/index.m3u8
+http://5.180.164.197:8080/FRANCE24FR/index.m3u8
+http://5.180.164.197:8080/KABEL1/index.m3u8
+http://5.180.164.197:8080/KABEL1DOKU/index.m3u8
+http://5.180.164.197:8080/NTV/index.m3u8
+http://5.180.164.197:8080/ONE/index.m3u8
+http://5.180.164.197:8080/PRO7/index.m3u8
+http://5.180.164.197:8080/PRO7MAXX/index.m3u8
+http://5.180.164.197:8080/RTL/index.m3u8
+http://5.180.164.197:8080/RTL2/index.m3u8
+http://5.180.164.197:8080/SAT1/index.m3u8
+http://5.180.164.197:8080/SAT1GOLD/index.m3u8
+http://5.180.164.197:8080/SIXX/index.m3u8
+http://5.180.164.197:8080/SKYNEWS/index.m3u8
+http://5.180.164.197:8080/SUPERRTL/index.m3u8
+http://5.180.164.197:8080/TV5MONDE/index.m3u8
+http://5.180.164.197:8080/VOX/index.m3u8
+http://5.180.164.197:8080/WELT/index.m3u8
+http://5.180.164.197:8080/ZDF/index.m3u8
+http://5.180.164.197:8080/ZDFNEO/index.m3u8
+
+
 #EXTINF:-1,FRANCE 2
 http://5.180.164.197:8080/FRANCE2/index.m3u8
 #EXTINF:-1,FRANCE 3

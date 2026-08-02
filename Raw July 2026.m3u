@@ -1,6 +1,71 @@
-
-
 #EXTM3U
+
+
+
+#EXTINF:-1,BBC1
+http://51.178.182.222:80/BBC1/index.m3u8
+#EXTINF:-1,BBC2
+http://51.178.182.222:80/BBC2/index.m3u8
+#EXTINF:-1,BBC3
+http://51.178.182.222:80/BBC3/index.m3u8
+#EXTINF:-1,BBC4
+http://51.178.182.222:80/BBC4/index.m3u8
+#EXTINF:-1,ITV1
+http://51.178.182.222:80/ITV1/index.m3u8
+#EXTINF:-1,ITV2
+http://51.178.182.222:80/ITV2/index.m3u8
+#EXTINF:-1,ITV3
+http://51.178.182.222:80/ITV3/index.m3u8
+#EXTINF:-1,ITV4
+http://51.178.182.222:80/ITV4/index.m3u8
+#EXTINF:-1,İTVBE
+http://51.178.182.222:80/itvbe/index.m3u8
+#EXTINF:-1,TLC HD
+http://89.33.29.115:8080/TLC/index.m3u8
+#EXTINF:-1,Dmax
+http://89.33.29.115:8080/Dmax/index.m3u8
+#EXTINF:-1,Comedy Central HD
+http://89.33.29.115:8080/Comedy_Central/index.m3u8
+#EXTINF:-1,SkyArts
+http://89.33.29.115:8080/Sky_Arts/index.m3u8
+#EXTINF:-1,SkyAtlantic
+http://51.178.182.222:80/Sky_Atlantic/index.m3u8
+#EXTINF:-1,Sky Comedy
+http://51.178.182.222:80/SkyComedy/index.m3u8
+#EXTINF:-1,Sky History
+http://51.178.182.222:80/Sky_History/index.m3u8
+#EXTINF:-1,Drama
+http://51.178.182.222:80/Drama/index.m3u8
+#EXTINF:-1,Discovery Channel
+http://51.178.182.222:80/Discovery/index.m3u8
+#EXTINF:-1,Nikeledon
+http://51.178.182.222:80/Nick/index.m3u8
+#EXTINF:-1,Alibi
+http://89.33.29.115:8080/Alibi/index.m3u8
+#EXTINF:-1,QUEST
+http://51.178.182.222:80/Quest/index.m3u8
+#EXTINF:-1,Channel4
+http://51.178.182.222:80/Channel4/index.m3u8
+#EXTINF:-1,Channel5
+http://51.178.182.222:80/Channel5/index.m3u8
+#EXTINF:-1,5star
+http://51.178.182.222:80/5Star/index.m3u8
+#EXTINF:-1,Film4 HD
+http://51.178.182.222:80/Film4/index.m3u8
+#EXTINF:-1,More4 HD
+http://89.33.29.115:8080/More4/index.m3u8
+#EXTINF:-1,E4 HD
+http://51.178.182.222:80/E4/index.m3u8
+#EXTINF:-1,5usa
+http://51.178.182.222:80/5usa/index.m3u8
+#EXTINF:-1,BBCAlba
+http://51.178.182.222:80/bbcalba/index.m3u8
+#EXTINF:-1,4seven
+http://51.178.182.222:80/4seven/index.m3u8
+#EXTINF:-1,Eden
+http://51.178.182.222:80/Eden/index.m3u8
+#EXTINF:-1,BBCNews
+http://51.178.182.222:80/BBCNews/index.m3u8
 
 
 http://5.180.164.197:8080/3SAT/index.m3u8

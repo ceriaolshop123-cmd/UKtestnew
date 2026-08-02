@@ -152,6 +152,19 @@ http://79.112.79.166:8069/udp/239.10.20.23:1234
 
 
 
+#EXTINF:0 group-title="PT",RTP 1
+http://50.7.120.34:8080/RTP_1/index.m3u8
+#EXTINF:0 group-title="PT",RTP 2
+http://50.7.120.34:8080/RTP_2/index.m3u8
+#EXTINF:0 group-title="PT",RTP Notícias
+http://50.7.120.34:8080/RTP_3/index.m3u8
+#EXTINF:0 group-title="PT",RTP Memória
+http://50.7.120.34:8080/RTP_MEMORIA/index.m3u8
+#EXTINF:0 group-title="PT",RTP Mundo
+http://202.169.224.202:8800/udp/239.6.2.1:1234
+
+
+
 
 
 

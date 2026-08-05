@@ -68,6 +68,683 @@ http://51.178.182.222:80/Eden/index.m3u8
 http://51.178.182.222:80/BBCNews/index.m3u8
 
 
+
+#EXTM3U
+#EXTINF: -1, BBC1 FHD / HD
+http://79.143.16.74:80/stream/1/bbc1fhd.ts
+#EXTINF: -1, VM 1 HD / SD
+http://45.90.106.117:80/stream/2/vm1sd.ts
+#EXTINF: -1, VM 2 HD / SD
+http://45.90.106.117:80/stream/3/vm2sd.ts
+#EXTINF: -1, BBC2 FHD / HD
+http://79.143.16.74:80/stream/4/bbc2fhd.ts
+#EXTINF: -1, ITV 1 FHD / HD
+http://45.90.106.126:80/stream/5/itv1fhd.ts
+#EXTINF: -1, CH4 FHD / HD
+http://79.143.16.74:80/stream/6/ch4fhd.ts
+#EXTINF: -1, CH5 FHD / HD
+http://79.143.16.74:80/stream/7/ch5fhd.ts
+#EXTINF: -1, ITV 2 FHD / HD
+http://79.143.16.74:80/stream/8/itv2fhd.ts
+#EXTINF: -1, ITV 3 FHD / HD
+http://79.143.16.74:80/stream/9/itv3fhd.ts
+#EXTINF: -1, ITV 4 FHD / HD
+http://79.143.16.74:80/stream/10/itv4fhd.ts
+#EXTINF: -1, E4 FHD / HD
+http://79.143.16.74:80/stream/11/e4fhd.ts
+#EXTINF: -1, ALIBI FHD / HD
+http://79.143.16.74:80/stream/13/alibifhd.ts
+#EXTINF: -1, SKY CINEMA DRAMA FHD / HD
+http://45.90.106.117:80/stream/14/skycindramafhd.ts
+#EXTINF: -1, MORE4 FHD / HD
+http://79.143.16.74:80/stream/15/more4fhd.ts
+#EXTINF: -1, SKY HISTORY FHD / HD
+http://79.143.16.74:80/stream/16/skyhistfhd.ts
+#EXTINF: -1, NAT GEO FHD / HD
+http://79.143.16.74:80/stream/18/natgeofhd.ts
+#EXTINF: -1, NAT GEO WILD FHD / HD
+http://79.143.16.74:80/stream/19/natgeowildfhd.ts
+#EXTINF: -1, CRIME & INV FHD / HD
+http://79.143.16.74:80/stream/20/crimeinvfhd.ts
+#EXTINF: -1, SYFY FHD / HD
+http://79.143.16.74:80/stream/21/syfyfhd.ts
+#EXTINF: -1, SS CRICKET FHD / HD
+http://79.143.16.38:80/stream/22/sscrickethvec.ts
+#EXTINF: -1, DAVE FHD / HD
+http://79.143.16.74:80/stream/23/davefhd.ts
+#EXTINF: -1, GOLD FHD / HD
+http://79.143.16.74:80/stream/24/goldfhd.ts
+#EXTINF: -1, SONY TV FHD / HD
+http://79.143.16.74:80/stream/26/sonytvfhd.ts
+#EXTINF: -1, DISCOVERY FHD / HD
+http://79.143.16.74:80/stream/28/discofhd.ts
+#EXTINF: -1, SKY DOCUMENTARIES FHD / HD
+http://79.143.16.74:80/stream/29/skydocsfhd.ts
+#EXTINF: -1, SKY NATURE FHD / HD
+http://45.90.106.126:80/stream/30/skynatfhd.ts
+#EXTINF: -1, SKY CRIME FHD / HD
+http://79.143.16.74:80/stream/31/skycrimefhd.ts
+#EXTINF: -1, SKY COMEDY FHD / HD
+http://79.143.16.74:80/stream/32/skycomfhd.ts
+#EXTINF: -1, SKY WITNESS FHD / HD
+http://79.143.16.74:80/stream/33/skywitfhd.ts
+#EXTINF: -1, SKY ATLANTIC FHD / HD
+http://79.143.16.74:80/stream/34/skyatlfhd.ts
+#EXTINF: -1, SKY ONE FHD / HD
+http://79.143.16.74:80/stream/35/skymaxfhd.ts
+#EXTINF: -1, SKY ARTS FHD / HD
+http://45.90.106.126:80/stream/36/skyartsfhd.ts
+#EXTINF: -1, QUEST FHD / HD
+http://45.90.106.126:80/stream/37/questfhd.ts
+#EXTINF: -1, 5 ACTION HD / SD
+http://45.90.106.117:80/stream/44/paramsd.ts
+#EXTINF: -1, BBC 4 FHD / HD
+http://45.90.106.126:80/stream/45/bbc4fhd.ts
+#EXTINF: -1, PBS AMERICA SD
+http://89.46.123.5:80/stream/46/pbs.ts
+#EXTINF: -1, GREAT MYSTERY SD
+http://89.46.123.5:80/stream/47/smoviessd.ts
+#EXTINF: -1, LEGEND XTRA SD
+http://89.46.123.5:80/stream/48/legendxtrasd.ts
+#EXTINF: -1, FILM 4 FHD / HD
+http://45.90.106.126:80/stream/49/film4fhd.ts
+#EXTINF: -1, GREAT MOVIE CLASSIC SD
+http://89.46.123.5:80/stream/50/smclass.ts
+#EXTINF: -1, NICK JNR PEPPA SD
+http://89.46.123.5:80/stream/51/nickjrpeppasd.ts
+#EXTINF: -1, CBEEBIES FHD / HD
+http://45.90.106.126:80/stream/52/cbeebfhd.ts
+#EXTINF: -1, CBBC FHD / HD
+http://45.90.106.126:80/stream/53/cbbcfhd.ts
+#EXTINF: -1, BBC PARLIAMENT SD
+http://89.46.123.5:80/stream/55/bbcparlsd.ts
+#EXTINF: -1, LFC FHD / HD
+http://79.143.16.38:80/stream/59/lfcfhd.ts
+#EXTINF: -1, RTE NEWS NOW SD
+http://89.46.123.5:80/stream/61/rtenews.ts
+#EXTINF: -1, FOOD SD
+http://89.46.123.5:80/stream/62/foodsd.ts
+#EXTINF: -1, GREAT TV SD
+http://89.46.123.5:80/stream/63/sonytvsd.ts
+#EXTINF: -1, CARTOON NETWORK FHD / HD
+http://45.90.106.126:80/stream/65/cartoonnetworfhd.ts
+#EXTINF: -1, BOOMERANG FHD / HD
+http://45.90.106.126:80/stream/66/boomfhd.ts
+#EXTINF: -1, NICK FHD / HD
+http://45.90.106.126:80/stream/67/nickfhd.ts
+#EXTINF: -1, BBC NEWS FHD / HD
+http://45.90.106.126:80/stream/68/bbcnewsfhd.ts
+#EXTINF: -1, CNBC FHD / HD
+http://45.90.106.126:80/stream/69/cnbcfhd.ts
+#EXTINF: -1, SONY MAX FHD / HD
+http://45.90.106.126:80/stream/70/sonymaxfhd.ts
+#EXTINF: -1, COMEDY CENTRAL FHD / HD
+http://45.90.106.126:80/stream/71/ccentralfhd.ts
+#EXTINF: -1, BBC SCOTLAND HD
+http://45.90.106.117:80/stream/73/bbcscothd.ts
+#EXTINF: -1, BBC ONE WALES HD
+http://79.143.16.74:80/stream/1/bbc1fhd.ts
+#EXTINF: -1, BBC ONE SCOTLAND HD
+http://45.90.106.117:80/stream/75/bbc1scothd.ts
+#EXTINF: -1, BBC ONE NI HD
+http://45.90.106.117:80/stream/76/bbc1nihd.ts
+#EXTINF: -1, BBC ONE EAST SD
+http://45.90.106.117:80/stream/78/bbc1east.ts
+#EXTINF: -1, BBC ONE WEST MIDS HD
+http://89.46.123.5:80/stream/81/bbc1wmids.ts
+#EXTINF: -1, BBC ONE YORK LINC HD
+http://89.46.123.5:80/stream/82/bbc1tkli.ts
+#EXTINF: -1, BBC1 NORTH EAST SD
+http://89.46.123.5:80/stream/85/bbc1ne.ts
+#EXTINF: -1, BBC1 NORTH WEST SD
+http://89.46.123.5:80/stream/86/bbc1nw.ts
+#EXTINF: -1, ITV BORDER SCOTLAND HD
+http://45.90.106.117:80/stream/87/itv1bs.ts
+#EXTINF: -1, ITV 1 MERIDIAN EAST HD
+http://45.90.106.117:80/stream/88/itv1mer.ts
+#EXTINF: -1, ITV 1 WEST COUNTRY WEST HD
+http://45.90.106.117:80/stream/89/itv1wcw.ts
+#EXTINF: -1, ITV 1 WEST COUNTRY EAST HD
+http://45.90.106.117:80/stream/90/itv1wce.ts
+#EXTINF: -1, ITV 1 TYNE TEES HD
+http://45.90.106.117:80/stream/91/itv1tt.ts
+#EXTINF: -1, ITV 1 GRANADA HD
+http://45.90.106.117:80/stream/92/itv1gran.ts
+#EXTINF: -1, ITV 1 MERIDIAN HD
+http://45.90.106.117:80/stream/93/itv1me.ts
+#EXTINF: -1, ITV 1 WALES HD
+http://45.90.106.117:80/stream/94/itv1wal.ts
+#EXTINF: -1, ITV 1 ANGLIA HD
+http://45.90.106.117:80/stream/95/itv1ang.ts
+#EXTINF: -1, S4C HD
+http://45.90.106.117:80/stream/98/s4chd.ts
+#EXTINF: -1, UTV HD
+http://45.90.106.117:80/stream/99/utvhd.ts
+#EXTINF: -1, STV HD
+http://45.90.106.117:80/stream/100/stvhd.ts
+#EXTINF: -1, BLOOMBERG FHD / HD
+http://45.90.106.126:80/stream/101/bloomfhd.ts
+#EXTINF: -1, GB NEWS FHD / HD
+http://45.90.106.126:80/stream/102/gbnewsfhd.ts
+#EXTINF: -1, CNN FHD / HD
+http://45.90.106.126:80/stream/103/cnnfhd.ts
+#EXTINF: -1, ITV CENTRAL WEST SD
+http://89.46.123.5:80/stream/104/itvcentwestsd.ts
+#EXTINF: -1, ITV CENTRAL EAST SD
+http://89.46.123.5:80/stream/105/itvcenteast.ts
+#EXTINF: -1, RTE 2 HD / SD
+http://45.90.106.117:80/stream/106/rte2sd.ts
+#EXTINF: -1, VM 3 SD / HD (UPSCALLED)
+http://45.90.106.117:80/stream/107/vm3sd.ts
+#EXTINF: -1, TG4 HD
+http://45.90.106.117:80/stream/108/tg4hd.ts
+#EXTINF: -1, BBC ONE SD
+http://89.46.123.5:80/stream/109/bbc1sd.ts
+#EXTINF: -1, ITV 1 SD
+http://89.46.123.5:80/stream/110/itv1sd.ts
+#EXTINF: -1, RTE JNR SD
+http://89.46.123.5:80/stream/111/rtejnr.ts
+#EXTINF: -1, EDEN SD
+http://89.46.123.5:80/stream/114/edensd.ts
+#EXTINF: -1, 5USA SD
+http://89.46.123.5:80/stream/115/5usasd.ts
+#EXTINF: -1, TRUE CRIME XTRA SD
+http://89.46.123.5:80/stream/116/truecrimextrasd.ts
+#EXTINF: -1, 5SELECT SD
+http://89.46.123.5:80/stream/117/5selsd.ts
+#EXTINF: -1, 5STAR SD
+http://89.46.123.5:80/stream/118/5starsd.ts
+#EXTINF: -1, TRUE CRIME SD
+http://89.46.123.5:80/stream/119/truecrimesd.ts
+#EXTINF: -1, REALLY SD
+http://89.46.123.5:80/stream/120/reallysd.ts
+#EXTINF: -1, Legend UK SD
+http://89.46.123.5:80/stream/121/cbsjussd.ts
+#EXTINF: -1, DRAMA SD
+http://89.46.123.5:80/stream/122/dramasd.ts
+#EXTINF: -1, QUEST RED SD
+http://89.46.123.5:80/stream/123/questredsd.ts
+#EXTINF: -1, YESTERDAY SD
+http://89.46.123.5:80/stream/124/yesterdaysd.ts
+#EXTINF: -1, BLAZE SD
+http://89.46.123.5:80/stream/125/blazesd.ts
+#EXTINF: -1, DMAX SD
+http://89.46.123.5:80/stream/127/dmaxsd.ts
+#EXTINF: -1, TOGETHER SD
+http://89.46.123.5:80/stream/128/togethersd.ts
+#EXTINF: -1, CHALLENGE SD
+http://89.46.123.5:80/stream/130/challengesd.ts
+#EXTINF: -1, 4SEVEN SD / HD
+http://45.90.106.117:80/stream/131/4sevensd.ts
+#EXTINF: -1, ITVBE SD
+http://89.46.123.5:80/stream/132/itvbesd.ts
+#EXTINF: -1, DISCOVERY TURBO SD
+http://89.46.123.5:80/stream/133/disctursd.ts
+#EXTINF: -1, DISCOVERY SCIENCE SD
+http://89.46.123.5:80/stream/134/discscisd.ts
+#EXTINF: -1, DISCOVERY HISTORY SD
+http://89.46.123.5:80/stream/135/dischist.ts
+#EXTINF: -1, ID SD
+http://89.46.123.5:80/stream/136/id.ts
+#EXTINF: -1, CARTOONITO SD
+http://89.46.123.5:80/stream/141/cartoonitosd.ts
+#EXTINF: -1, BABY TV SD
+http://89.46.123.5:80/stream/142/babytvsd.ts
+#EXTINF: -1, NICKTOONS SD
+http://89.46.123.5:80/stream/143/nicktoonssd.ts
+#EXTINF: -1, NICK JNR SD
+http://89.46.123.5:80/stream/144/nickjnrsd.ts
+#EXTINF: -1, COMEDY XTRA SD
+http://89.46.123.5:80/stream/145/comedyxtrasd.ts
+#EXTINF: -1, CLUBLAND SD
+http://89.46.123.5:80/stream/151/clublandsd.ts
+#EXTINF: -1, NOW 90S SD
+http://89.46.123.5:80/stream/153/now90ssd.ts
+#EXTINF: -1, NOW 80S SD
+http://89.46.123.5:80/stream/154/now80ssd.ts
+#EXTINF: -1, NOW 70S SD
+http://89.46.123.5:80/stream/155/now70ssd.ts
+#EXTINF: -1, AL JAZEERA SD
+http://89.46.123.5:80/stream/156/aljazsd.ts
+#EXTINF: -1, TRT WORLD SD
+http://89.46.123.5:80/stream/157/trtsd.ts
+#EXTINF: -1, EURONEWS SD
+http://89.46.123.5:80/stream/159/enewssd.ts
+#EXTINF: -1, COURT TV SD
+http://89.46.123.5:80/stream/160/courtsd.ts
+#EXTINF: -1, GEO NEWS SD
+http://89.46.123.5:80/stream/162/geonews.ts
+#EXTINF: -1, ARISE NEWS SD
+http://89.46.123.5:80/stream/163/arisenews.ts
+#EXTINF: -1, ARY DIGITAL SD
+http://89.46.123.5:80/stream/165/aryfam.ts
+#EXTINF: -1, ATN SD
+http://89.46.123.5:80/stream/166/atnsd.ts
+#EXTINF: -1, AHLEBAIT TV SD
+http://89.46.123.5:80/stream/167/ahlesd.ts
+#EXTINF: -1, AHLULBAYT TV SD
+http://89.46.123.5:80/stream/168/alhusd.ts
+#EXTINF: -1, PITAARA SD
+http://89.46.123.5:80/stream/169/pitaari.ts
+#EXTINF: -1, COLORS SD
+http://89.46.123.5:80/stream/170/colors.ts
+#EXTINF: -1, COLORS CINEPLEX SD
+http://89.46.123.5:80/stream/171/cineplexsd.ts
+#EXTINF: -1, COLORS RISHTEY SD
+http://89.46.123.5:80/stream/172/crishteysd.ts
+#EXTINF: -1, PTC PUNJABI SD
+http://89.46.123.5:80/stream/173/ptcpsd.ts
+#EXTINF: -1, KANSHI TV SD
+http://89.46.123.6:80/stream/174/kanshisd.ts
+#EXTINF: -1, DEEN TV SD
+http://89.46.123.6:80/stream/175/deensd.ts
+#EXTINF: -1, SIKH CHANNEL SD
+http://89.46.123.6:80/stream/176/sihksd.ts
+#EXTINF: -1, TAKBEER TV SD
+http://89.46.123.6:80/stream/177/takbeersd.ts
+#EXTINF: -1, HUM EUROPE SD
+http://89.46.123.6:80/stream/178/humsd.ts
+#EXTINF: -1, NEW VISION TV SD
+http://89.46.123.6:80/stream/180/nvtvsd.ts
+#EXTINF: -1, MATV NATIONAL SD
+http://89.46.123.6:80/stream/181/matvnsd.ts
+#EXTINF: -1, ISLAM CHANNEL SD
+http://89.46.123.6:80/stream/182/islamsd.ts
+#EXTINF: -1, DISCOVERY TURBO +1 SD
+http://89.46.123.6:80/stream/183/disctur1.ts
+#EXTINF: -1, DICOVERY SCIENCE +1 SD
+http://89.46.123.6:80/stream/184/sicsci1.ts
+#EXTINF: -1, DISCOVERY HISTORY +1 SD
+http://89.46.123.6:80/stream/185/dischist1.ts
+#EXTINF: -1, YESTERDAY +1 SD
+http://89.46.123.6:80/stream/186/yest1.ts
+#EXTINF: -1, TLC +1 SD
+http://89.46.123.6:80/stream/187/tlc1.ts
+#EXTINF: -1, CHANNEL 4 +1 SD
+http://89.46.123.6:80/stream/189/ch41.ts
+#EXTINF: -1, NICK JR +1 SD
+http://89.46.123.6:80/stream/191/njr1.ts
+#EXTINF: -1, COMEDY CENTRAL +1 SD
+http://89.46.123.6:80/stream/192/comcen1.ts
+#EXTINF: -1, BOOMERANG +1 SD
+http://89.46.123.6:80/stream/193/boom1.ts
+#EXTINF: -1, E4 +1 SD
+http://89.46.123.6:80/stream/194/e41.ts
+#EXTINF: -1, MORE4 +1 SD
+http://89.46.123.6:80/stream/195/more41.ts
+#EXTINF: -1, ITV 2 +1 SD
+http://89.46.123.6:80/stream/196/itv21.ts
+#EXTINF: -1, ITV 4 +1 SD
+http://89.46.123.6:80/stream/197/itv41.ts
+#EXTINF: -1, ITV 3 +1 SD
+http://89.46.123.6:80/stream/198/itv31.ts
+#EXTINF: -1, 5STAR +1 SD
+http://89.46.123.6:80/stream/199/5star1.ts
+#EXTINF: -1, 5USA +1 SD
+http://89.46.123.6:80/stream/200/5usa1.ts
+#EXTINF: -1, ANIMAL PLANET +1 SD
+http://89.46.123.6:80/stream/201/anipl1.ts
+#EXTINF: -1, TRUE CRIME +1 SD
+http://89.46.123.6:80/stream/202/truecrime1.ts
+#EXTINF: -1, CHANNEL 5 +1 SD
+http://89.46.123.6:80/stream/203/ch51.ts
+#EXTINF: -1, DISCOVERY +1 SD
+http://89.46.123.6:80/stream/204/disc1.ts
+#EXTINF: -1, EDEN +1 SD
+http://89.46.123.6:80/stream/205/eden1.ts
+#EXTINF: -1, GOLD +1 SD
+http://89.46.123.6:80/stream/206/gold1.ts
+#EXTINF: -1, ID +1 SD
+http://89.46.123.6:80/stream/207/id1.ts
+#EXTINF: -1, NICK +1 SD
+http://89.46.123.6:80/stream/208/nick1.ts
+#EXTINF: -1, U&W +1 SD
+http://89.46.123.6:80/stream/211/uw1.ts
+#EXTINF: -1, ALIBI +1 SD
+http://89.46.123.6:80/stream/212/alibi1.ts
+#EXTINF: -1, CARTOON NETWORK +1 SD
+http://89.46.123.6:80/stream/213/carnet1.ts
+#EXTINF: -1, ITV 1 +1 SD
+http://89.46.123.6:80/stream/214/itv11.ts
+#EXTINF: -1, DRAMA +1 SD
+http://89.46.123.6:80/stream/215/drama1.ts
+#EXTINF: -1, QUEST RED +1 SD
+http://89.46.123.6:80/stream/216/quered1.ts
+#EXTINF: -1, QUEST +1 SD
+http://89.46.123.6:80/stream/217/que1.ts
+#EXTINF: -1, DMAX +1 SD
+http://89.46.123.6:80/stream/218/dmax1.ts
+#EXTINF: -1, ANIMAL PLANET SD
+http://89.46.123.6:80/stream/219/aniplasd.ts
+#EXTINF: -1, DAVE JA VU SD
+http://89.46.123.6:80/stream/221/davejavu.ts
+#EXTINF: -1, RTE 1 HD / SD
+http://45.90.106.117:80/stream/223/rte1sd.ts
+#EXTINF: -1, SKY CINEMA THRILLER FHD / HD
+http://79.143.16.38:80/stream/224/skycinthrillfhd.ts
+#EXTINF: -1, SKY CINEMA GREATS FHD / HD
+http://79.143.16.38:80/stream/225/skycingreatsfhd.ts
+#EXTINF: -1, SKY CINEMA SELECT FHD / HD
+http://79.143.16.38:80/stream/226/skycinselectfhd.ts
+#EXTINF: -1, SKY CINEMA PREMIER FHD / HD
+http://79.143.16.38:80/stream/228/skycinpremfhd.ts
+#EXTINF: -1, SKY CINEMA HITS FHD / HD
+http://79.143.16.38:80/stream/229/skycinhitsfhd.ts
+#EXTINF: -1, SKY CINEMA FAMILY FHD / HD
+http://79.143.16.38:80/stream/230/skycinfamfhd.ts
+#EXTINF: -1, SKY CINEMA COMEDY FHD / HD
+http://79.143.16.38:80/stream/231/skycincomedyfhd.ts
+#EXTINF: -1, SKY CINEMA ACTION FHD / HD
+http://79.143.16.38:80/stream/232/skycinactionfhd.ts
+#EXTINF: -1, SKY CINEMA SCI/ HOR FHD / HD
+http://79.143.16.38:80/stream/233/skycinsyfyfhd.ts
+#EXTINF: -1, SS MAIN EVENT FHD / HD
+http://79.143.16.38:80/stream/234/ssmehvec.ts
+#EXTINF: -1, SS PREM LEAGUE FHD / HD
+http://79.143.16.38:80/stream/235/sspremhvec.ts
+#EXTINF: -1, SS FOOTBALL FHD / HD
+http://79.143.16.38:80/stream/236/ssfoothvec.ts
+#EXTINF: -1, SS GOLF FHD / HD
+http://79.143.16.38:80/stream/237/ssgolfhvec.ts
+#EXTINF: -1, SS ACTION FHD / HD
+http://79.143.16.38:80/stream/239/ssactionhvec.ts
+#EXTINF: -1, SS PLUS FHD / HD
+http://79.143.16.38:80/stream/240/ssplusfhd.ts
+#EXTINF: -1, SS MIX FHD / HD
+http://79.143.16.38:80/stream/241/ssmixfhd.ts
+#EXTINF: -1, SS NEWS FHD / HD
+http://79.143.16.38:80/stream/242/ssnewsfhd.ts
+#EXTINF: -1, TNT SPORTS 1 FHD / HD
+http://79.143.16.38:80/stream/243/tnt1fhd.ts
+#EXTINF: -1, TNT SPORTS 2 FHD / HD
+http://79.143.16.38:80/stream/244/tnt2fhd.ts
+#EXTINF: -1, TNT SPORTS 3 FHD / HD
+http://79.143.16.38:80/stream/245/tnt3fhd.ts
+#EXTINF: -1, TNT SPORTS 4 FHD / HD
+http://79.143.16.38:80/stream/246/tnt4fhd.ts
+#EXTINF: -1, PREMIER SPORTS 1 FHD / HD
+http://79.143.16.38:80/stream/247/psports1fhd.ts
+#EXTINF: -1, PREMIER SPORTS 2 FHD / HD
+http://79.143.16.38:80/stream/248/psports2fhd.ts
+#EXTINF: -1, MTV HD / SD
+http://45.90.106.117:80/stream/250/mtvsd.ts
+#EXTINF: -1, MTV 90S SD
+http://89.46.123.6:80/stream/251/mtv90s.ts
+#EXTINF: -1, MTV HITS SD
+http://89.46.123.6:80/stream/252/mtvhits.ts
+#EXTINF: -1, MTV 80S SD
+http://89.46.123.6:80/stream/253/mtv80s.ts
+#EXTINF: -1, 4 EXTRA SD
+http://89.46.123.6:80/stream/255/4mussd.ts
+#EXTINF: -1, RACING TV FHD / HD
+http://45.90.106.126:80/stream/257/racingfhd.ts
+#EXTINF: -1, B4 MUSIC SD
+http://89.46.123.6:80/stream/267/b4mussd.ts
+#EXTINF: -1, B4 MOVIES SD
+http://89.46.123.6:80/stream/268/b4movsd.ts
+#EXTINF: -1, ZEE TV SD
+http://89.46.123.6:80/stream/269/ztv.ts
+#EXTINF: -1, ZEE CINEMA SD
+http://89.46.123.6:80/stream/270/zcinsd.ts
+#EXTINF: -1, AAJ TAK SD
+http://89.46.123.6:80/stream/271/aajtak.ts
+#EXTINF: -1, UTSAV GOLD HD
+http://45.90.106.117:80/stream/272/utsavgoldhd.ts
+#EXTINF: -1, UTSAV PLUS HD
+http://45.90.106.117:80/stream/273/utsavplushd.ts
+#EXTINF: -1, COLORS GUJARATI SD
+http://89.46.123.6:80/stream/274/colgujsd.ts
+#EXTINF: -1, NHK HD
+http://45.90.106.117:80/stream/275/nhkhd.ts
+#EXTINF: -1, NDTV 24*7 SD
+http://45.90.106.117:80/stream/276/ndtv.ts
+#EXTINF: -1, SS CRICKET SD
+http://89.46.123.6:80/stream/278/sscricketsd.ts
+#EXTINF: -1, SS NEWS SD
+http://89.46.123.6:80/stream/279/ssnewssd.ts
+#EXTINF: -1, SS MIX SD
+http://89.46.123.6:80/stream/280/ssmixsd.ts
+#EXTINF: -1, SS RACING SD
+http://89.46.123.6:80/stream/281/ssracingsd.ts
+#EXTINF: -1, SS PLUS SD
+http://89.46.123.6:80/stream/282/ssplussd.ts
+#EXTINF: -1, SS ACTION SD
+http://89.46.123.6:80/stream/283/ssactionsd.ts
+#EXTINF: -1, SS F1 SD
+http://89.46.123.6:80/stream/284/ssf1sd.ts
+#EXTINF: -1, SS GOLF SD
+http://89.46.123.6:80/stream/285/ssgolfsd.ts
+#EXTINF: -1, SS FOOTBALL SD
+http://89.46.123.6:80/stream/286/ssfootballsd.ts
+#EXTINF: -1, SS PREM LEAGUE SD
+http://89.46.123.6:80/stream/287/sspl.ts
+#EXTINF: -1, SS MAIN EVENT SD
+http://89.46.123.6:80/stream/288/ssmesd.ts
+#EXTINF: -1, SKY CINEMA THRILLER SD
+http://89.46.123.6:80/stream/289/skycinthrill.ts
+#EXTINF: -1, SKY CINEMA GREATS SD
+http://89.46.123.5:80/stream/290/skycingreatssd.ts
+#EXTINF: -1, SKY CINEMA SELECT SD
+http://89.46.123.5:80/stream/291/skycimselsd.ts
+#EXTINF: -1, SKY CINEMA PREMIER SD
+http://89.46.123.5:80/stream/293/sscinprem.ts
+#EXTINF: -1, SKY CINEMA HITS SD
+http://89.46.123.5:80/stream/294/skycinhitssd.ts
+#EXTINF: -1, SKY CINEMA FAMILY SD
+http://89.46.123.5:80/stream/295/skycinfamsd.ts
+#EXTINF: -1, SKY CINEMA COMEDY SD
+http://89.46.123.5:80/stream/296/skycincomsd.ts
+#EXTINF: -1, SKY CINEMA ACTION SD
+http://89.46.123.6:80/stream/297/skycinactsd.ts
+#EXTINF: -1, SKY CINEMA DRAMA SD
+http://45.90.106.117:80/stream/298/skycindramasd.ts
+#EXTINF: -1, SKY CINEMA SCI/ HORR SD
+http://89.46.123.5:80/stream/299/skycinsci.ts
+#EXTINF: -1, SS F1 FHD / HD
+http://79.143.16.38:80/stream/300/ssf1hvec.ts
+#EXTINF: -1, SKY NEWS FHD / HD
+http://45.90.106.126:80/stream/302/index.m3u8
+#EXTINF: -1, SS RACING FHD / HD
+http://79.143.16.38:80/stream/303/ssracingfhd.ts
+#EXTINF: -1, GOD CHANNEL SD
+http://89.46.123.6:80/stream/317/index.m3u8
+#EXTINF: -1, TVC SD
+http://45.90.106.117:80/stream/320/index.m3u8
+#EXTINF: -1, UTSAV BHARAT SD
+http://89.46.123.6:80/stream/321/index.m3u8
+#EXTINF: -1, HUM MASALA SD
+http://89.46.123.6:80/stream/323/index.m3u8
+#EXTINF: -1, SONY SAB SD
+http://45.90.106.117:80/stream/324/index.m3u8
+#EXTINF: -1, TNT SPORTS 5 SD
+http://89.46.123.6:80/stream/325/tnt5sd.ts
+#EXTINF: -1, TNT SPORTS 6 SD
+http://89.46.123.6:80/stream/326/btextra2.ts
+#EXTINF: -1, TNT SPORTS 7 SD
+http://89.46.123.6:80/stream/327/tnt7sd.ts
+#EXTINF: -1, TNT SPORTS 8 SD
+http://89.46.123.6:80/stream/328/tnt8sd.ts
+#EXTINF: -1, TNT SPORTS 9 SD
+http://89.46.123.6:80/stream/329/tnt9sd.ts
+#EXTINF: -1, TNT SPORTS 10 SD
+http://89.46.123.6:80/stream/330/tnt10sd.ts
+#EXTINF: -1, TNT SPORTS 1 SD
+http://89.46.123.5:80/stream/331/index.m3u8
+#EXTINF: -1, TNT SPORTS 2 SD
+http://89.46.123.5:80/stream/332/tnt2sd.ts
+#EXTINF: -1, TNT SPORTS 3 SD
+http://89.46.123.5:80/stream/333/tnt3sd.ts
+#EXTINF: -1, BBC 2 WALES HD
+http://45.90.106.117:80/stream/335/bb2wales.ts
+#EXTINF: -1, BBC 2 N IRELAND SD
+http://89.46.123.5:80/stream/336/index.m3u8
+#EXTINF: -1, BBC 1 E MIDS SD
+http://89.46.123.5:80/stream/337/index.m3u8
+#EXTINF: -1, COLORS RISHTEY
+http://45.90.106.117:80/stream/339/index.m3u8
+#EXTINF: -1, BBC ALBA HD
+http://45.90.106.117:80/stream/340/bbcalbahd.ts
+#EXTINF: -1, GB NEWS SD
+http://89.46.123.6:80/stream/361/index.m3u8
+#EXTINF: -1, BBC 2 SD
+http://89.46.123.6:80/stream/362/index.m3u8
+#EXTINF: -1, BLOOMBERG SD
+http://89.46.123.6:80/stream/363/index.m3u8
+#EXTINF: -1, SKY ARTS SD
+http://89.46.123.6:80/stream/364/index.m3u8
+#EXTINF: -1, SKY MAX SD
+http://89.46.123.6:80/stream/365/index.m3u8
+#EXTINF: -1, SKY ATLANTIC SD
+http://89.46.123.6:80/stream/366/index.m3u8
+#EXTINF: -1, SKY WITNESS SD
+http://89.46.123.6:80/stream/368/skywitsd.ts
+#EXTINF: -1, SKY NEWS SD
+http://45.90.106.117:80/stream/369/index.m3u8
+#EXTINF: -1, BBC 4 SD
+http://45.90.106.117:80/stream/370/index.m3u8
+#EXTINF: -1, BBC NEWS SD
+http://45.90.106.117:80/stream/371/index.m3u8
+#EXTINF: -1, CBBC SD
+http://89.46.123.6:80/stream/372/index.m3u8
+#EXTINF: -1, SKY COMEDY SD
+http://89.46.123.5:80/stream/373/index.m3u8
+#EXTINF: -1, COMEDY CENTRAL SD
+http://89.46.123.5:80/stream/374/index.m3u8
+#EXTINF: -1, GOLD SD
+http://89.46.123.5:80/stream/375/index.m3u8
+#EXTINF: -1, U&W SD
+http://89.46.123.5:80/stream/376/uwsd.ts
+#EXTINF: -1, SONY TV
+http://89.46.123.5:80/stream/377/index.m3u8
+#EXTINF: -1, CBEEBIES SD
+http://89.46.123.5:80/stream/378/index.m3u8
+#EXTINF: -1, FILM 4 SD
+http://89.46.123.5:80/stream/379/index.m3u8
+#EXTINF: -1, SONY MAX SD
+http://89.46.123.5:80/stream/380/index.m3u8
+#EXTINF: -1, DISCOVERY SD
+http://89.46.123.5:80/stream/381/index.m3u8
+#EXTINF: -1, E4 SD
+http://89.46.123.5:80/stream/382/index.m3u8
+#EXTINF: -1, QUEST SD
+http://45.90.106.117:80/stream/385/index.m3u8
+#EXTINF: -1, CNN SD
+http://45.90.106.117:80/stream/386/index.m3u8
+#EXTINF: -1, ITV 4 SD
+http://45.90.106.117:80/stream/387/index.m3u8
+#EXTINF: -1, ITV 3 SD
+http://45.90.106.117:80/stream/388/index.m3u8
+#EXTINF: -1, ITV 2 SD
+http://89.46.123.6:80/stream/389/index.m3u8
+#EXTINF: -1, CHANNEL 4 SD
+http://45.90.106.117:80/stream/390/index.m3u8
+#EXTINF: -1, TNT SPORTS 4 SD
+http://45.90.106.117:80/stream/391/tnt4sd.ts
+#EXTINF: -1, PREMIER SPORTS 1 SD
+http://45.90.106.117:80/stream/392/index.m3u8
+#EXTINF: -1, PREMIER SPORTS 2 SD
+http://45.90.106.117:80/stream/393/index.m3u8
+#EXTINF: -1, SKY CRIME SD
+http://45.90.106.117:80/stream/394/index.m3u8
+#EXTINF: -1, SKY NATURE SD
+http://45.90.106.117:80/stream/395/index.m3u8
+#EXTINF: -1, CNBC SD
+http://45.90.106.117:80/stream/396/index.m3u8
+#EXTINF: -1, NICK SD
+http://45.90.106.117:80/stream/397/index.m3u8
+#EXTINF: -1, BOOMERANG SD
+http://45.90.106.117:80/stream/398/index.m3u8
+#EXTINF: -1, CARTOON NETWORK SD
+http://45.90.106.117:80/stream/399/index.m3u8
+#EXTINF: -1, MORE 4 SD
+http://45.90.106.117:80/stream/402/index.m3u8
+#EXTINF: -1, SKY HISTORY SD
+http://45.90.106.117:80/stream/403/index.m3u8
+#EXTINF: -1, SKY HISTORY 2
+http://45.90.106.117:80/stream/404/skyhist2sd.ts
+#EXTINF: -1, NAT GEO SD
+http://45.90.106.117:80/stream/405/index.m3u8
+#EXTINF: -1, NAT GEO WILD
+http://45.90.106.117:80/stream/406/index.m3u8
+#EXTINF: -1, CRIME & INV SD
+http://45.90.106.117:80/stream/407/crimeinvsd.ts
+#EXTINF: -1, SYFY SD
+http://45.90.106.117:80/stream/408/index.m3u8
+#EXTINF: -1, SKY DOCUMENTRIES SD
+http://45.90.106.117:80/stream/409/index.m3u8
+#EXTINF: -1, RTE 1 + 1
+http://89.46.123.6:80/stream/410/index.m3u8
+#EXTINF: -1, ALIBI SD
+http://89.46.123.6:80/stream/411/index.m3u8
+#EXTINF: -1, EWTN SD
+http://89.46.123.6:80/stream/412/index.m3u8
+#EXTINF: -1, CHANNEL 5 SD
+http://89.46.123.5:80/stream/417/ch5sd.ts
+#EXTINF: -1, DAVE SD
+http://89.46.123.6:80/stream/418/davesd.ts
+#EXTINF: -1, SKY KIDS HD / SD
+http://45.90.106.126:80/stream/419/skykidsfhd.ts
+#EXTINF: -1, TALKING PICTURES SD
+http://89.46.123.6:80/stream/424/talkingpictures.ts
+#EXTINF: -1, MUTV FHD / HD
+http://79.143.16.38:80/stream/426/mutvfhd.ts
+#EXTINF: -1, SS CRICKET HEVC
+http://89.46.123.7:80/stream/431/sscrickethevc.ts
+#EXTINF: -1, SS MAIN EVENT HEVC
+http://89.46.123.7:80/stream/432/ssmainhevc.ts
+#EXTINF: -1, SS PREM LEAGUE HEVC
+http://89.46.123.7:80/stream/433/ssprehevc.ts
+#EXTINF: -1, SS FOOTBALL HEVC
+http://89.46.123.7:80/stream/434/ssfootballhevc.ts
+#EXTINF: -1, SS GOLF HEVC
+http://89.46.123.7:80/stream/435/ssgolfhevc.ts
+#EXTINF: -1, SS ACTION HEVC
+http://89.46.123.7:80/stream/436/ssactionhevc.ts
+#EXTINF: -1, SS PLUS HEVC
+http://89.46.123.7:80/stream/437/ssplushevc.ts
+#EXTINF: -1, SS MIX HEVC
+http://89.46.123.7:80/stream/438/ssmixhevc.ts
+#EXTINF: -1, SS NEWS HEVC
+http://89.46.123.7:80/stream/439/ssnewshevc.ts
+#EXTINF: -1, TNT SPORTS 1 HEVC
+http://89.46.123.7:80/stream/440/tnt1hevc.ts
+#EXTINF: -1, TNT SPORTS 2 HEVC
+http://89.46.123.7:80/stream/441/tnt2hevc.ts
+#EXTINF: -1, TNT SPORTS 3 HEVC
+http://89.46.123.7:80/stream/442/tnt3hevc.ts
+#EXTINF: -1, TNT SPORTS 4 HEVC
+http://89.46.123.7:80/stream/443/tnt4hevc.ts
+#EXTINF: -1, PREMIER SPORTS 1 HEVC
+http://89.46.123.7:80/stream/445/prem1hevc.ts
+#EXTINF: -1, PREMIER SPORT 2 HEVC
+http://89.46.123.7:80/stream/446/prem2hevc.ts
+#EXTINF: -1, SKY SPORTS F1 (HEVC)
+http://89.46.123.7:80/stream/454/ssf1hevc.ts
+#EXTINF: -1, SKY MIX FHD / HD
+http://45.90.106.126:80/stream/455/skymixfhd.ts
+#EXTINF: -1, SS TENNIS FHD / HD
+http://89.46.123.7:80/stream/456/sstennisfhd.ts
+#EXTINF: -1, SS TENNIS SD
+http://89.46.123.6:80/stream/457/sstennissd.ts
+#EXTINF: -1, SS TENNIS HEVC
+http://89.46.123.7:80/stream/458/sstennishevc.ts
+#EXTINF: -1, GREAT MOVIES ACTION SD
+http://89.46.123.5:80/stream/459/gmaction.ts
+#EXTINF: -1, BBC ONE SOUTH HD
+http://45.90.106.117:80/stream/460/bbcsouthhd.ts
+#EXTINF: -1, Sky Sports Main UHD
+http://89.46.123.7:80/stream/461/skysportsuhd.ts
+#EXTINF: -1, Sky Sports F1 UHD
+http://89.46.123.7:80/stream/462/SkyF1UHD.ts
+#EXTINF: -1, Talk TV HD
+http://45.90.106.117:80/stream/465/talktv.ts
+#EXTINF: -1, RTE 2 + 1
+http://89.46.123.6/stream/466/index.m3u8
+
+
+
+
+
 #EXTINF:-1, Slovak BBC First
 http://88.212.15.29/live/bbc_first/index.m3u8
 

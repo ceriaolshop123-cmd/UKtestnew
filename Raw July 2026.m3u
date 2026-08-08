@@ -2648,6 +2648,43 @@ http://176.65.153.52:5003/play/a07m
 
 
 
+#EXTM3U
+#EXTINF:-1 group-title="-",2M MONDE HD
+http://176.65.153.27:5001/play/a07x
+#EXTINF:-1 group-title="-",Al Aoula Inter
+http://176.65.153.27:5001/play/a07v
+#EXTINF:-1 group-title="-",Al Aoula Inter HD
+http://176.65.153.27:5001/play/a07t
+#EXTINF:-1 group-title="-",Al Maghribia HD
+http://176.65.153.27:5001/play/a07r
+#EXTINF:-1 group-title="-",Arryadia HD
+http://176.65.153.27:5001/play/a07y
+#EXTINF:-1 group-title="-",Assadissa HD
+http://176.65.153.27:5001/play/a07w
+#EXTINF:-1 group-title="-",Athaqafia HD
+http://176.65.153.27:5001/play/a07u
+#EXTINF:-1 group-title="-",Baby TV
+http://176.65.153.27:5001/play/a086
+#EXTINF:-1 group-title="-",DAYSTAR HD
+http://176.65.153.27:5001/play/a085
+#EXTINF:-1 group-title="-",GEB TV
+http://176.65.153.27:5001/play/a084
+#EXTINF:-1 group-title="-",Laayoune TV HD
+http://176.65.153.27:5001/play/a07s
+#EXTINF:-1 group-title="-",Museum 4K
+http://176.65.153.27:5001/play/a081
+#EXTINF:-1 group-title="-",MyZen 4K
+http://176.65.153.27:5001/play/a082
+#EXTINF:-1 group-title="-",Simay Azadi HD
+http://176.65.153.27:5001/play/a083
+#EXTINF:-1 group-title="-",Tamazight HD
+http://176.65.153.27:5001/play/a07z
+#EXTINF:-1 group-title="-",TravelXP 4K
+http://176.65.153.27:5001/play/a080
+
+
+
+
 
 #EXTM3U
 #EXTINF:-1,Museum 4K

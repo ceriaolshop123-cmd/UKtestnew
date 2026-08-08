@@ -2556,6 +2556,50 @@ http://176.65.153.74:7001/play/a07b
 
 
 
+#EXTM3U
+#EXTINF:-1 group-title="-",6ter
+http://176.65.153.84:7001/play/a07d
+#EXTINF:-1 group-title="-",Arte
+http://176.65.153.84:7001/play/a07b
+#EXTINF:-1 group-title="-",Arte.Tv
+http://176.65.153.84:7001/play/a07e
+#EXTINF:-1 group-title="-",France 2
+http://176.65.153.84:7001/play/a07g
+#EXTINF:-1 group-title="-",France 3
+http://176.65.153.84:7001/play/a07j
+#EXTINF:-1 group-title="-",France 4
+http://176.65.153.84:7001/play/a07h
+#EXTINF:-1 group-title="-",France 5
+http://176.65.153.84:7001/play/a07c
+#EXTINF:-1 group-title="-",L'Equipe
+http://176.65.153.84:7001/play/a075
+#EXTINF:-1 group-title="-",LCI
+http://176.65.153.84:7001/play/a07o
+#EXTINF:-1 group-title="-",LCP
+http://176.65.153.84:7001/play/a07n
+#EXTINF:-1 group-title="-",M6
+http://176.65.153.84:7001/play/a079
+#EXTINF:-1 group-title="-",PARIS PREMIERE
+http://176.65.153.84:7001/play/a07f
+#EXTINF:-1 group-title="-",RMC DÃ©couverte
+http://176.65.153.84:7001/play/a077
+#EXTINF:-1 group-title="-",RMC LIFE
+http://176.65.153.84:7001/play/a076
+#EXTINF:-1 group-title="-",RMC STORY
+http://176.65.153.84:7001/play/a078
+#EXTINF:-1 group-title="-",TF1
+http://176.65.153.84:7001/play/a07k
+#EXTINF:-1 group-title="-",TF1 Series Films
+http://176.65.153.84:7001/play/a074
+#EXTINF:-1 group-title="-",TFX
+http://176.65.153.84:7001/play/a07m
+#EXTINF:-1 group-title="-",TMC
+http://176.65.153.84:7001/play/a07l
+#EXTINF:-1 group-title="-",W9
+http://176.65.153.84:7001/play/a07a
+#EXTINF:-1 group-title="-",franceinfo:
+http://176.65.153.84:7001/play/a07i
+
 
 
 

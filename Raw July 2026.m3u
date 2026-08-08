@@ -2604,6 +2604,49 @@ http://176.65.153.84:7001/play/a07i
 
 
 
+#EXTM3U
+#EXTINF:-1 group-title="-",20Mediaset HD
+http://176.65.153.52:5003/play/a07o
+#EXTINF:-1 group-title="-",27Twentyseven HD
+http://176.65.153.52:5003/play/a083
+#EXTINF:-1 group-title="-",Boing HD
+http://176.65.153.52:5003/play/a07t
+#EXTINF:-1 group-title="-",Canale5 HD
+http://176.65.153.52:5003/play/a07q
+#EXTINF:-1 group-title="-",Cartoonito HD
+http://176.65.153.52:5003/play/a081
+#EXTINF:-1 group-title="-",Cine34 HD
+http://176.65.153.52:5003/play/a07l
+#EXTINF:-1 group-title="-",Focus HD
+http://176.65.153.52:5003/play/a082
+#EXTINF:-1 group-title="-",Iris HD
+http://176.65.153.52:5003/play/a07s
+#EXTINF:-1 group-title="-",Italia1 HD
+http://176.65.153.52:5003/play/a07p
+#EXTINF:-1 group-title="-",La5 HD
+http://176.65.153.52:5003/play/a07u
+#EXTINF:-1 group-title="-",Mediaset Extra HD
+http://176.65.153.52:5003/play/a07w
+#EXTINF:-1 group-title="-",Mediaset Italia2 HD
+http://176.65.153.52:5003/play/a07x
+#EXTINF:-1 group-title="-",Mediaset Italia2 HD
+http://176.65.153.52:5003/play/a07y
+#EXTINF:-1 group-title="-",RADIO MONTE CARLO
+http://176.65.153.52:5003/play/a07n
+#EXTINF:-1 group-title="-",Rete4 HD
+http://176.65.153.52:5003/play/a07r
+#EXTINF:-1 group-title="-",TGCOM24 HD
+http://176.65.153.52:5003/play/a07v
+#EXTINF:-1 group-title="-",TOPcrime HD
+http://176.65.153.52:5003/play/a07z
+#EXTINF:-1 group-title="-",TOPcrime HD
+http://176.65.153.52:5003/play/a080
+#EXTINF:-1 group-title="-",VIRGIN RADIO
+http://176.65.153.52:5003/play/a07m
+
+
+
+
 
 
 #EXTM3U

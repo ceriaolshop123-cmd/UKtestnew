@@ -2,70 +2,6 @@
 
 
 
-#EXTINF:-1, temp BBC1
-http://51.178.182.222:80/BBC1/index.m3u8
-#EXTINF:-1,temp BBC2
-http://51.178.182.222:80/BBC2/index.m3u8
-#EXTINF:-1,temp BBC3
-http://51.178.182.222:80/BBC3/index.m3u8
-#EXTINF:-1,temp BBC4
-http://51.178.182.222:80/BBC4/index.m3u8
-#EXTINF:-1,temp ITV1
-http://51.178.182.222:80/ITV1/index.m3u8
-#EXTINF:-1,temp ITV2
-http://51.178.182.222:80/ITV2/index.m3u8
-#EXTINF:-1,temp ITV3
-http://51.178.182.222:80/ITV3/index.m3u8
-#EXTINF:-1,temp ITV4
-http://51.178.182.222:80/ITV4/index.m3u8
-#EXTINF:-1,temp İTVBE
-http://51.178.182.222:80/itvbe/index.m3u8
-#EXTINF:-1,temp TLC HD
-http://89.33.29.115:8080/TLC/index.m3u8
-#EXTINF:-1,temp Dmax
-http://89.33.29.115:8080/Dmax/index.m3u8
-#EXTINF:-1,temp Comedy Central HD
-http://89.33.29.115:8080/Comedy_Central/index.m3u8
-#EXTINF:-1,temp SkyArts
-http://89.33.29.115:8080/Sky_Arts/index.m3u8
-#EXTINF:-1,temp SkyAtlantic
-http://51.178.182.222:80/Sky_Atlantic/index.m3u8
-#EXTINF:-1,temp Sky Comedy
-http://51.178.182.222:80/SkyComedy/index.m3u8
-#EXTINF:-1,temp Sky History
-http://51.178.182.222:80/Sky_History/index.m3u8
-#EXTINF:-1,temp Drama
-http://51.178.182.222:80/Drama/index.m3u8
-#EXTINF:-1,temp Discovery Channel
-http://51.178.182.222:80/Discovery/index.m3u8
-#EXTINF:-1,temp Nikeledon
-http://51.178.182.222:80/Nick/index.m3u8
-#EXTINF:-1,temp Alibi
-http://89.33.29.115:8080/Alibi/index.m3u8
-#EXTINF:-1,temp QUEST
-http://51.178.182.222:80/Quest/index.m3u8
-#EXTINF:-1,temp Channel4
-http://51.178.182.222:80/Channel4/index.m3u8
-#EXTINF:-1,temp Channel5
-http://51.178.182.222:80/Channel5/index.m3u8
-#EXTINF:-1,temp 5star
-http://51.178.182.222:80/5Star/index.m3u8
-#EXTINF:-1,temp Film4 HD
-http://51.178.182.222:80/Film4/index.m3u8
-#EXTINF:-1,temp More4 HD
-http://89.33.29.115:8080/More4/index.m3u8
-#EXTINF:-1,temp E4 HD
-http://51.178.182.222:80/E4/index.m3u8
-#EXTINF:-1,temp 5usa
-http://51.178.182.222:80/5usa/index.m3u8
-#EXTINF:-1,temp BBCAlba
-http://51.178.182.222:80/bbcalba/index.m3u8
-#EXTINF:-1,temp 4seven
-http://51.178.182.222:80/4seven/index.m3u8
-#EXTINF:-1,temp Eden
-http://51.178.182.222:80/Eden/index.m3u8
-#EXTINF:-1,temp BBCNews
-http://51.178.182.222:80/BBCNews/index.m3u8
 
 
 
@@ -753,6 +689,15 @@ http://193.24.244.60:1001/udp/239.254.4.218:6060
 
 #EXTINF:-1,4khdr travel xp
 http://88.212.15.19/live/travel_xp_4k/index.m3u8
+
+
+
+
+#EXTM3U
+#EXTINF:-1,LA7 HD
+http://176.65.153.4:7001/play/a07f
+#EXTINF:-1,LA7d
+http://176.65.153.4:7001/play/a07g
 
 
 

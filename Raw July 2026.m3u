@@ -2454,6 +2454,110 @@ http://193.24.244.60:1001/udp/239.254.5.231:6060
 
 
 
+#EXTM3U
+#EXTINF:-1 group-title="-",6ter
+http://176.65.153.74:7001/play/a07h
+#EXTINF:-1 group-title="-",Arte
+http://176.65.153.74:7001/play/a07f
+#EXTINF:-1 group-title="-",Arte.Tv
+http://176.65.153.74:7001/play/a07i
+#EXTINF:-1 group-title="-",CANALE ITALIA
+http://176.65.153.74:7001/play/a08n
+#EXTINF:-1 group-title="-",CANALE ITALIA
+http://176.65.153.74:7001/play/a08r
+#EXTINF:-1 group-title="-",CANALE ITALIA Sardegna
+http://176.65.153.74:7001/play/a08o
+#EXTINF:-1 group-title="-",CATALAN TV
+http://176.65.153.74:7001/play/a08l
+#EXTINF:-1 group-title="-",ChÃ©rie 25
+http://176.65.153.74:7001/play/a07l
+#EXTINF:-1 group-title="-",France 2
+http://176.65.153.74:7001/play/a079
+#EXTINF:-1 group-title="-",France 3
+http://176.65.153.74:7001/play/a07c
+#EXTINF:-1 group-title="-",France 4
+http://176.65.153.74:7001/play/a07a
+#EXTINF:-1 group-title="-",France 5
+http://176.65.153.74:7001/play/a07g
+#EXTINF:-1 group-title="-",L Unione TV
+http://176.65.153.74:7001/play/a08d
+#EXTINF:-1 group-title="-",L'Equipe
+http://176.65.153.74:7001/play/a07k
+#EXTINF:-1 group-title="-",LCP
+http://176.65.153.74:7001/play/a078
+#EXTINF:-1 group-title="-",M6
+http://176.65.153.74:7001/play/a07d
+#EXTINF:-1 group-title="-",NRJ12
+http://176.65.153.74:7001/play/a075
+#EXTINF:-1 group-title="-",ODEON 24 Sardegna
+http://176.65.153.74:7001/play/a08q
+#EXTINF:-1 group-title="-",RADIO SARDEGNA TV
+http://176.65.153.74:7001/play/a08g
+#EXTINF:-1 group-title="-",RMC DÃ©couverte
+http://176.65.153.74:7001/play/a07m
+#EXTINF:-1 group-title="-",RMC STORY
+http://176.65.153.74:7001/play/a07n
+#EXTINF:-1 group-title="-",RTS
+http://176.65.153.74:7001/play/a08m
+#EXTINF:-1 group-title="-",Rai 1 HD
+http://176.65.153.74:7001/play/a081
+#EXTINF:-1 group-title="-",Rai 2 HD
+http://176.65.153.74:7001/play/a082
+#EXTINF:-1 group-title="-",Rai 3 HD
+http://176.65.153.74:7001/play/a084
+#EXTINF:-1 group-title="-",Rai 3 TGR Basilicata
+http://176.65.153.74:7001/play/a086
+#EXTINF:-1 group-title="-",Rai 3 TGR Basilicata
+http://176.65.153.74:7001/play/a089
+#EXTINF:-1 group-title="-",Rai 3 TGR Puglia
+http://176.65.153.74:7001/play/a088
+#EXTINF:-1 group-title="-",Rai 3 TGR Puglia
+http://176.65.153.74:7001/play/a085
+#EXTINF:-1 group-title="-",Rai 3 Tgr Molise
+http://176.65.153.74:7001/play/a087
+#EXTINF:-1 group-title="-",Rai 3 Tgr Molise
+http://176.65.153.74:7001/play/a08a
+#EXTINF:-1 group-title="-",Rai News 24
+http://176.65.153.74:7001/play/a083
+#EXTINF:-1 group-title="-",Rai News 24
+http://176.65.153.74:7001/play/a08b
+#EXTINF:-1 group-title="-",SUPERTV ARISTANIS
+http://176.65.153.74:7001/play/a08p
+#EXTINF:-1 group-title="-",Sardegna Uno
+http://176.65.153.74:7001/play/a08e
+#EXTINF:-1 group-title="-",T.C.S. TeleCostaSmeralda
+http://176.65.153.74:7001/play/a08f
+#EXTINF:-1 group-title="-",TF1
+http://176.65.153.74:7001/play/a074
+#EXTINF:-1 group-title="-",TF1 Series Films
+http://176.65.153.74:7001/play/a07j
+#EXTINF:-1 group-title="-",TFX
+http://176.65.153.74:7001/play/a077
+#EXTINF:-1 group-title="-",TMC
+http://176.65.153.74:7001/play/a076
+#EXTINF:-1 group-title="-",TTS
+http://176.65.153.74:7001/play/a08h
+#EXTINF:-1 group-title="-",TeleSardegna
+http://176.65.153.74:7001/play/a08j
+#EXTINF:-1 group-title="-",Teleregione Live HD
+http://176.65.153.74:7001/play/a08i
+#EXTINF:-1 group-title="-",Uno 4
+http://176.65.153.74:7001/play/a08k
+#EXTINF:-1 group-title="-",Videolina
+http://176.65.153.74:7001/play/a08c
+#EXTINF:-1 group-title="-",W9
+http://176.65.153.74:7001/play/a07e
+#EXTINF:-1 group-title="-",franceinfo:
+http://176.65.153.74:7001/play/a07b
+
+
+
+
+
+
+
+
+
 
 
 

@@ -2606,6 +2606,16 @@ http://176.65.153.84:7001/play/a07i
 
 
 
+#EXTM3U
+#EXTINF:-1,Museum 4K
+http://176.65.153.4:5001/play/a07s
+#EXTINF:-1,MyZen 4K
+http://176.65.153.4:5001/play/a07t
+#EXTINF:-1,TravelXP 4K
+http://176.65.153.4:5001/play/a07r
+
+
+
 
 
 

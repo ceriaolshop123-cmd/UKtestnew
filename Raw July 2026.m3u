@@ -2833,6 +2833,36 @@ http://176.65.153.29:2003/play/a06s
 
 
 
+#EXTM3U
+#EXTINF:-1 group-title="-",Deluxe Dance by Kontor HD
+http://176.65.153.29:2009/play/a06z
+#EXTINF:-1 group-title="-",Deluxe Flashback HD
+http://176.65.153.29:2009/play/a070
+#EXTINF:-1 group-title="-",Deluxe Rap HD
+http://176.65.153.29:2009/play/a073
+#EXTINF:-1 group-title="-",Deluxe Rock HD
+http://176.65.153.29:2009/play/a072
+#EXTINF:-1 group-title="-",Eurosport 1 Deutschland
+http://176.65.153.29:2009/play/a06u
+#EXTINF:-1 group-title="-",HSE Extra
+http://176.65.153.29:2009/play/a06v
+#EXTINF:-1 group-title="-",Just Cooking HD
+http://176.65.153.29:2009/play/a071
+#EXTINF:-1 group-title="-",One Terra HD
+http://176.65.153.29:2009/play/a06x
+#EXTINF:-1 group-title="-",SUPER RTL A
+http://176.65.153.29:2009/play/a06s
+#EXTINF:-1 group-title="-",VOXup
+http://176.65.153.29:2009/play/a06t
+#EXTINF:-1 group-title="-",Xplore HD
+http://176.65.153.29:2009/play/a06y
+
+
+
+
+
+
+
 
 
 

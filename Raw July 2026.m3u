@@ -2710,6 +2710,26 @@ http://176.65.153.20:2005/play/a06w
 
 
 
+#EXTM3U
+#EXTINF:-1 group-title="-",BBC NL
+http://176.65.153.40:3002/play/a02t
+#EXTINF:-1 group-title="-",History NL
+http://176.65.153.40:3002/play/a02g
+#EXTINF:-1 group-title="-",NET5 HD
+http://176.65.153.40:3002/play/a02i
+#EXTINF:-1 group-title="-",NPO1 HD
+http://176.65.153.40:3002/play/a02j
+#EXTINF:-1 group-title="-",NPO3 HD
+http://176.65.153.40:3002/play/a02l
+#EXTINF:-1 group-title="-",TV Drenthe
+http://176.65.153.40:3002/play/a02o
+#EXTINF:-1 group-title="-",Ziggo Sport 1
+http://176.65.153.40:3002/play/a02f
+
+
+
+
+
 
 
 

@@ -2809,6 +2809,29 @@ http://176.65.153.29:2001/play/a0e4
 
 
 
+#EXTM3U
+#EXTINF:-1 group-title="-",ARD alpha HD
+http://176.65.153.29:2003/play/a06u
+#EXTINF:-1 group-title="-",DFB.TV
+http://176.65.153.29:2003/play/a06y
+#EXTINF:-1 group-title="-",Eurosport 1 HD
+http://176.65.153.29:2003/play/a06x
+#EXTINF:-1 group-title="-",K-TV HD
+http://176.65.153.29:2003/play/a06z
+#EXTINF:-1 group-title="-",ONE HD
+http://176.65.153.29:2003/play/a06t
+#EXTINF:-1 group-title="-",Radio Bremen HD
+http://176.65.153.29:2003/play/a06w
+#EXTINF:-1 group-title="-",SR Fernsehen HD
+http://176.65.153.29:2003/play/a06v
+#EXTINF:-1 group-title="-",tagesschau24 HD
+http://176.65.153.29:2003/play/a06s
+
+
+
+
+
+
 
 
 

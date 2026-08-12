@@ -2921,6 +2921,45 @@ http://176.65.153.29:2008/play/a071
 
 
 
+#EXTM3U
+#EXTINF:-1 group-title="-",3sat HD
+http://176.65.153.29:2005/play/a06v
+#EXTINF:-1 group-title="-",Das Erste HD
+http://176.65.153.29:2005/play/a06r
+#EXTINF:-1 group-title="-",Kabel Eins Doku HD
+http://176.65.153.29:2005/play/a076
+#EXTINF:-1 group-title="-",KiKA HD
+http://176.65.153.29:2005/play/a06w
+#EXTINF:-1 group-title="-",Pro7 MAXX HD
+http://176.65.153.29:2005/play/a075
+#EXTINF:-1 group-title="-",ProSieben HD
+http://176.65.153.29:2005/play/a072
+#EXTINF:-1 group-title="-",SAT.1 GOLD HD
+http://176.65.153.29:2005/play/a077
+#EXTINF:-1 group-title="-",SAT.1 HD
+http://176.65.153.29:2005/play/a071
+#EXTINF:-1 group-title="-",SIXX HD
+http://176.65.153.29:2005/play/a074
+#EXTINF:-1 group-title="-",SWR BW HD
+http://176.65.153.29:2005/play/a06t
+#EXTINF:-1 group-title="-",SWR RLP HD
+http://176.65.153.29:2005/play/a06u
+#EXTINF:-1 group-title="-",ZDF HD
+http://176.65.153.29:2005/play/a06y
+#EXTINF:-1 group-title="-",ZDFinfo HD
+http://176.65.153.29:2005/play/a06x
+#EXTINF:-1 group-title="-",arte HD
+http://176.65.153.29:2005/play/a06s
+#EXTINF:-1 group-title="-",kabel eins HD
+http://176.65.153.29:2005/play/a073
+#EXTINF:-1 group-title="-",zdf_neo HD
+http://176.65.153.29:2005/play/a06z
+
+
+
+
+
+
 
 
 

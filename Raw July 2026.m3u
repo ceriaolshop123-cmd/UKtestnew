@@ -2889,6 +2889,38 @@ http://176.65.153.29:2006/play/a06w
 
 
 
+#EXTM3U
+#EXTINF:-1 group-title="-",NITRO
+http://176.65.153.29:2008/play/a072
+#EXTINF:-1 group-title="-",RTL Bayern
+http://176.65.153.29:2008/play/a06u
+#EXTINF:-1 group-title="-",RTL HB NDS
+http://176.65.153.29:2008/play/a06t
+#EXTINF:-1 group-title="-",RTL HH SH
+http://176.65.153.29:2008/play/a06v
+#EXTINF:-1 group-title="-",RTL Regional NRW
+http://176.65.153.29:2008/play/a06s
+#EXTINF:-1 group-title="-",RTL Television
+http://176.65.153.29:2008/play/a06r
+#EXTINF:-1 group-title="-",RTLZWEI
+http://176.65.153.29:2008/play/a06w
+#EXTINF:-1 group-title="-",RTLup
+http://176.65.153.29:2008/play/a070
+#EXTINF:-1 group-title="-",SUPER RTL
+http://176.65.153.29:2008/play/a06y
+#EXTINF:-1 group-title="-",TOGGO plus
+http://176.65.153.29:2008/play/a06x
+#EXTINF:-1 group-title="-",VOX
+http://176.65.153.29:2008/play/a06z
+#EXTINF:-1 group-title="-",ntv
+http://176.65.153.29:2008/play/a071
+
+
+
+
+
+
+
 
 
 

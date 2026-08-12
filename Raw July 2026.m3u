@@ -2862,6 +2862,30 @@ http://176.65.153.29:2009/play/a06y
 
 
 
+#EXTM3U
+#EXTINF:-1 group-title="-",Franken Plus HD
+http://176.65.153.29:2006/play/a070
+#EXTINF:-1 group-title="-",Lokal-TV-Portal HD
+http://176.65.153.29:2006/play/a06x
+#EXTINF:-1 group-title="-",NIEDERBAYERN TV HD
+http://176.65.153.29:2006/play/a06y
+#EXTINF:-1 group-title="-",OTVA HD
+http://176.65.153.29:2006/play/a06z
+#EXTINF:-1 group-title="-",WOTSCH
+http://176.65.153.29:2006/play/a071
+#EXTINF:-1 group-title="-",a.tv HD
+http://176.65.153.29:2006/play/a06s
+#EXTINF:-1 group-title="-",a.tv HD .
+http://176.65.153.29:2006/play/a06v
+#EXTINF:-1 group-title="-",munchen.tv HD
+http://176.65.153.29:2006/play/a06t
+#EXTINF:-1 group-title="-",rfo Regional Fernsehen Oberbayern HD
+http://176.65.153.29:2006/play/a06u
+#EXTINF:-1 group-title="-",tv.ingolstadt HD
+http://176.65.153.29:2006/play/a06w
+
+
+
 
 
 

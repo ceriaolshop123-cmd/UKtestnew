@@ -2698,5 +2698,24 @@ http://176.65.153.4:5001/play/a07r
 
 
 
+#EXTM3U
+#EXTINF:-1 group-title="-" tvg-id="3sat.HD.gr",3sat HD
+http://176.65.153.20:2005/play/a06u
+#EXTINF:-1 group-title="-" tvg-id="KiKA.HD.gr",KiKA HD
+http://176.65.153.20:2005/play/a06v
+#EXTINF:-1 group-title="-" tvg-id="ZDFinfo.HD.gr",ZDFinfo HD
+http://176.65.153.20:2005/play/a06w
+
+
+
+
+
+
+
+
+
+
+
+
 
 

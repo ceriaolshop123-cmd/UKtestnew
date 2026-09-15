@@ -192,6 +192,26 @@ http://176.65.153.4:4004/play/a07e
 
 
 
+#EXTINF:-1,Channels 24
+http://176.65.153.4:4005/play/a06e
+#EXTINF:-1,QVC Beauty
+http://176.65.153.4:4005/play/a06b
+#EXTINF:-1,QVC Extra
+http://176.65.153.4:4005/play/a06a
+#EXTINF:-1,QVC HD
+http://176.65.153.4:4005/play/a06c
+#EXTINF:-1,QVC Style HD
+http://176.65.153.4:4005/play/a06d
+#EXTINF:-1,Travelxp
+http://176.65.153.4:4005/play/a06g
+
+
+
+
+
+
+
+
 
 
 

@@ -102,6 +102,96 @@ http://176.65.153.4:4003/play/a06p
 
 
 
+#EXTM3U
+#EXTINF:-1,G! romance+1
+http://176.65.153.4:4004/play/a06f
+#EXTINF:-1,GREAT! action
+http://176.65.153.4:4004/play/a06d
+#EXTINF:-1,GREAT! movies
+http://176.65.153.4:4004/play/a06b
+#EXTINF:-1,GREAT! movies+1
+http://176.65.153.4:4004/play/a06h
+#EXTINF:-1,GREAT! real
+http://176.65.153.4:4004/play/a06g
+#EXTINF:-1,GREAT! real+1
+http://176.65.153.4:4004/play/a06n
+#EXTINF:-1,GREAT! romance 
+http://176.65.153.4:4004/play/a06e
+#EXTINF:-1,GREAT! tv
+http://176.65.153.4:4004/play/a06l
+#EXTINF:-1,GREAT! tv
+http://176.65.153.4:4004/play/a06c
+#EXTINF:-1,GREAT! tv+1
+http://176.65.153.4:4004/play/a06m
+#EXTINF:-1,GREAT!action+1
+http://176.65.153.4:4004/play/a06j
+#EXTINF:-1,ITV1 HD
+http://176.65.153.4:4004/play/a07n
+#EXTINF:-1,ITV1 HD
+http://176.65.153.4:4004/play/a07k
+#EXTINF:-1,ITV1 Wales HD
+http://176.65.153.4:4004/play/a07m
+#EXTINF:-1,ITV1+1
+http://176.65.153.4:4004/play/a07g
+#EXTINF:-1,ITV2 HD
+http://176.65.153.4:4004/play/a07l
+#EXTINF:-1,ITV2+1
+http://176.65.153.4:4004/play/a07h
+#EXTINF:-1,ITV3 HD
+http://176.65.153.4:4004/play/a07o
+#EXTINF:-1,ITV3+1
+http://176.65.153.4:4004/play/a07i
+#EXTINF:-1,ITV4+1
+http://176.65.153.4:4004/play/a07j
+#EXTINF:-1,LEGEND
+http://176.65.153.4:4004/play/a078
+#EXTINF:-1,LEGEND
+http://176.65.153.4:4004/play/a06w
+#EXTINF:-1,LEGEND XTRA
+http://176.65.153.4:4004/play/a076
+#EXTINF:-1,LEGEND XTRA
+http://176.65.153.4:4004/play/a06u
+#EXTINF:-1,LEGEND XTRA+1
+http://176.65.153.4:4004/play/a07c
+#EXTINF:-1,LEGEND XTRA+1
+http://176.65.153.4:4004/play/a070
+#EXTINF:-1,PBS America
+http://176.65.153.4:4004/play/a079
+#EXTINF:-1,PBS America
+http://176.65.153.4:4004/play/a06x
+#EXTINF:-1,POP+1
+http://176.65.153.4:4004/play/a06k
+#EXTINF:-1,S4C HD
+http://176.65.153.4:4004/play/a072
+#EXTINF:-1,STV
+http://176.65.153.4:4004/play/a07f
+#EXTINF:-1,TJC HD
+http://176.65.153.4:4004/play/a073
+#EXTINF:-1,TRUE CRIME
+http://176.65.153.4:4004/play/a07a
+#EXTINF:-1,TRUE CRIME
+http://176.65.153.4:4004/play/a06y
+#EXTINF:-1,TRUE CRIME X
+http://176.65.153.4:4004/play/a077
+#EXTINF:-1,TRUE CRIME X
+http://176.65.153.4:4004/play/a06v
+#EXTINF:-1,TRUE CRIME+1
+http://176.65.153.4:4004/play/a07b
+#EXTINF:-1,TRUE CRIME+1
+http://176.65.153.4:4004/play/a06z
+#EXTINF:-1,That's TV
+http://176.65.153.4:4004/play/a07d
+#EXTINF:-1,That's TV 2
+http://176.65.153.4:4004/play/a075
+#EXTINF:-1,That's TV 2
+http://176.65.153.4:4004/play/a06t
+#EXTINF:-1,That's TV 3
+http://176.65.153.4:4004/play/a07e
+
+
+
+
+
 
 
 

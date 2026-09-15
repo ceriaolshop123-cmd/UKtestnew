@@ -55,6 +55,53 @@ http://176.65.153.4:4002/play/a071
 
 
 
+#EXTM3U
+#EXTINF:-1,5 USA
+http://176.65.153.4:4003/play/a06h
+#EXTINF:-1,5ACTION
+http://176.65.153.4:4003/play/a06n
+#EXTINF:-1,5SELECT
+http://176.65.153.4:4003/play/a06k
+#EXTINF:-1,5STAR
+http://176.65.153.4:4003/play/a06j
+#EXTINF:-1,5USA+1
+http://176.65.153.4:4003/play/a06i
+#EXTINF:-1,Akaal Channel
+http://176.65.153.4:4003/play/a06t
+#EXTINF:-1,Arirang TV HD
+http://176.65.153.4:4003/play/a06e
+#EXTINF:-1,Channel 5
+http://176.65.153.4:4003/play/a06g
+#EXTINF:-1,Channel 5 HD
+http://176.65.153.4:4003/play/a06m
+#EXTINF:-1,Channel 5+1
+http://176.65.153.4:4003/play/a06l
+#EXTINF:-1,Dunamis TV
+http://176.65.153.4:4003/play/a06q
+#EXTINF:-1,EWTN Catholic
+http://176.65.153.4:4003/play/a06s
+#EXTINF:-1,GREAT! romance
+http://176.65.153.4:4003/play/a06d
+#EXTINF:-1,IQRA Bangla
+http://176.65.153.4:4003/play/a06v
+#EXTINF:-1,IQRA TV
+http://176.65.153.4:4003/play/a06u
+#EXTINF:-1,Islam Ch Urdu
+http://176.65.153.4:4003/play/a06r
+#EXTINF:-1,Islam Channel
+http://176.65.153.4:4003/play/a06o
+#EXTINF:-1,Islam TV
+http://176.65.153.4:4003/play/a06w
+#EXTINF:-1,MTA1 World HD
+http://176.65.153.4:4003/play/a06f
+#EXTINF:-1,NHK World HD
+http://176.65.153.4:4003/play/a06c
+#EXTINF:-1,TBN UK
+http://176.65.153.4:4003/play/a06p
+
+
+
+
 
 
 

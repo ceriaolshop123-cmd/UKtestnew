@@ -294,6 +294,21 @@ http://176.65.153.4:4007/play/a06m
 
 
 
+#EXTM3U
+#EXTINF:-1,BBC One CI HD
+http://176.65.153.4:4008/play/a06f
+#EXTINF:-1,BBC One SW HD
+http://176.65.153.4:4008/play/a06j
+#EXTINF:-1,BBC One Wst HD
+http://176.65.153.4:4008/play/a06h
+#EXTINF:-1,BBC RB 1 HD
+http://176.65.153.4:4008/play/a06g
+#EXTINF:-1,BBCScotlandHD
+http://176.65.153.4:4008/play/a06i
+
+
+
+
 
 
 

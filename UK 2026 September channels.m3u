@@ -222,6 +222,76 @@ http://176.65.153.4:4006/play/a06b
 
 
 
+#EXTM3U
+#EXTINF:-1,BBC One Sth HD
+http://176.65.153.4:4007/play/a070
+#EXTINF:-1,CNBC HD
+http://176.65.153.4:4007/play/a072
+#EXTINF:-1,Channel 4 HD
+http://176.65.153.4:4007/play/a074
+#EXTINF:-1,DMAX
+http://176.65.153.4:4007/play/a06r
+#EXTINF:-1,DMAX+1
+http://176.65.153.4:4007/play/a06o
+#EXTINF:-1,Dave
+http://176.65.153.4:4007/play/a06j
+#EXTINF:-1,Dave ja vu
+http://176.65.153.4:4007/play/a06l
+#EXTINF:-1,Drama
+http://176.65.153.4:4007/play/a06h
+#EXTINF:-1,Drama+1
+http://176.65.153.4:4007/play/a06k
+#EXTINF:-1,Food Network
+http://176.65.153.4:4007/play/a06y
+#EXTINF:-1,Food Netwrk+1
+http://176.65.153.4:4007/play/a06z
+#EXTINF:-1,Food Netwrk+1
+http://176.65.153.4:4007/play/a06q
+#EXTINF:-1,HGTV
+http://176.65.153.4:4007/play/a06s
+#EXTINF:-1,QUEST
+http://176.65.153.4:4007/play/a06v
+#EXTINF:-1,QUEST+1
+http://176.65.153.4:4007/play/a06x
+#EXTINF:-1,Quest Red
+http://176.65.153.4:4007/play/a06w
+#EXTINF:-1,Quest Red+1
+http://176.65.153.4:4007/play/a06u
+#EXTINF:-1,Really
+http://176.65.153.4:4007/play/a06n
+#EXTINF:-1,STV HD
+http://176.65.153.4:4007/play/a073
+#EXTINF:-1,Sky Mix HD
+http://176.65.153.4:4007/play/a071
+#EXTINF:-1,U&Dave
+http://176.65.153.4:4007/play/a077
+#EXTINF:-1,U&DaveJaVu
+http://176.65.153.4:4007/play/a07c
+#EXTINF:-1,U&Drama
+http://176.65.153.4:4007/play/a079
+#EXTINF:-1,U&Drama+1
+http://176.65.153.4:4007/play/a07b
+#EXTINF:-1,U&Eden
+http://176.65.153.4:4007/play/a075
+#EXTINF:-1,U&W
+http://176.65.153.4:4007/play/a078
+#EXTINF:-1,U&W+1
+http://176.65.153.4:4007/play/a07a
+#EXTINF:-1,U&Yesterday
+http://176.65.153.4:4007/play/a076
+#EXTINF:-1,U&Yesterday+1
+http://176.65.153.4:4007/play/a07d
+#EXTINF:-1,W
+http://176.65.153.4:4007/play/a06g
+#EXTINF:-1,W+1
+http://176.65.153.4:4007/play/a06i
+#EXTINF:-1,YESTERDAY
+http://176.65.153.4:4007/play/a06e
+#EXTINF:-1,YESTERDAY+1
+http://176.65.153.4:4007/play/a06m
+
+
+
 
 
 

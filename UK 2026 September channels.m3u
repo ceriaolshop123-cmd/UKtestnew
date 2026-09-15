@@ -209,6 +209,18 @@ http://176.65.153.4:4005/play/a06g
 
 
 
+#EXTM3U
+#EXTINF:-1,Bloomberg HD
+http://176.65.153.4:4006/play/a06c
+#EXTINF:-1,CNN HD
+http://176.65.153.4:4006/play/a06d
+#EXTINF:-1,GB News HD
+http://176.65.153.4:4006/play/a06a
+#EXTINF:-1,LoveWorld HD
+http://176.65.153.4:4006/play/a06b
+
+
+
 
 
 

@@ -353,6 +353,28 @@ http://92.114.85.87:8014/play/a00g
 
 
 
+#EXTM3U
+#EXTINF:-1 group-title="-",PL | AXN HD
+http://92.114.85.87:8015/play/a00f
+#EXTINF:-1 group-title="-",PL | CI POLSAT HD
+http://92.114.85.87:8015/play/a00d
+#EXTINF:-1 group-title="-",PL | CINEMAX 2 HD
+http://92.114.85.87:8015/play/a009
+#EXTINF:-1 group-title="-",PL | FX COMEDY HD
+http://92.114.85.87:8015/play/a004
+#EXTINF:-1 group-title="-",PL | FX HD
+http://92.114.85.87:8015/play/a00a
+#EXTINF:-1 group-title="-",PL | HISTORY HD
+http://92.114.85.87:8015/play/a00c
+#EXTINF:-1 group-title="-",PL | POLSAT DOKU HD
+http://92.114.85.87:8015/play/a007
+#EXTINF:-1 group-title="-",PL | TVP 2 HD
+http://92.114.85.87:8015/play/a00b
+#EXTINF:-1 group-title="-",PL | VIASAT HISTORY HD
+http://92.114.85.87:8015/play/a005
+
+
+
 
 
 

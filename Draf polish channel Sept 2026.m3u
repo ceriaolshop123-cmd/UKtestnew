@@ -449,6 +449,26 @@ http://92.114.85.87:8018/play/a00e
 
 
 
+#EXTM3U
+#EXTINF:-1 group-title="-",PL | BBC EARTH HD
+http://92.114.85.87:8019/play/a005
+#EXTINF:-1 group-title="-",PL | BBC FIRST HD
+http://92.114.85.87:8019/play/a004
+#EXTINF:-1 group-title="-",PL | CANAL+ 360 HD
+http://92.114.85.87:8019/play/a003
+#EXTINF:-1 group-title="-",PL | CANAL+ DOMO HD
+http://92.114.85.87:8019/play/a008
+#EXTINF:-1 group-title="-",PL | CANAL+ KUCHNIA HD
+http://92.114.85.87:8019/play/a009
+#EXTINF:-1 group-title="-",PL | TVP HD
+http://92.114.85.87:8019/play/a006
+#EXTINF:-1 group-title="-",PL | TVP INFO HD
+http://92.114.85.87:8019/play/a007
+#EXTINF:-1 group-title="-",PL | TVP SERIALE HD
+http://92.114.85.87:8019/play/a00a
+
+
+
 
 
 

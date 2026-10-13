@@ -150,6 +150,20 @@ http://92.114.85.87:8005/play/a008
 
 
 
+#EXTM3U
+#EXTINF:-1 group-title="-",PL | ALE KINO+ HD
+http://92.114.85.87:8006/play/a004
+#EXTINF:-1 group-title="-",PL | CANAL+ NOW HD
+http://92.114.85.87:8006/play/a005
+#EXTINF:-1 group-title="-",PL | MINIMINI+ HD
+http://92.114.85.87:8006/play/a00b
+#EXTINF:-1 group-title="-",PL | NAT GEO HD
+http://92.114.85.87:8006/play/a00a
+#EXTINF:-1 group-title="-",PL | TVP KULTURA HD
+http://92.114.85.87:8006/play/a007
+
+
+
 
 
 

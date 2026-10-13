@@ -267,6 +267,34 @@ http://92.114.85.87:8010/play/a00a
 
 
 
+#EXTM3U
+#EXTINF:-1 group-title="-",PL | FOOD NETWORK HD
+http://92.114.85.87:8011/play/a00e
+#EXTINF:-1 group-title="-",PL | METRO HD
+http://92.114.85.87:8011/play/a009
+#EXTINF:-1 group-title="-",PL | TRAVEL CHANNEL HD
+http://92.114.85.87:8011/play/a00d
+#EXTINF:-1 group-title="-",PL | TTV HD
+http://92.114.85.87:8011/play/a00c
+#EXTINF:-1 group-title="-",PL | TVN 24 HD
+http://92.114.85.87:8011/play/a007
+#EXTINF:-1 group-title="-",PL | TVN 7 HD
+http://92.114.85.87:8011/play/a008
+#EXTINF:-1 group-title="-",PL | TVN FABULA HD
+http://92.114.85.87:8011/play/a00b
+#EXTINF:-1 group-title="-",PL | TVN HD
+http://92.114.85.87:8011/play/a004
+#EXTINF:-1 group-title="-",PL | TVN STYLE HD
+http://92.114.85.87:8011/play/a005
+#EXTINF:-1 group-title="-",PL | TVN TURBO HD
+http://92.114.85.87:8011/play/a006
+#EXTINF:-1 group-title="-",PL | WARNER TV HD
+http://92.114.85.87:8011/play/a00a
+
+
+
+
+
 
 
 

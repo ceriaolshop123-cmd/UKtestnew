@@ -23,3 +23,40 @@ http://92.114.85.87:8000/play/a009
 http://92.114.85.87:8000/play/a00f
 
 
+
+#EXTM3U
+#EXTINF:-1 group-title="-",PL | 4FUN DANCE
+http://92.114.85.87:8001/play/a00w
+#EXTINF:-1 group-title="-",PL | 4FUN KIDS
+http://92.114.85.87:8001/play/a00v
+#EXTINF:-1 group-title="-",PL | 4FUN TV
+http://92.114.85.87:8001/play/a00u
+#EXTINF:-1 group-title="-",PL | ESKA TV HD
+http://92.114.85.87:8001/play/a011
+#EXTINF:-1 group-title="-",PL | FILMBOX+ FESTIVAL HD
+http://92.114.85.87:8001/play/a00t
+#EXTINF:-1 group-title="-",PL | FOKUS TV HD
+http://92.114.85.87:8001/play/a012
+#EXTINF:-1 group-title="-",PL | NOWA TV
+http://92.114.85.87:8001/play/a013
+#EXTINF:-1 group-title="-",PL | POLSAT GAMES HD
+http://92.114.85.87:8001/play/a00q
+#EXTINF:-1 group-title="-",PL | POLSAT MUSIC HD
+http://92.114.85.87:8001/play/a00z
+#EXTINF:-1 group-title="-",PL | STARS.TV
+http://92.114.85.87:8001/play/a00o
+#EXTINF:-1 group-title="-",PL | STOPKLATKA
+http://92.114.85.87:8001/play/a00n
+#EXTINF:-1 group-title="-",PL | TV REPLUBIKA
+http://92.114.85.87:8001/play/a00s
+#EXTINF:-1 group-title="-",PL | VIASAT EPIC DRAMA
+http://92.114.85.87:8001/play/a00x
+#EXTINF:-1 group-title="-",PL | WPOLSCE24
+http://92.114.85.87:8001/play/a00m
+#EXTINF:-1 group-title="-",PL | ZOOM
+http://92.114.85.87:8001/play/a00y
+
+
+
+
+

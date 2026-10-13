@@ -334,5 +334,16 @@ https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(4s)/manifest.mpd
 #EXTINF:-1, Bloomberg TV+ US
 https://www.bloomberg.com/media-manifest/streams/phoenix-us.m3u8
 
+#EXTINF:0,BBC1
+http://192.142.9.48:88/BBC1/index.m3u8
+#EXTINF:0,BBC2
+http://192.142.9.48:88/BBC2/index.m3u8
+#EXTINF:0,Channel5
+http://192.142.9.48:88/Channel5/index.m3u8
+#EXTINF:0,ITV1
+http://192.142.9.48:88/ITV1/index.m3u8
+#EXTINF:0,MUTV
+http://192.142.9.48:88/MUTV/index.m3u8
+
 
 

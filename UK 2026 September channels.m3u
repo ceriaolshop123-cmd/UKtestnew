@@ -347,3 +347,22 @@ http://192.142.9.48:88/MUTV/index.m3u8
 
 
 
+
+#EXTINF:0,RTE One
+http://41.180.140.146:4200/bysid/2101
+#EXTINF:0,RTE2 +1
+http://41.180.140.146:4200/bysid/2102
+#EXTINF:0,Virgin Media 3
+http://41.180.140.146:4200/bysid/2103
+#EXTINF:0,Virgin Media 4
+http://41.180.140.146:4200/bysid/2107
+#EXTINF:0,RTE One +1
+http://41.180.140.146:4200/bysid/2111
+#EXTINF:0,Cula4
+http://41.180.140.146:4200/bysid/2106
+#EXTINF:0,Sky News
+http://41.180.140.146:4200/bysid/2118
+
+
+
+

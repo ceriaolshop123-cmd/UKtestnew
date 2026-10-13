@@ -3193,6 +3193,41 @@ http://92.114.85.52:1453/play/a01l
 
 
 
+#EXTINF:0,ANIMAL_PLANET
+http://200.32.231.178/ANIMAL_PLANET/index.m3u8
+#EXTINF:0,BBC_World_News
+http://200.32.231.178/BBC_World_News/index.m3u8
+#EXTINF:0,cnbc
+http://200.32.231.178/cnbc/index.m3u8
+#EXTINF:0,comedy_central
+http://200.32.231.178/comedy_central/index.m3u8
+#EXTINF:0,DISCOVERY
+http://200.32.231.178/DISCOVERY/index.m3u8
+#EXTINF:0,ESPN
+http://200.32.231.178/ESPN/index.m3u8
+#EXTINF:0,Fox
+http://200.32.231.178/Fox/index.m3u8
+#EXTINF:0,mtv
+http://200.32.231.178/mtv/index.m3u8
+#EXTINF:0,nickelodeon
+http://200.32.231.178/nickelodeon/index.m3u8
+#EXTINF:0,TBS
+http://200.32.231.178/TBS/index.m3u8
+#EXTINF:0,ABC
+http://200.32.231.178/ABC/index.m3u8
+#EXTINF:0,NBC
+http://200.32.231.178/NBC/index.m3u8
+#EXTINF:0,CBS
+http://200.32.231.178/CBS/index.m3u8
+#EXTINF:0,PBS
+http://200.32.231.178/PBS/index.m3u8
+
+
+
+
+
+
+
 
 
 

@@ -1,480 +1,152 @@
 #EXTM3U
-#EXTINF:-1 group-title="-",PL | BBC Earth HD
-http://92.114.85.87:8000/play/a00g
-#EXTINF:-1 group-title="-",PL | BBC FIRST HD
-http://92.114.85.87:8000/play/a005
-#EXTINF:-1 group-title="-",PL | BLUE HUSTLER
-http://92.114.85.87:8000/play/a00d
-#EXTINF:-1 group-title="-",PL | CANAL+ 360 HD
-http://92.114.85.87:8000/play/a004
-#EXTINF:-1 group-title="-",PL | CANAL+ DOMO HD
-http://92.114.85.87:8000/play/a00a
-#EXTINF:-1 group-title="-",PL | CANAL+ KUCHNIA HD
-http://92.114.85.87:8000/play/a00b
-#EXTINF:-1 group-title="-",PL | HUSTLER HD
-http://92.114.85.87:8000/play/a00c
-#EXTINF:-1 group-title="-",PL | PRIVATE HD
-http://92.114.85.87:8000/play/a00e
-#EXTINF:-1 group-title="-",PL | TVP HD
-http://92.114.85.87:8000/play/a008
-#EXTINF:-1 group-title="-",PL | TVP INFO HD
-http://92.114.85.87:8000/play/a009
-#EXTINF:-1 group-title="-",PL | TVP SERIALE HD
-http://92.114.85.87:8000/play/a00f
-
-
-
-#EXTM3U
-#EXTINF:-1 group-title="-",PL | 4FUN DANCE
-http://92.114.85.87:8001/play/a00w
-#EXTINF:-1 group-title="-",PL | 4FUN KIDS
-http://92.114.85.87:8001/play/a00v
-#EXTINF:-1 group-title="-",PL | 4FUN TV
-http://92.114.85.87:8001/play/a00u
-#EXTINF:-1 group-title="-",PL | ESKA TV HD
-http://92.114.85.87:8001/play/a011
-#EXTINF:-1 group-title="-",PL | FILMBOX+ FESTIVAL HD
-http://92.114.85.87:8001/play/a00t
-#EXTINF:-1 group-title="-",PL | FOKUS TV HD
-http://92.114.85.87:8001/play/a012
-#EXTINF:-1 group-title="-",PL | NOWA TV
-http://92.114.85.87:8001/play/a013
-#EXTINF:-1 group-title="-",PL | POLSAT GAMES HD
-http://92.114.85.87:8001/play/a00q
-#EXTINF:-1 group-title="-",PL | POLSAT MUSIC HD
-http://92.114.85.87:8001/play/a00z
-#EXTINF:-1 group-title="-",PL | STARS.TV
-http://92.114.85.87:8001/play/a00o
-#EXTINF:-1 group-title="-",PL | STOPKLATKA
-http://92.114.85.87:8001/play/a00n
-#EXTINF:-1 group-title="-",PL | TV REPLUBIKA
-http://92.114.85.87:8001/play/a00s
-#EXTINF:-1 group-title="-",PL | VIASAT EPIC DRAMA
-http://92.114.85.87:8001/play/a00x
-#EXTINF:-1 group-title="-",PL | WPOLSCE24
-http://92.114.85.87:8001/play/a00m
-#EXTINF:-1 group-title="-",PL | ZOOM
-http://92.114.85.87:8001/play/a00y
-
-
-
-
-#EXTM3U
-#EXTINF:-1 group-title="-",PL | CANAL+ 1 HD
-http://92.114.85.87:8002/play/a003
-#EXTINF:-1 group-title="-",PL | CANAL+ DOKUMENT HD
-http://92.114.85.87:8002/play/a006
-#EXTINF:-1 group-title="-",PL | CANAL+ SERIALE HD
-http://92.114.85.87:8002/play/a005
-#EXTINF:-1 group-title="-",PL | ELEVEN SPORTS 1 HD
-http://92.114.85.87:8002/play/a00e
-#EXTINF:-1 group-title="-",PL | ELEVEN SPORTS 2 HD
-http://92.114.85.87:8002/play/a00f
-#EXTINF:-1 group-title="-",PL | ELEVEN SPORTS 3 HD
-http://92.114.85.87:8002/play/a00g
-#EXTINF:-1 group-title="-",PL | ELEVEN SPORTS 4 HD
-http://92.114.85.87:8002/play/a00h
-#EXTINF:-1 group-title="-",PL | MOTOWIZJA HD
-http://92.114.85.87:8002/play/a004
-#EXTINF:-1 group-title="-",PL | PULS 2 HD
-http://92.114.85.87:8002/play/a00a
-#EXTINF:-1 group-title="-",PL | TV PULS HD
-http://92.114.85.87:8002/play/a00c
-#EXTINF:-1 group-title="-",PL | TVP ABC
-http://92.114.85.87:8002/play/a00b
-#EXTINF:-1 group-title="-",PL | TVP HISTORIA HD
-http://92.114.85.87:8002/play/a00d
-#EXTINF:-1 group-title="-",PL | TVP SERIALE HD
-http://92.114.85.87:8002/play/a009
-#EXTINF:-1 group-title="-",PL | WP HD
-http://92.114.85.87:8002/play/a008
-
-
-
-#EXTM3U
-#EXTINF:-1 group-title="-",PL | 13 ULICA HD
-http://92.114.85.87:8003/play/a00c
-#EXTINF:-1 group-title="-",PL | E! ENTERTAINMENT HD
-http://92.114.85.87:8003/play/a005
-#EXTINF:-1 group-title="-",PL | FIGHTBOX HD
-http://92.114.85.87:8003/play/a00b
-#EXTINF:-1 group-title="-",PL | GOLF ZONE HD
-http://92.114.85.87:8003/play/a00a
-#EXTINF:-1 group-title="-",PL | HISTORY 2 HD
-http://92.114.85.87:8003/play/a009
-#EXTINF:-1 group-title="-",PL | SCIFI HD
-http://92.114.85.87:8003/play/a007
-#EXTINF:-1 group-title="-",PL | SUNDANCE HD
-http://92.114.85.87:8003/play/a004
-
-
-
-#EXTM3U
-#EXTINF:-1 group-title="-",PL | POLSAT 2 HD
-http://92.114.85.87:8004/play/a00b
-#EXTINF:-1 group-title="-",PL | POLSAT CAFE HD
-http://92.114.85.87:8004/play/a008
-#EXTINF:-1 group-title="-",PL | POLSAT FILM HD
-http://92.114.85.87:8004/play/a009
-#EXTINF:-1 group-title="-",PL | POLSAT HD
-http://92.114.85.87:8004/play/a004
-#EXTINF:-1 group-title="-",PL | POLSAT NEWS 2 HD
-http://92.114.85.87:8004/play/a003
-#EXTINF:-1 group-title="-",PL | POLSAT NEWS HD
-http://92.114.85.87:8004/play/a00a
-#EXTINF:-1 group-title="-",PL | POLSAT PLAY HD
-http://92.114.85.87:8004/play/a005
-#EXTINF:-1 group-title="-",PL | SUPER POLSAT HD
-http://92.114.85.87:8004/play/a00c
-#EXTINF:-1 group-title="-",PL | TV4 HD
-http://92.114.85.87:8004/play/a006
-#EXTINF:-1 group-title="-",PL | TV6 HD
-http://92.114.85.87:8004/play/a007
-
-
-
-#EXTM3U
-#EXTINF:-1 group-title="-",PL | ANIMAL PLANET HD
-http://92.114.85.87:8005/play/a003
-#EXTINF:-1 group-title="-",PL | EUROSPORT 1 HD
-http://92.114.85.87:8005/play/a004
-#EXTINF:-1 group-title="-",PL | EUROSPORT 2 HD
-http://92.114.85.87:8005/play/a005
-#EXTINF:-1 group-title="-",PL | INVESTIGATION DISCOVERY HD
-http://92.114.85.87:8005/play/a006
-#EXTINF:-1 group-title="-",PL | SCIENCE POLAND HD
-http://92.114.85.87:8005/play/a007
-#EXTINF:-1 group-title="-",PL | TURBO XTRA HD
-http://92.114.85.87:8005/play/a008
-
-
-
-
-#EXTM3U
-#EXTINF:-1 group-title="-",PL | ALE KINO+ HD
-http://92.114.85.87:8006/play/a004
-#EXTINF:-1 group-title="-",PL | CANAL+ NOW HD
-http://92.114.85.87:8006/play/a005
-#EXTINF:-1 group-title="-",PL | MINIMINI+ HD
-http://92.114.85.87:8006/play/a00b
-#EXTINF:-1 group-title="-",PL | NAT GEO HD
-http://92.114.85.87:8006/play/a00a
-#EXTINF:-1 group-title="-",PL | TVP KULTURA HD
-http://92.114.85.87:8006/play/a007
-
-
-
-
-
-#EXTM3U
-#EXTINF:-1 group-title="-",PL | CARTOON NETWORK HD
-http://92.114.85.87:8007/play/a009
-#EXTINF:-1 group-title="-",PL | CARTOONITO HD
-http://92.114.85.87:8007/play/a008
-#EXTINF:-1 group-title="-",PL | DISCOVERY HD
-http://92.114.85.87:8007/play/a004
-#EXTINF:-1 group-title="-",PL | DISCOVERY LIFE HD
-http://92.114.85.87:8007/play/a007
-#EXTINF:-1 group-title="-",PL | HGTV HD
-http://92.114.85.87:8007/play/a00b
-#EXTINF:-1 group-title="-",PL | HISTORIA HD
-http://92.114.85.87:8007/play/a006
-#EXTINF:-1 group-title="-",PL | TLC HD
-http://92.114.85.87:8007/play/a005
-#EXTINF:-1 group-title="-",PL | TVN24 BiS HD
-http://92.114.85.87:8007/play/a00a
-
-
-
-#EXTM3U
-#EXTINF:-1 group-title="-",PL | FILMBOX+ ACTION HD
-http://92.114.85.87:8008/play/a007
-#EXTINF:-1 group-title="-",PL | FILMBOX+ COMEDY HD
-http://92.114.85.87:8008/play/a009
-#EXTINF:-1 group-title="-",PL | FILMBOX+ EMOTION HD
-http://92.114.85.87:8008/play/a008
-#EXTINF:-1 group-title="-",PL | FILMBOX+ HITS HD
-http://92.114.85.87:8008/play/a00a
-#EXTINF:-1 group-title="-",PL | FILMBOX+ ONE HD
-http://92.114.85.87:8008/play/a00b
-#EXTINF:-1 group-title="-",PL | KINO POLSKA HD
-http://92.114.85.87:8008/play/a005
-#EXTINF:-1 group-title="-",PL | KINO POLSKA MUZYKA HD
-http://92.114.85.87:8008/play/a006
-
-
-
-
-#EXTM3U
-#EXTINF:-1 group-title="-",PL | CINEMAX HD
-http://92.114.85.87:8009/play/a008
-#EXTINF:-1 group-title="-",PL | NOVELAS+ HD
-http://92.114.85.87:8009/play/a005
-#EXTINF:-1 group-title="-",PL | PLANETE+ HD
-http://92.114.85.87:8009/play/a004
-#EXTINF:-1 group-title="-",PL | ROMANCE TV HD
-http://92.114.85.87:8009/play/a00a
-#EXTINF:-1 group-title="-",PL | TELETOON+ HD
-http://92.114.85.87:8009/play/a006
-#EXTINF:-1 group-title="-",PL | TVP 1 HD
-http://92.114.85.87:8009/play/a009
-#EXTINF:-1 group-title="-",PL | TVP SPORT HD
-http://92.114.85.87:8009/play/a007
-
-
-
-
-#EXTM3U
-#EXTINF:-1 group-title="-",PL | ACTIVE FAMILY
-http://92.114.85.87:8010/play/a00p
-#EXTINF:-1 group-title="-",PL | ADVENTURE HD
-http://92.114.85.87:8010/play/a00f
-#EXTINF:-1 group-title="-",PL | AMC HD
-http://92.114.85.87:8010/play/a00d
-#EXTINF:-1 group-title="-",PL | ANTENA HD
-http://92.114.85.87:8010/play/a00g
-#EXTINF:-1 group-title="-",PL | AXN SPIN HD
-http://92.114.85.87:8010/play/a00b
-#EXTINF:-1 group-title="-",PL | HBO2 HD
-http://92.114.85.87:8010/play/a004
-#EXTINF:-1 group-title="-",PL | HBO3 HD
-http://92.114.85.87:8010/play/a007
-#EXTINF:-1 group-title="-",PL | HOME TV
-http://92.114.85.87:8010/play/a00h
-#EXTINF:-1 group-title="-",PL | NAT GEO WILD HD
-http://92.114.85.87:8010/play/a005
-#EXTINF:-1 group-title="-",PL | NUTA GOLD
-http://92.114.85.87:8010/play/a00i
-#EXTINF:-1 group-title="-",PL | NUTA TV
-http://92.114.85.87:8010/play/a00j
-#EXTINF:-1 group-title="-",PL | POWER TV
-http://92.114.85.87:8010/play/a00k
-#EXTINF:-1 group-title="-",PL | SZLAGIER TV
-http://92.114.85.87:8010/play/a00l
-#EXTINF:-1 group-title="-",PL | TEENNICK
-http://92.114.85.87:8010/play/a009
-#EXTINF:-1 group-title="-",PL | TVC
-http://92.114.85.87:8010/play/a00m
-#EXTINF:-1 group-title="-",PL | TVC SUPER
-http://92.114.85.87:8010/play/a00n
-#EXTINF:-1 group-title="-",PL | TVP 3
-http://92.114.85.87:8010/play/a006
-#EXTINF:-1 group-title="-",PL | TVS
-http://92.114.85.87:8010/play/a00e
-#EXTINF:-1 group-title="-",PL | VIASAT TRUE CRIME HD
-http://92.114.85.87:8010/play/a00a
-
-
-
-
-#EXTM3U
-#EXTINF:-1 group-title="-",PL | FOOD NETWORK HD
-http://92.114.85.87:8011/play/a00e
-#EXTINF:-1 group-title="-",PL | METRO HD
-http://92.114.85.87:8011/play/a009
-#EXTINF:-1 group-title="-",PL | TRAVEL CHANNEL HD
-http://92.114.85.87:8011/play/a00d
-#EXTINF:-1 group-title="-",PL | TTV HD
-http://92.114.85.87:8011/play/a00c
-#EXTINF:-1 group-title="-",PL | TVN 24 HD
-http://92.114.85.87:8011/play/a007
-#EXTINF:-1 group-title="-",PL | TVN 7 HD
-http://92.114.85.87:8011/play/a008
-#EXTINF:-1 group-title="-",PL | TVN FABULA HD
-http://92.114.85.87:8011/play/a00b
-#EXTINF:-1 group-title="-",PL | TVN HD
-http://92.114.85.87:8011/play/a004
-#EXTINF:-1 group-title="-",PL | TVN STYLE HD
-http://92.114.85.87:8011/play/a005
-#EXTINF:-1 group-title="-",PL | TVN TURBO HD
-http://92.114.85.87:8011/play/a006
-#EXTINF:-1 group-title="-",PL | WARNER TV HD
-http://92.114.85.87:8011/play/a00a
-
-
-
-#EXTM3U
-#EXTINF:-1 group-title="-",PL | POLONIA 1
-http://92.114.85.87:8012/play/a006
-#EXTINF:-1 group-title="-",PL | REDLIGHT HD
-http://92.114.85.87:8012/play/a004
-#EXTINF:-1 group-title="-",PL | TELE 5
-http://92.114.85.87:8012/play/a005
-
-
-
-
-#EXTM3U
-#EXTINF:-1 group-title="-",PL | COMEDY CENTRAL HD
-http://92.114.85.87:8013/play/a006
-#EXTINF:-1 group-title="-",PL | COMEDY CENTRAL XTRA HD
-http://92.114.85.87:8013/play/a00a
-#EXTINF:-1 group-title="-",PL | MTV POLSKA HD
-http://92.114.85.87:8013/play/a009
-#EXTINF:-1 group-title="-",PL | NICK JR
-http://92.114.85.87:8013/play/a004
-#EXTINF:-1 group-title="-",PL | NICKELODEON HD
-http://92.114.85.87:8013/play/a005
-#EXTINF:-1 group-title="-",PL | NICKTOONS HD
-http://92.114.85.87:8013/play/a008
-#EXTINF:-1 group-title="-",PL | PARAMOUNT NETWORK HD
-http://92.114.85.87:8013/play/a007
-
-
-
-
-
-#EXTM3U
-#EXTINF:-1 group-title="-",PL | AXN BLACK
-http://92.114.85.87:8014/play/a00h
-#EXTINF:-1 group-title="-",PL | AXN WHITE
-http://92.114.85.87:8014/play/a004
-#EXTINF:-1 group-title="-",PL | DISCO POLO MUSIC
-http://92.114.85.87:8014/play/a007
-#EXTINF:-1 group-title="-",PL | DISNEY CHANNEL HD
-http://92.114.85.87:8014/play/a00c
-#EXTINF:-1 group-title="-",PL | DISNEY XD
-http://92.114.85.87:8014/play/a00b
-#EXTINF:-1 group-title="-",PL | NEWSMAX
-http://92.114.85.87:8014/play/a006
-#EXTINF:-1 group-title="-",PL | POLSAT JIM JAM
-http://92.114.85.87:8014/play/a00d
-#EXTINF:-1 group-title="-",PL | POLSAT NEWS POLITYKA HD
-http://92.114.85.87:8014/play/a00e
-#EXTINF:-1 group-title="-",PL | POLSAT RODZINA HD
-http://92.114.85.87:8014/play/a00i
-#EXTINF:-1 group-title="-",PL | POLSAT SERIALE HD
-http://92.114.85.87:8014/play/a00a
-#EXTINF:-1 group-title="-",PL | TV OKAZJE
-http://92.114.85.87:8014/play/a008
-#EXTINF:-1 group-title="-",PL | VIASAT EXPLORE HD
-http://92.114.85.87:8014/play/a00g
-
-
-
-
-#EXTM3U
-#EXTINF:-1 group-title="-",PL | AXN HD
-http://92.114.85.87:8015/play/a00f
-#EXTINF:-1 group-title="-",PL | CI POLSAT HD
-http://92.114.85.87:8015/play/a00d
-#EXTINF:-1 group-title="-",PL | CINEMAX 2 HD
-http://92.114.85.87:8015/play/a009
-#EXTINF:-1 group-title="-",PL | FX COMEDY HD
-http://92.114.85.87:8015/play/a004
-#EXTINF:-1 group-title="-",PL | FX HD
-http://92.114.85.87:8015/play/a00a
-#EXTINF:-1 group-title="-",PL | HISTORY HD
-http://92.114.85.87:8015/play/a00c
-#EXTINF:-1 group-title="-",PL | POLSAT DOKU HD
-http://92.114.85.87:8015/play/a007
-#EXTINF:-1 group-title="-",PL | TVP 2 HD
-http://92.114.85.87:8015/play/a00b
-#EXTINF:-1 group-title="-",PL | VIASAT HISTORY HD
-http://92.114.85.87:8015/play/a005
-
-
-
-
-#EXTM3U
-#EXTINF:-1 group-title="-",PL | DISNEY JUNIOR HD
-http://92.114.85.87:8016/play/a00d
-#EXTINF:-1 group-title="-",PL | ESKA ROCK HD
-http://92.114.85.87:8016/play/a005
-#EXTINF:-1 group-title="-",PL | ESKA TV EXTRA HD
-http://92.114.85.87:8016/play/a008
-#EXTINF:-1 group-title="-",PL | EXTREME SPORTS HD
-http://92.114.85.87:8016/play/a006
-#EXTINF:-1 group-title="-",PL | HBO HD
-http://92.114.85.87:8016/play/a009
-#EXTINF:-1 group-title="-",PL | NAT GEO PEOPLE HD
-http://92.114.85.87:8016/play/a003
-#EXTINF:-1 group-title="-",PL | POLSAT SPORT FIGHT HD
-http://92.114.85.87:8016/play/a00b
-#EXTINF:-1 group-title="-",PL | VIASAT NATURE HD
-http://92.114.85.87:8016/play/a004
-#EXTINF:-1 group-title="-",PL | VOX MUSIC TV HD
-http://92.114.85.87:8016/play/a00a
-#EXTINF:-1 group-title="-",PL | WYDARZENIA 24 HD
-http://92.114.85.87:8016/play/a007
-
-
-
-#EXTM3U
-#EXTINF:-1 group-title="-",PL | BBC BRIT HD
-http://92.114.85.87:8017/play/a003
-#EXTINF:-1 group-title="-",PL | BBC CBEEBIES
-http://92.114.85.87:8017/play/a004
-#EXTINF:-1 group-title="-",PL | BBC LIFESTYLE HD
-http://92.114.85.87:8017/play/a005
-
-
-
-
-#EXTM3U
-#EXTINF:-1 group-title="-",PL | 4FUN DANCE
-http://92.114.85.87:8018/play/a00k
-#EXTINF:-1 group-title="-",PL | 4FUN KIDS
-http://92.114.85.87:8018/play/a00b
-#EXTINF:-1 group-title="-",PL | 4FUN TV
-http://92.114.85.87:8018/play/a00a
-#EXTINF:-1 group-title="-",PL | ESKA TV HD
-http://92.114.85.87:8018/play/a00h
-#EXTINF:-1 group-title="-",PL | FILMBOX+ FESTIVAL HD
-http://92.114.85.87:8018/play/a009
-#EXTINF:-1 group-title="-",PL | FOKUS TV HD
-http://92.114.85.87:8018/play/a00i
-#EXTINF:-1 group-title="-",PL | NOWA TV HD
-http://92.114.85.87:8018/play/a00j
-#EXTINF:-1 group-title="-",PL | POLO TV HD
-http://92.114.85.87:8018/play/a00g
-#EXTINF:-1 group-title="-",PL | POLSAT GAMES HD
-http://92.114.85.87:8018/play/a006
-#EXTINF:-1 group-title="-",PL | POLSAT MUSIC HD
-http://92.114.85.87:8018/play/a00f
-#EXTINF:-1 group-title="-",PL | STARS.TV
-http://92.114.85.87:8018/play/a005
-#EXTINF:-1 group-title="-",PL | STOPKLATKA
-http://92.114.85.87:8018/play/a004
-#EXTINF:-1 group-title="-",PL | TV REPUBLIKA 
-http://92.114.85.87:8018/play/a008
-#EXTINF:-1 group-title="-",PL | TVP ROZRYWKA
-http://92.114.85.87:8018/play/a007
-#EXTINF:-1 group-title="-",PL | VIASAT EPIC DRAMA HD
-http://92.114.85.87:8018/play/a00d
-#EXTINF:-1 group-title="-",PL | WPOLSCE24
-http://92.114.85.87:8018/play/a003
-#EXTINF:-1 group-title="-",PL | ZOOM
-http://92.114.85.87:8018/play/a00e
-
-
-
-#EXTM3U
-#EXTINF:-1 group-title="-",PL | BBC EARTH HD
-http://92.114.85.87:8019/play/a005
-#EXTINF:-1 group-title="-",PL | BBC FIRST HD
-http://92.114.85.87:8019/play/a004
-#EXTINF:-1 group-title="-",PL | CANAL+ 360 HD
-http://92.114.85.87:8019/play/a003
-#EXTINF:-1 group-title="-",PL | CANAL+ DOMO HD
-http://92.114.85.87:8019/play/a008
-#EXTINF:-1 group-title="-",PL | CANAL+ KUCHNIA HD
-http://92.114.85.87:8019/play/a009
-#EXTINF:-1 group-title="-",PL | TVP HD
-http://92.114.85.87:8019/play/a006
-#EXTINF:-1 group-title="-",PL | TVP INFO HD
-http://92.114.85.87:8019/play/a007
-#EXTINF:-1 group-title="-",PL | TVP SERIALE HD
-http://92.114.85.87:8019/play/a00a
-
-
-
-
-
-
-
-
-
+#EXTINF:-1 group-title="-",24hnews
+http://185.228.163.146:8000/play/a02q
+#EXTINF:-1 group-title="-",AR TV
+http://185.228.163.146:8000/play/a01r
+#EXTINF:-1 group-title="-",AXN HD
+http://185.228.163.146:8000/play/a02d
+#EXTINF:-1 group-title="-",Al Jazeera English
+http://185.228.163.146:8000/play/a00l
+#EXTINF:-1 group-title="-",BBC WORLD
+http://185.228.163.146:8000/play/a00d
+#EXTINF:-1 group-title="-",BMC
+http://185.228.163.146:8000/play/a02k
+#EXTINF:-1 group-title="-",BMC News Trascoded
+http://185.228.163.146:8000/play/a04b
+#EXTINF:-1 group-title="-",Bloomberg
+http://185.228.163.146:8000/play/a03m
+#EXTINF:-1 group-title="-",Borafilmes
+http://185.228.163.146:8000/play/a02x
+#EXTINF:-1 group-title="-",C Music
+http://185.228.163.146:8000/play/a00h
+#EXTINF:-1 group-title="-",CANAL 11 HD
+http://185.228.163.146:8000/play/a00z
+#EXTINF:-1 group-title="-",CINEMUNDO HD
+http://185.228.163.146:8000/play/a02a
+#EXTINF:-1 group-title="-",CNBC
+http://185.228.163.146:8000/play/a00e
+#EXTINF:-1 group-title="-",CNN HD
+http://185.228.163.146:8000/play/a03i
+#EXTINF:-1 group-title="-",Cartoon Network
+http://185.228.163.146:8000/play/a026
+#EXTINF:-1 group-title="-",Cartoon Network Transcoded
+http://185.228.163.146:8000/play/a043
+#EXTINF:-1 group-title="-",Cartoonito
+http://185.228.163.146:8000/play/a040
+#EXTINF:-1 group-title="-",Cartoonito Transcoded
+http://185.228.163.146:8000/play/a044
+#EXTINF:-1 group-title="-",Clubinho
+http://185.228.163.146:8000/play/a02v
+#EXTINF:-1 group-title="-",Discovery ID
+http://185.228.163.146:8000/play/a041
+#EXTINF:-1 group-title="-",Entretendo 
+http://185.228.163.146:8000/play/a02y
+#EXTINF:-1 group-title="-",Euronews ENG
+http://185.228.163.146:8000/play/a03x
+#EXTINF:-1 group-title="-",Euronews PT
+http://185.228.163.146:8000/play/a00b
+#EXTINF:-1 group-title="-",Eurosport 2 HD
+http://185.228.163.146:8000/play/a048
+#EXTINF:-1 group-title="-",Eurosport HD
+http://185.228.163.146:8000/play/a03z
+#EXTINF:-1 group-title="-",FASHION TV
+http://185.228.163.146:8000/play/a00u
+#EXTINF:-1 group-title="-",FOOD NETWORK
+http://185.228.163.146:8000/play/a01u
+#EXTINF:-1 group-title="-",FUEL TV HD
+http://185.228.163.146:8000/play/a00a
+#EXTINF:-1 group-title="-",France 24 Fr
+http://185.228.163.146:8000/play/a00o
+#EXTINF:-1 group-title="-",HOLLYWOOD HD
+http://185.228.163.146:8000/play/a029
+#EXTINF:-1 group-title="-",Hello
+http://185.228.163.146:8000/play/a02r
+#EXTINF:-1 group-title="-",Inspire
+http://185.228.163.146:8000/play/a02t
+#EXTINF:-1 group-title="-",MCM TOP HD
+http://185.228.163.146:8000/play/a00g
+#EXTINF:-1 group-title="-",Mosaico
+http://185.228.163.146:8000/play/a02w
+#EXTINF:-1 group-title="-",New SRT call 187.32.65.201:24030
+http://185.228.163.146:8000/play/a02f
+#EXTINF:-1 group-title="-",News Now
+http://185.228.163.146:8000/play/azzz1
+#EXTINF:-1 group-title="-",PANDA
+http://185.228.163.146:8000/play/a027
+#EXTINF:-1 group-title="-",Promessas
+http://185.228.163.146:8000/play/a02u
+#EXTINF:-1 group-title="-",RAI Uno
+http://185.228.163.146:8000/play/a00s
+#EXTINF:-1 group-title="-",RTP 2 HD
+http://185.228.163.146:8000/play/a003
+#EXTINF:-1 group-title="-",RTP 3 HD
+http://185.228.163.146:8000/play/a007
+#EXTINF:-1 group-title="-",RTP N HD
+http://185.228.163.146:8000/play/a03h
+#EXTINF:-1 group-title="-",RTP1 HD
+http://185.228.163.146:8000/play/a002
+#EXTINF:-1 group-title="-",Record News
+http://185.228.163.146:8000/play/a01x
+#EXTINF:-1 group-title="-",Revista Oeste
+http://185.228.163.146:8000/play/a02i
+#EXTINF:-1 group-title="-",Revista Oeste Transcoded
+http://185.228.163.146:8000/play/a04c
+#EXTINF:-1 group-title="-",SIC HD
+http://185.228.163.146:8000/play/a004
+#EXTINF:-1 group-title="-",SIC K
+http://185.228.163.146:8000/play/a030
+#EXTINF:-1 group-title="-",SIC M HD
+http://185.228.163.146:8000/play/a02z
+#EXTINF:-1 group-title="-",SIC N HD
+http://185.228.163.146:8000/play/a00y
+#EXTINF:-1 group-title="-",SKY NEWS
+http://185.228.163.146:8000/play/a01t
+#EXTINF:-1 group-title="-",SRT HALLO_ANIME
+http://185.228.163.146:8000/play/a01e
+#EXTINF:-1 group-title="-",SRT HALLO_CLASSIC
+http://185.228.163.146:8000/play/a018
+#EXTINF:-1 group-title="-",SRT HALLO_DOC
+http://185.228.163.146:8000/play/a01f
+#EXTINF:-1 group-title="-",SRT HALLO_MOVIES
+http://185.228.163.146:8000/play/a01g
+#EXTINF:-1 group-title="-",SRT HALLO_MOVIES2
+http://185.228.163.146:8000/play/a01c
+#EXTINF:-1 group-title="-",SRT HALLO_MUSIC
+http://185.228.163.146:8000/play/a01a
+#EXTINF:-1 group-title="-",SRT HALLO_SERIES
+http://185.228.163.146:8000/play/a01b
+#EXTINF:-1 group-title="-",STAR HD
+http://185.228.163.146:8000/play/a02c
+#EXTINF:-1 group-title="-",STAR Movies HD
+http://185.228.163.146:8000/play/a02b
+#EXTINF:-1 group-title="-",TLC
+http://185.228.163.146:8000/play/a03t
+#EXTINF:-1 group-title="-",TRAVEL
+http://185.228.163.146:8000/play/a024
+#EXTINF:-1 group-title="-",TV Galicia
+http://185.228.163.146:8000/play/a00p
+#EXTINF:-1 group-title="-",TV Record HD
+http://185.228.163.146:8000/play/a01w
+#EXTINF:-1 group-title="-",TV Record HD
+http://185.228.163.146:8000/play/a03j
+#EXTINF:-1 group-title="-",TV5 Monde
+http://185.228.163.146:8000/play/a00r
+#EXTINF:-1 group-title="-",TVC NEWS
+http://185.228.163.146:8000/play/a01s
+#EXTINF:-1 group-title="-",TVE 24h
+http://185.228.163.146:8000/play/a03o
+#EXTINF:-1 group-title="-",TVEi
+http://185.228.163.146:8000/play/a00q
+#EXTINF:-1 group-title="-",TVI HD
+http://185.228.163.146:8000/play/a005
+#EXTINF:-1 group-title="-",TVLITORAL
+http://185.228.163.146:8000/play/a02m
+#EXTINF:-1 group-title="-",Tv Natal
+http://185.228.163.146:8000/play/a01y
+#EXTINF:-1 group-title="-",Upchannel
+http://185.228.163.146:8000/play/a02s
+#EXTINF:-1 group-title="-",life tv
+http://185.228.163.146:8000/play/a02p
 
 
 

@@ -394,3 +394,37 @@ http://176.65.153.52:5003/play/a07m
 
 
 
+#EXTM3U
+#EXTINF:-1,raistoria
+http://102.129.186.182:81/raistoria/index.m3u8
+#EXTINF:-1,raimovie
+http://102.129.186.182:81/raimovie/index.m3u8
+#EXTINF:-1,rai1
+http://102.129.186.182:81/rai1/index.m3u8
+#EXTINF:-1,rai2
+http://102.129.186.182:81/rai2/index.m3u8
+#EXTINF:-1,rai3
+http://102.129.186.182:81/rai3/index.m3u8
+#EXTINF:-1,alice
+http://102.129.186.182:81/alice/index.m3u8
+#EXTINF:-1,alice
+http://102.129.186.182:81/alice/index.m3u8
+#EXTINF:-1,inter
+http://102.129.186.182:81/inter/index.m3u8
+#EXTINF:-1,iris
+http://102.129.186.182:81/iris/index.m3u8t
+#EXTINF:-1,dmax
+http://102.129.186.182:81/dmax/index.m3u8
+#EXTINF:-1,comedy
+http://102.129.186.182:81/comedy/index.m3u8
+#EXTINF:-1,nick
+http://102.129.186.182:81/nick/index.m3u8
+
+
+
+
+
+
+
+
+
